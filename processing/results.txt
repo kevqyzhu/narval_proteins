@@ -1,0 +1,7170 @@
+HIDDEN NODES: 700
+DROP PROB: 0.2
+LEARNING RATE: 0.0003
+EPOCH: 100
+Celecoxib rediscovery: 0.775000
+Troglitazone rediscovery: 0.646465
+Thiothixene rediscovery: 0.633028
+Aripiprazole similarity: 0.870016
+Albuterol similarity: 1.000000
+Mestranol similarity: 0.905934
+C11H24: 0.984343
+C9H10N2O2PF2Cl: 0.806221
+Median molecules 1: 0.375856
+Median molecules 2: 0.363907
+Osimertinib MPO: 0.877785
+Fexofenadine MPO: 0.863834
+Ranolazine MPO: 0.847497
+Perindopril MPO: 0.681261
+Amlodipine MPO: 0.787147
+Sitagliptin MPO: 0.511523
+Zaleplon MPO: 0.564640
+Valsartan SMARTS: 0.879829
+Deco Hop: 0.969849
+Total Score: 14.344/19 
+
+
+HIDDEN NODES: 400
+DROP PROB: 0.2
+LEARNING RATE: 0.0001
+EPOCH: 175
+Total Score: 0.000/0 
+
+
+HIDDEN NODES: 700
+DROP PROB: 0.2
+LEARNING RATE: 0.0005
+EPOCH: 21606701
+Celecoxib rediscovery: 0.707317
+Troglitazone rediscovery: 0.592593
+Thiothixene rediscovery: 0.570175
+Aripiprazole similarity: 0.904701
+Albuterol similarity: 0.988289
+Mestranol similarity: 0.696473
+C11H24: 0.853118
+C9H10N2O2PF2Cl: 0.782374
+Median molecules 1: 0.341776
+Median molecules 2: 0.355836
+Osimertinib MPO: 0.853788
+Fexofenadine MPO: 0.841808
+Ranolazine MPO: 0.815766
+Perindopril MPO: 0.597319
+Amlodipine MPO: 0.735609
+Sitagliptin MPO: 0.519366
+Zaleplon MPO: 0.547798
+Valsartan SMARTS: 0.310844
+Deco Hop: 0.934039
+Total Score: 12.949/19 
+
+
+HIDDEN NODES: 300
+DROP PROB: 0.4
+LEARNING RATE: 0.0006
+EPOCH: 175
+Celecoxib rediscovery: 0.726190
+Troglitazone rediscovery: 0.613445
+Thiothixene rediscovery: 0.629630
+Aripiprazole similarity: 0.887665
+Albuterol similarity: 0.999483
+Mestranol similarity: 0.845330
+C11H24: 0.894855
+C9H10N2O2PF2Cl: 0.792197
+Median molecules 1: 0.359552
+Median molecules 2: 0.353266
+Osimertinib MPO: 0.841280
+Fexofenadine MPO: 0.830088
+Ranolazine MPO: 0.824042
+Perindopril MPO: 0.597713
+Amlodipine MPO: 0.736459
+Sitagliptin MPO: 0.516882
+Zaleplon MPO: 0.547295
+Valsartan SMARTS: 0.792813
+Deco Hop: 0.938122
+Scaffold Hop: 0.847995
+Total Score: 14.574/20 
+
+
+HIDDEN NODES: 400
+DROP PROB: 0.2
+LEARNING RATE: 0.0004
+Celecoxib rediscovery: 0.773810
+Troglitazone rediscovery: 0.854167
+Thiothixene rediscovery: 0.670000
+Aripiprazole similarity: 0.931107
+Albuterol similarity: 1.000000
+Mestranol similarity: 0.870622
+C11H24: 0.980493
+C9H10N2O2PF2Cl: 0.791534
+Median molecules 1: 0.370180
+Median molecules 2: 0.361139
+Osimertinib MPO: 0.854465
+Fexofenadine MPO: 0.881505
+Ranolazine MPO: 0.830753
+Perindopril MPO: 0.658429
+Amlodipine MPO: 0.763081
+Sitagliptin MPO: 0.529439
+Zaleplon MPO: 0.556545
+Valsartan SMARTS: 0.899254
+Total Score: 13.577/18 
+
+
+HIDDEN NODES: 400
+DROP PROB: 0.3
+LEARNING RATE: 0.0004
+EPOCH: 200
+Celecoxib rediscovery: 1.000000
+Troglitazone rediscovery: 0.663366
+Thiothixene rediscovery: 0.853933
+Aripiprazole similarity: 0.923203
+Albuterol similarity: 1.000000
+Mestranol similarity: 0.916418
+C11H24: 0.887070
+C9H10N2O2PF2Cl: 0.793456
+Median molecules 1: 0.398553
+Median molecules 2: 0.360164
+Osimertinib MPO: 0.859849
+Fexofenadine MPO: 0.862816
+Ranolazine MPO: 0.836183
+Perindopril MPO: 0.662463
+Amlodipine MPO: 0.824984
+Sitagliptin MPO: 0.510325
+Zaleplon MPO: 0.558470
+Valsartan SMARTS: 0.941581
+Deco Hop: 0.973922
+Total Score: 14.827/19 
+
+
+HIDDEN NODES: 400
+DROP PROB: 0.2
+LEARNING RATE: 0.0004
+EPOCH: 100
+Celecoxib rediscovery: 0.775000
+Troglitazone rediscovery: 0.676190
+Thiothixene rediscovery: 0.833333
+Aripiprazole similarity: 0.894314
+Albuterol similarity: 1.000000
+Mestranol similarity: 0.869829
+C11H24: 0.896016
+C9H10N2O2PF2Cl: 0.811073
+Median molecules 1: 0.371565
+Median molecules 2: 0.357693
+Osimertinib MPO: 0.856368
+Fexofenadine MPO: 0.858461
+Total Score: 9.200/12 
+
+
+HIDDEN NODES: 500
+DROP PROB: 0.2
+LEARNING RATE: 0.0003
+EPOCH: 200
+Celecoxib rediscovery: 0.734940
+Troglitazone rediscovery: 0.632653
+Thiothixene rediscovery: 0.625000
+Aripiprazole similarity: 0.956018
+Albuterol similarity: 0.999393
+Total Score: 3.948/5 
+
+
+HIDDEN NODES: 700
+DROP PROB: 0.2
+LEARNING RATE: 0.0005
+EPOCH: 21745570
+Celecoxib rediscovery: 0.835443
+Troglitazone rediscovery: 0.607692
+Thiothixene rediscovery: 0.642857
+Aripiprazole similarity: 0.830234
+Albuterol similarity: 0.986870
+Mestranol similarity: 0.713889
+C11H24: 0.843341
+C9H10N2O2PF2Cl: 0.759583
+Median molecules 1: 0.343727
+Median molecules 2: 0.358760
+Osimertinib MPO: 0.848541
+Fexofenadine MPO: 0.853541
+Ranolazine MPO: 0.798088
+Perindopril MPO: 0.584089
+Amlodipine MPO: 0.711684
+Sitagliptin MPO: 0.520370
+Zaleplon MPO: 0.544572
+Valsartan SMARTS: 0.506197
+Deco Hop: 0.932312
+Total Score: 13.222/19 
+
+
+HIDDEN NODES: 1100
+DROP PROB: 0.2
+LEARNING RATE: 0.0004
+EPOCH: 44
+Celecoxib rediscovery: 0.776471
+Troglitazone rediscovery: 0.584746
+Thiothixene rediscovery: 0.712766
+Aripiprazole similarity: 0.883423
+Albuterol similarity: 0.851970
+Mestranol similarity: 0.850364
+C11H24: 0.819859
+C9H10N2O2PF2Cl: 0.820436
+Median molecules 1: 0.355124
+Median molecules 2: 0.357128
+Osimertinib MPO: 0.847390
+Fexofenadine MPO: 0.862219
+Ranolazine MPO: 0.839265
+Perindopril MPO: 0.605589
+Amlodipine MPO: 0.762784
+Sitagliptin MPO: 0.508160
+Zaleplon MPO: 0.558135
+Valsartan SMARTS: 0.654889
+Deco Hop: 0.960412
+Total Score: 13.611/19 
+
+
+HIDDEN NODES: 300
+DROP PROB: 0.4
+LEARNING RATE: 0.0004
+EPOCH: 200
+Celecoxib rediscovery: 0.690476
+Troglitazone rediscovery: 0.587156
+Thiothixene rediscovery: 0.603774
+Aripiprazole similarity: 0.915882
+Albuterol similarity: 0.999925
+Mestranol similarity: 0.816959
+C11H24: 0.870253
+C9H10N2O2PF2Cl: 0.781996
+Median molecules 1: 0.350020
+Median molecules 2: 0.354328
+Osimertinib MPO: 0.844163
+Fexofenadine MPO: 0.834949
+Ranolazine MPO: 0.788958
+Perindopril MPO: 0.597467
+Amlodipine MPO: 0.763856
+Sitagliptin MPO: 0.523200
+Zaleplon MPO: 0.548763
+Valsartan SMARTS: 0.734789
+Deco Hop: 0.932106
+Total Score: 13.539/19 
+
+
+HIDDEN NODES: 600
+DROP PROB: 0.2
+LEARNING RATE: 0.0002
+EPOCH: 155
+Celecoxib rediscovery: 0.844156
+Troglitazone rediscovery: 0.613861
+Thiothixene rediscovery: 0.617647
+Aripiprazole similarity: 0.933290
+Albuterol similarity: 0.991085
+Mestranol similarity: 0.816390
+C11H24: 0.838704
+C9H10N2O2PF2Cl: 0.834189
+Median molecules 1: 0.353130
+Median molecules 2: 0.362294
+Osimertinib MPO: 0.846169
+Fexofenadine MPO: 0.842619
+Ranolazine MPO: 0.779983
+Perindopril MPO: 0.584298
+Amlodipine MPO: 0.770127
+Sitagliptin MPO: 0.514166
+Zaleplon MPO: 0.550209
+Valsartan SMARTS: 0.912119
+Deco Hop: 0.934777
+Scaffold Hop: 0.993800
+Total Score: 14.933/20 
+
+
+HIDDEN NODES: 400
+DROP PROB: 0.2
+LEARNING RATE: 0.0004
+Celecoxib rediscovery: 0.750000
+Troglitazone rediscovery: 0.791667
+Thiothixene rediscovery: 0.646465
+Aripiprazole similarity: 0.893091
+Albuterol similarity: 1.000000
+Mestranol similarity: 0.831641
+C11H24: 0.982033
+C9H10N2O2PF2Cl: 0.795588
+Median molecules 1: 0.363820
+Median molecules 2: 0.358734
+Osimertinib MPO: 0.854633
+Fexofenadine MPO: 0.867123
+Ranolazine MPO: 0.821212
+Perindopril MPO: 0.646844
+Amlodipine MPO: 0.761617
+Sitagliptin MPO: 0.541414
+Zaleplon MPO: 0.548621
+Valsartan SMARTS: 0.888879
+Total Score: 13.343/18 
+
+
+HIDDEN NODES: 400
+DROP PROB: 0.2
+LEARNING RATE: 0.0004
+EPOCH: 100
+Celecoxib rediscovery: 1.000000
+Troglitazone rediscovery: 0.655462
+Thiothixene rediscovery: 0.712871
+Aripiprazole similarity: 0.946610
+Albuterol similarity: 1.000000
+Mestranol similarity: 0.836948
+C11H24: 0.966157
+C9H10N2O2PF2Cl: 0.801800
+Median molecules 1: 0.370809
+Median molecules 2: 0.356879
+Osimertinib MPO: 0.850496
+Total Score: 8.498/11 
+
+
+HIDDEN NODES: 1000
+DROP PROB: 0.3
+LEARNING RATE: 0.0002
+EPOCH: 49
+Celecoxib rediscovery: 0.756098
+Troglitazone rediscovery: 0.535354
+Thiothixene rediscovery: 0.504762
+Aripiprazole similarity: 0.787732
+Albuterol similarity: 0.928523
+Mestranol similarity: 0.793820
+C11H24: 0.871815
+C9H10N2O2PF2Cl: 0.745093
+Median molecules 1: 0.349287
+Median molecules 2: 0.353249
+Osimertinib MPO: 0.840899
+Fexofenadine MPO: 0.836136
+Ranolazine MPO: 0.818297
+Perindopril MPO: 0.602834
+Amlodipine MPO: 0.705789
+Sitagliptin MPO: 0.504549
+Zaleplon MPO: 0.544227
+Valsartan SMARTS: 0.274765
+Total Score: 11.753/18 
+
+
+HIDDEN NODES: 300
+DROP PROB: 0.3
+LEARNING RATE: 0.0006
+EPOCH: 150
+Celecoxib rediscovery: 0.775000
+Troglitazone rediscovery: 0.632653
+Thiothixene rediscovery: 0.648936
+Aripiprazole similarity: 0.877136
+Albuterol similarity: 1.000000
+Mestranol similarity: 0.834967
+C11H24: 0.935627
+C9H10N2O2PF2Cl: 0.777766
+Median molecules 1: 0.362058
+Median molecules 2: 0.354470
+Osimertinib MPO: 0.843113
+Fexofenadine MPO: 0.839140
+Ranolazine MPO: 0.838185
+Perindopril MPO: 0.632016
+Amlodipine MPO: 0.770119
+Sitagliptin MPO: 0.517424
+Zaleplon MPO: 0.548501
+Valsartan SMARTS: 0.647428
+Deco Hop: 0.947849
+Scaffold Hop: 0.877597
+Total Score: 14.660/20 
+
+
+HIDDEN NODES: 300
+DROP PROB: 0.3
+LEARNING RATE: 0.0006
+EPOCH: 125
+Celecoxib rediscovery: 0.689655
+Troglitazone rediscovery: 0.646018
+Thiothixene rediscovery: 0.672897
+Aripiprazole similarity: 0.873800
+Albuterol similarity: 1.000000
+Mestranol similarity: 0.848860
+C11H24: 0.972023
+C9H10N2O2PF2Cl: 0.784688
+Median molecules 1: 0.355769
+Median molecules 2: 0.356444
+Osimertinib MPO: 0.847857
+Fexofenadine MPO: 0.862448
+Ranolazine MPO: 0.830114
+Perindopril MPO: 0.611943
+Amlodipine MPO: 0.747650
+Sitagliptin MPO: 0.510993
+Zaleplon MPO: 0.560166
+Valsartan SMARTS: 0.757084
+Total Score: 12.928/18 
+
+
+HIDDEN NODES: 400
+DROP PROB: 0.2
+LEARNING RATE: 0.0002
+EPOCH: 150
+Celecoxib rediscovery: 0.726190
+Troglitazone rediscovery: 0.635417
+Thiothixene rediscovery: 0.631068
+Aripiprazole similarity: 0.887146
+Albuterol similarity: 1.000000
+Mestranol similarity: 0.874026
+Total Score: 4.754/6 
+
+
+HIDDEN NODES: 800
+DROP PROB: 0.4
+LEARNING RATE: 0.0004
+EPOCH: 200
+Celecoxib rediscovery: 0.505263
+Troglitazone rediscovery: 0.418803
+Thiothixene rediscovery: 0.456140
+Aripiprazole similarity: 0.592069
+Albuterol similarity: 0.714962
+Mestranol similarity: 0.627667
+C11H24: 0.666126
+C9H10N2O2PF2Cl: 0.732971
+Median molecules 1: 0.332236
+Median molecules 2: 0.349232
+Osimertinib MPO: 0.838829
+Fexofenadine MPO: 0.815488
+Total Score: 7.050/12 
+
+
+HIDDEN NODES: 1100
+DROP PROB: 0.3
+LEARNING RATE: 0.0002
+EPOCH: 45
+Celecoxib rediscovery: 0.766667
+Troglitazone rediscovery: 0.663636
+Thiothixene rediscovery: 0.715517
+Aripiprazole similarity: 0.908639
+Albuterol similarity: 0.987155
+Mestranol similarity: 0.750365
+C11H24: 0.912577
+C9H10N2O2PF2Cl: 0.833215
+Median molecules 1: 0.340015
+Median molecules 2: 0.355367
+Osimertinib MPO: 0.864535
+Fexofenadine MPO: 0.905841
+Ranolazine MPO: 0.782555
+Perindopril MPO: 0.587973
+Amlodipine MPO: 0.699522
+Sitagliptin MPO: 0.510889
+Zaleplon MPO: 0.580338
+Valsartan SMARTS: 0.804351
+Deco Hop: 0.946243
+Scaffold Hop: 0.932156
+Total Score: 14.848/20 
+
+
+HIDDEN NODES: 300
+DROP PROB: 0.2
+LEARNING RATE: 0.0001
+EPOCH: 125
+Celecoxib rediscovery: 0.753247
+Troglitazone rediscovery: 0.687500
+Thiothixene rediscovery: 0.707865
+Aripiprazole similarity: 0.862036
+Albuterol similarity: 1.000000
+Mestranol similarity: 0.860295
+C11H24: 0.960644
+C9H10N2O2PF2Cl: 0.828820
+Median molecules 1: 0.340014
+Median molecules 2: 0.354802
+Osimertinib MPO: 0.848800
+Fexofenadine MPO: 0.871306
+Ranolazine MPO: 0.832153
+Perindopril MPO: 0.618463
+Amlodipine MPO: 0.811728
+Sitagliptin MPO: 0.530234
+Zaleplon MPO: 0.562720
+Valsartan SMARTS: 0.858694
+Deco Hop: 0.960538
+Total Score: 14.250/19 
+
+
+HIDDEN NODES: 800
+DROP PROB: 0.4
+LEARNING RATE: 0.0006
+EPOCH: 115
+Celecoxib rediscovery: 0.505263
+Troglitazone rediscovery: 0.418803
+Thiothixene rediscovery: 0.456140
+Aripiprazole similarity: 0.592069
+Albuterol similarity: 0.714962
+Mestranol similarity: 0.627667
+C11H24: 0.673150
+C9H10N2O2PF2Cl: 0.732971
+Median molecules 1: 0.332236
+Median molecules 2: 0.349232
+Osimertinib MPO: 0.838829
+Fexofenadine MPO: 0.815488
+Total Score: 7.057/12 
+
+
+HIDDEN NODES: 400
+DROP PROB: 0.3
+LEARNING RATE: 0.0003
+EPOCH: 200
+Celecoxib rediscovery: 0.844156
+Troglitazone rediscovery: 0.651786
+Thiothixene rediscovery: 0.652174
+Aripiprazole similarity: 0.959578
+Albuterol similarity: 0.998281
+Mestranol similarity: 0.923575
+Total Score: 5.030/6 
+
+
+HIDDEN NODES: 700
+DROP PROB: 0.2
+LEARNING RATE: 0.0006
+EPOCH: 129
+Celecoxib rediscovery: 0.666667
+Troglitazone rediscovery: 0.495575
+Thiothixene rediscovery: 0.513043
+Aripiprazole similarity: 0.789195
+Albuterol similarity: 0.985954
+Mestranol similarity: 0.736211
+C11H24: 0.833119
+C9H10N2O2PF2Cl: 0.734243
+Median molecules 1: 0.343417
+Median molecules 2: 0.350679
+Osimertinib MPO: 0.842423
+Fexofenadine MPO: 0.817055
+Ranolazine MPO: 0.815604
+Perindopril MPO: 0.606379
+Amlodipine MPO: 0.739631
+Sitagliptin MPO: 0.509709
+Zaleplon MPO: 0.546934
+Valsartan SMARTS: 0.454534
+Deco Hop: 0.935890
+Scaffold Hop: 0.729936
+Total Score: 13.446/20 
+
+
+HIDDEN NODES: 500
+DROP PROB: 0.2
+LEARNING RATE: 0.0004
+EPOCH: 150
+Celecoxib rediscovery: 0.775000
+Troglitazone rediscovery: 0.646465
+Thiothixene rediscovery: 0.612069
+Aripiprazole similarity: 0.874434
+Albuterol similarity: 0.965039
+Mestranol similarity: 0.723830
+C11H24: 0.801006
+C9H10N2O2PF2Cl: 0.776566
+Median molecules 1: 0.340010
+Median molecules 2: 0.351317
+Osimertinib MPO: 0.854399
+Fexofenadine MPO: 0.837983
+Ranolazine MPO: 0.789494
+Perindopril MPO: 0.614796
+Amlodipine MPO: 0.723217
+Sitagliptin MPO: 0.513298
+Zaleplon MPO: 0.546877
+Valsartan SMARTS: 0.619661
+Deco Hop: 0.933510
+Scaffold Hop: 0.806100
+Total Score: 14.105/20 
+
+
+HIDDEN NODES: 300
+DROP PROB: 0.2
+LEARNING RATE: 0.0006
+EPOCH: 200
+Celecoxib rediscovery: 0.775000
+Troglitazone rediscovery: 0.767677
+Thiothixene rediscovery: 0.640449
+Aripiprazole similarity: 0.931634
+Albuterol similarity: 0.999798
+Mestranol similarity: 0.876083
+C11H24: 0.944267
+C9H10N2O2PF2Cl: 0.773773
+Median molecules 1: 0.358569
+Median molecules 2: 0.353261
+Osimertinib MPO: 0.850584
+Fexofenadine MPO: 0.838649
+Ranolazine MPO: 0.832989
+Perindopril MPO: 0.621520
+Amlodipine MPO: 0.754380
+Sitagliptin MPO: 0.509138
+Zaleplon MPO: 0.556015
+Valsartan SMARTS: 0.777501
+Deco Hop: 0.946618
+Scaffold Hop: 0.907529
+Total Score: 15.015/20 
+
+
+HIDDEN NODES: 400
+DROP PROB: 0.2
+LEARNING RATE: 0.0005
+Celecoxib rediscovery: 0.731707
+Troglitazone rediscovery: 0.701923
+Thiothixene rediscovery: 0.670000
+Aripiprazole similarity: 0.881777
+Albuterol similarity: 1.000000
+Mestranol similarity: 0.912012
+C11H24: 0.859302
+C9H10N2O2PF2Cl: 0.789969
+Median molecules 1: 0.364642
+Median molecules 2: 0.358207
+Osimertinib MPO: 0.854086
+Fexofenadine MPO: 0.845690
+Ranolazine MPO: 0.821065
+Perindopril MPO: 0.602755
+Amlodipine MPO: 0.760550
+Sitagliptin MPO: 0.531580
+Zaleplon MPO: 0.546140
+Total Score: 12.231/17 
+
+
+HIDDEN NODES: 900
+DROP PROB: 0.3
+LEARNING RATE: 0.0004
+EPOCH: 175
+Celecoxib rediscovery: 0.505263
+Troglitazone rediscovery: 0.418803
+Thiothixene rediscovery: 0.456140
+Aripiprazole similarity: 0.592069
+Albuterol similarity: 0.714962
+Mestranol similarity: 0.627667
+C11H24: 0.703658
+C9H10N2O2PF2Cl: 0.733420
+Median molecules 1: 0.332236
+Median molecules 2: 0.349232
+Osimertinib MPO: 0.838829
+Fexofenadine MPO: 0.815488
+Total Score: 7.088/12 
+
+
+HIDDEN NODES: 500
+DROP PROB: 0.2
+LEARNING RATE: 0.0004
+EPOCH: 175
+Celecoxib rediscovery: 0.686047
+Troglitazone rediscovery: 0.630000
+Thiothixene rediscovery: 0.567308
+Aripiprazole similarity: 0.919252
+Albuterol similarity: 0.979352
+Mestranol similarity: 0.693699
+C11H24: 0.850511
+C9H10N2O2PF2Cl: 0.783637
+Median molecules 1: 0.348821
+Median molecules 2: 0.351928
+Osimertinib MPO: 0.845113
+Fexofenadine MPO: 0.842564
+Ranolazine MPO: 0.802455
+Perindopril MPO: 0.616549
+Amlodipine MPO: 0.759744
+Sitagliptin MPO: 0.511013
+Zaleplon MPO: 0.549449
+Valsartan SMARTS: 0.626194
+Deco Hop: 0.933778
+Scaffold Hop: 0.923130
+Total Score: 14.221/20 
+
+
+HIDDEN NODES: 400
+DROP PROB: 0.2
+LEARNING RATE: 0.0002
+Celecoxib rediscovery: 0.710843
+Troglitazone rediscovery: 0.666667
+Thiothixene rediscovery: 0.663265
+Aripiprazole similarity: 0.907586
+Albuterol similarity: 0.993631
+Mestranol similarity: 0.909949
+C11H24: 0.970996
+C9H10N2O2PF2Cl: 0.782584
+Median molecules 1: 0.368443
+Median molecules 2: 0.356269
+Osimertinib MPO: 0.849072
+Fexofenadine MPO: 0.840496
+Ranolazine MPO: 0.824702
+Perindopril MPO: 0.642088
+Amlodipine MPO: 0.735756
+Sitagliptin MPO: 0.510852
+Zaleplon MPO: 0.562633
+Total Score: 12.296/17 
+
+
+HIDDEN NODES: 300
+DROP PROB: 0.4
+LEARNING RATE: 0.0002
+EPOCH: 125
+Celecoxib rediscovery: 0.775000
+Troglitazone rediscovery: 0.644444
+Thiothixene rediscovery: 0.715686
+Aripiprazole similarity: 0.909557
+Albuterol similarity: 1.000000
+Mestranol similarity: 0.812392
+C11H24: 0.863555
+Total Score: 5.721/7 
+
+
+HIDDEN NODES: 900
+DROP PROB: 0.2
+LEARNING RATE: 0.0002
+EPOCH: 32
+Celecoxib rediscovery: 0.784091
+Troglitazone rediscovery: 0.627451
+Thiothixene rediscovery: 0.677083
+Aripiprazole similarity: 0.915205
+Albuterol similarity: 0.999406
+Mestranol similarity: 0.889947
+C11H24: 0.931777
+C9H10N2O2PF2Cl: 0.826149
+Median molecules 1: 0.349292
+Median molecules 2: 0.367176
+Osimertinib MPO: 0.862371
+Fexofenadine MPO: 0.868106
+Ranolazine MPO: 0.823684
+Perindopril MPO: 0.636767
+Amlodipine MPO: 0.788976
+Sitagliptin MPO: 0.519260
+Zaleplon MPO: 0.638570
+Valsartan SMARTS: 0.740987
+Deco Hop: 0.951744
+Scaffold Hop: 0.992841
+Total Score: 15.191/20 
+
+
+HIDDEN NODES: 800
+DROP PROB: 0.3
+LEARNING RATE: 0.0002
+EPOCH: 200
+Celecoxib rediscovery: 0.760870
+Troglitazone rediscovery: 0.666667
+Thiothixene rediscovery: 0.619048
+Aripiprazole similarity: 0.940589
+Albuterol similarity: 1.000000
+Mestranol similarity: 0.877703
+C11H24: 0.885591
+C9H10N2O2PF2Cl: 0.822130
+Median molecules 1: 0.378038
+Median molecules 2: 0.360123
+Osimertinib MPO: 0.875302
+Fexofenadine MPO: 0.865757
+Ranolazine MPO: 0.825316
+Perindopril MPO: 0.641383
+Amlodipine MPO: 0.768283
+Sitagliptin MPO: 0.521113
+Zaleplon MPO: 0.551413
+Valsartan SMARTS: 0.759696
+Deco Hop: 0.936178
+Scaffold Hop: 0.804240
+Total Score: 14.859/20 
+
+
+HIDDEN NODES: 600
+DROP PROB: 0.2
+LEARNING RATE: 0.0006
+EPOCH: 132
+Celecoxib rediscovery: 0.505263
+Troglitazone rediscovery: 0.418803
+Thiothixene rediscovery: 0.456140
+Aripiprazole similarity: 0.592069
+Albuterol similarity: 0.714962
+Mestranol similarity: 0.627667
+Total Score: 3.315/6 
+
+
+HIDDEN NODES: 400
+DROP PROB: 0.2
+LEARNING RATE: 0.0005
+Celecoxib rediscovery: 0.731707
+Troglitazone rediscovery: 0.609524
+Thiothixene rediscovery: 0.666667
+Aripiprazole similarity: 0.859292
+Albuterol similarity: 1.000000
+Mestranol similarity: 0.883712
+C11H24: 0.879211
+C9H10N2O2PF2Cl: 0.790494
+Median molecules 1: 0.352164
+Median molecules 2: 0.352953
+Osimertinib MPO: 0.850391
+Fexofenadine MPO: 0.841011
+Ranolazine MPO: 0.811826
+Perindopril MPO: 0.618251
+Amlodipine MPO: 0.748165
+Sitagliptin MPO: 0.521451
+Zaleplon MPO: 0.546410
+Valsartan SMARTS: 0.734023
+Total Score: 12.797/18 
+
+
+HIDDEN NODES: 600
+DROP PROB: 0.3
+LEARNING RATE: 0.0001
+EPOCH: 200
+Celecoxib rediscovery: 0.775000
+Troglitazone rediscovery: 0.635417
+Total Score: 1.410/2 
+
+
+HIDDEN NODES: 300
+DROP PROB: 0.2
+LEARNING RATE: 0.0003
+EPOCH: 150
+Celecoxib rediscovery: 0.741935
+Troglitazone rediscovery: 0.596330
+Thiothixene rediscovery: 0.625000
+Aripiprazole similarity: 0.860119
+Albuterol similarity: 1.000000
+Mestranol similarity: 0.795053
+C11H24: 0.871609
+C9H10N2O2PF2Cl: 0.797516
+Median molecules 1: 0.346902
+Median molecules 2: 0.355027
+Osimertinib MPO: 0.848408
+Fexofenadine MPO: 0.838586
+Ranolazine MPO: 0.814010
+Perindopril MPO: 0.634801
+Amlodipine MPO: 0.756719
+Sitagliptin MPO: 0.508542
+Zaleplon MPO: 0.546819
+Valsartan SMARTS: 0.535327
+Deco Hop: 0.936118
+Scaffold Hop: 0.927274
+Total Score: 14.336/20 
+
+
+HIDDEN NODES: 400
+DROP PROB: 0.2
+LEARNING RATE: 0.0003
+EPOCH: 200
+Celecoxib rediscovery: 0.704082
+Troglitazone rediscovery: 0.635417
+Thiothixene rediscovery: 0.677083
+Aripiprazole similarity: 0.907077
+Albuterol similarity: 1.000000
+Total Score: 3.924/5 
+
+
+HIDDEN NODES: 900
+DROP PROB: 0.3
+LEARNING RATE: 0.0002
+EPOCH: 125
+Celecoxib rediscovery: 0.775000
+Troglitazone rediscovery: 0.663551
+Thiothixene rediscovery: 0.692982
+Aripiprazole similarity: 0.910600
+Albuterol similarity: 1.000000
+Mestranol similarity: 0.791485
+C11H24: 0.883403
+C9H10N2O2PF2Cl: 0.809903
+Median molecules 1: 0.361359
+Median molecules 2: 0.382607
+Osimertinib MPO: 0.870694
+Fexofenadine MPO: 0.864816
+Ranolazine MPO: 0.806518
+Perindopril MPO: 0.647027
+Amlodipine MPO: 0.764104
+Sitagliptin MPO: 0.529559
+Zaleplon MPO: 0.594954
+Valsartan SMARTS: 0.693493
+Deco Hop: 0.949134
+Scaffold Hop: 0.775224
+Total Score: 14.766/20 
+
+
+HIDDEN NODES: 800
+DROP PROB: 0.3
+LEARNING RATE: 0.0004
+EPOCH: 200
+Celecoxib rediscovery: 0.505263
+Troglitazone rediscovery: 0.418803
+Thiothixene rediscovery: 0.456140
+Aripiprazole similarity: 0.592069
+Albuterol similarity: 0.714962
+Mestranol similarity: 0.627667
+C11H24: 0.675164
+C9H10N2O2PF2Cl: 0.733103
+Median molecules 1: 0.332236
+Median molecules 2: 0.349232
+Osimertinib MPO: 0.838829
+Fexofenadine MPO: 0.815488
+Total Score: 7.059/12 
+
+
+HIDDEN NODES: 700
+DROP PROB: 0.2
+LEARNING RATE: 0.0002
+EPOCH: 135
+Celecoxib rediscovery: 0.731707
+Troglitazone rediscovery: 0.592000
+Thiothixene rediscovery: 0.585586
+Aripiprazole similarity: 0.933723
+Albuterol similarity: 0.999200
+Mestranol similarity: 0.825176
+C11H24: 0.803572
+C9H10N2O2PF2Cl: 0.792118
+Median molecules 1: 0.336276
+Median molecules 2: 0.359706
+Osimertinib MPO: 0.863307
+Fexofenadine MPO: 0.840861
+Ranolazine MPO: 0.778923
+Perindopril MPO: 0.602646
+Amlodipine MPO: 0.726865
+Sitagliptin MPO: 0.504918
+Zaleplon MPO: 0.548365
+Valsartan SMARTS: 0.342550
+Deco Hop: 0.932014
+Scaffold Hop: 0.801971
+Total Score: 13.901/20 
+
+
+HIDDEN NODES: 400
+DROP PROB: 0.2
+LEARNING RATE: 0.0003
+Celecoxib rediscovery: 0.690476
+Troglitazone rediscovery: 0.613861
+Thiothixene rediscovery: 0.721154
+Aripiprazole similarity: 0.902927
+Albuterol similarity: 1.000000
+Mestranol similarity: 0.818688
+C11H24: 0.877794
+C9H10N2O2PF2Cl: 0.804287
+Median molecules 1: 0.353794
+Median molecules 2: 0.356598
+Osimertinib MPO: 0.853368
+Fexofenadine MPO: 0.842807
+Ranolazine MPO: 0.784012
+Perindopril MPO: 0.620544
+Amlodipine MPO: 0.711444
+Sitagliptin MPO: 0.529460
+Zaleplon MPO: 0.550175
+Total Score: 12.031/17 
+
+
+HIDDEN NODES: 300
+DROP PROB: 0.2
+LEARNING RATE: 0.0004
+EPOCH: 125
+Celecoxib rediscovery: 0.844156
+Troglitazone rediscovery: 0.693069
+Thiothixene rediscovery: 0.720000
+Aripiprazole similarity: 0.923069
+Albuterol similarity: 1.000000
+Mestranol similarity: 0.904348
+C11H24: 0.883391
+C9H10N2O2PF2Cl: 0.798586
+Median molecules 1: 0.361806
+Median molecules 2: 0.356521
+Osimertinib MPO: 0.862383
+Fexofenadine MPO: 0.866213
+Ranolazine MPO: 0.824292
+Perindopril MPO: 0.632997
+Amlodipine MPO: 0.756510
+Sitagliptin MPO: 0.520464
+Zaleplon MPO: 0.552786
+Valsartan SMARTS: 0.869156
+Deco Hop: 0.948731
+Total Score: 14.318/19 
+
+
+HIDDEN NODES: 300
+DROP PROB: 0.4
+LEARNING RATE: 0.0004
+EPOCH: 200
+Celecoxib rediscovery: 0.709677
+Troglitazone rediscovery: 0.495868
+Thiothixene rediscovery: 0.584158
+Aripiprazole similarity: 0.915871
+Albuterol similarity: 1.000000
+Mestranol similarity: 0.853448
+C11H24: 0.868970
+C9H10N2O2PF2Cl: 0.790848
+Median molecules 1: 0.354540
+Median molecules 2: 0.355236
+Osimertinib MPO: 0.846767
+Fexofenadine MPO: 0.860560
+Ranolazine MPO: 0.789314
+Perindopril MPO: 0.589947
+Amlodipine MPO: 0.766647
+Sitagliptin MPO: 0.529606
+Zaleplon MPO: 0.549458
+Valsartan SMARTS: 0.696690
+Deco Hop: 0.932451
+Scaffold Hop: 0.791306
+Total Score: 14.281/20 
+
+
+HIDDEN NODES: 700
+DROP PROB: 0.2
+LEARNING RATE: 0.0003
+EPOCH: 150
+Celecoxib rediscovery: 0.775000
+Troglitazone rediscovery: 0.693694
+Thiothixene rediscovery: 0.708333
+Aripiprazole similarity: 0.892317
+Albuterol similarity: 1.000000
+Mestranol similarity: 0.928203
+C11H24: 0.967403
+C9H10N2O2PF2Cl: 0.812034
+Median molecules 1: 0.374699
+Median molecules 2: 0.361727
+Osimertinib MPO: 0.873698
+Fexofenadine MPO: 0.881772
+Ranolazine MPO: 0.843882
+Perindopril MPO: 0.682708
+Amlodipine MPO: 0.790432
+Sitagliptin MPO: 0.512748
+Zaleplon MPO: 0.558179
+Valsartan SMARTS: 0.923787
+Deco Hop: 0.967762
+Scaffold Hop: 0.978569
+Total Score: 15.527/20 
+
+
+HIDDEN NODES: 1100
+DROP PROB: 0.4
+LEARNING RATE: 0.0002
+EPOCH: 45
+Celecoxib rediscovery: 0.705882
+Troglitazone rediscovery: 0.666667
+Thiothixene rediscovery: 0.646465
+Aripiprazole similarity: 0.887161
+Albuterol similarity: 1.000000
+Mestranol similarity: 0.859816
+C11H24: 0.865682
+C9H10N2O2PF2Cl: 0.793063
+Median molecules 1: 0.367202
+Median molecules 2: 0.366777
+Osimertinib MPO: 0.869119
+Fexofenadine MPO: 0.854483
+Ranolazine MPO: 0.822533
+Perindopril MPO: 0.660649
+Amlodipine MPO: 0.746433
+Sitagliptin MPO: 0.524498
+Zaleplon MPO: 0.556234
+Valsartan SMARTS: 0.520492
+Deco Hop: 0.941410
+Scaffold Hop: 0.952340
+Total Score: 14.607/20 
+
+
+HIDDEN NODES: 600
+DROP PROB: 0.3
+LEARNING RATE: 0.0002
+EPOCH: 142
+Total Score: 0.000/0 
+
+
+HIDDEN NODES: 500
+DROP PROB: 0.4
+LEARNING RATE: 0.0004
+EPOCH: 126
+Celecoxib rediscovery: 0.750000
+Troglitazone rediscovery: 0.669811
+Thiothixene rediscovery: 0.622642
+Aripiprazole similarity: 0.914608
+Albuterol similarity: 1.000000
+Mestranol similarity: 0.903818
+C11H24: 0.860720
+C9H10N2O2PF2Cl: 0.821215
+Median molecules 1: 0.366160
+Median molecules 2: 0.362259
+Osimertinib MPO: 0.862705
+Fexofenadine MPO: 0.843836
+Ranolazine MPO: 0.804709
+Perindopril MPO: 0.636998
+Amlodipine MPO: 0.759431
+Sitagliptin MPO: 0.528676
+Zaleplon MPO: 0.562077
+Valsartan SMARTS: 0.878381
+Deco Hop: 0.936119
+Scaffold Hop: 0.831126
+Total Score: 14.915/20 
+
+
+HIDDEN NODES: 500
+DROP PROB: 0.3
+LEARNING RATE: 0.0003
+EPOCH: 165
+Celecoxib rediscovery: 0.844156
+Troglitazone rediscovery: 0.644444
+Thiothixene rediscovery: 1.000000
+Aripiprazole similarity: 0.941254
+Albuterol similarity: 1.000000
+Total Score: 4.430/5 
+
+
+HIDDEN NODES: 400
+DROP PROB: 0.2
+LEARNING RATE: 0.0001
+EPOCH: 175
+Celecoxib rediscovery: 0.844156
+Troglitazone rediscovery: 0.677966
+Thiothixene rediscovery: 0.638889
+Aripiprazole similarity: 0.798933
+Albuterol similarity: 1.000000
+Mestranol similarity: 0.885053
+C11H24: 0.969713
+C9H10N2O2PF2Cl: 0.848258
+Median molecules 1: 0.344061
+Median molecules 2: 0.363001
+Osimertinib MPO: 0.862574
+Total Score: 8.233/11 
+
+
+HIDDEN NODES: 500
+DROP PROB: 0.2
+LEARNING RATE: 0.0006
+EPOCH: 177
+Total Score: 0.000/0 
+
+
+HIDDEN NODES: 100
+DROP PROB: 0.4
+LEARNING RATE: 0.0003
+EPOCH: 200
+Celecoxib rediscovery: 0.753247
+Troglitazone rediscovery: 0.552083
+Thiothixene rediscovery: 0.552381
+Aripiprazole similarity: 0.845650
+Albuterol similarity: 0.984672
+Mestranol similarity: 0.798892
+C11H24: 0.974590
+C9H10N2O2PF2Cl: 0.793184
+Median molecules 1: 0.355906
+Median molecules 2: 0.349470
+Osimertinib MPO: 0.840380
+Total Score: 7.800/11 
+
+
+HIDDEN NODES: 400
+DROP PROB: 0.2
+LEARNING RATE: 0.0003
+Celecoxib rediscovery: 0.709677
+Total Score: 0.710/1 
+
+
+HIDDEN NODES: 800
+DROP PROB: 0.2
+LEARNING RATE: 0.0002
+EPOCH: 100
+Celecoxib rediscovery: 0.766667
+Troglitazone rediscovery: 0.666667
+Thiothixene rediscovery: 0.700855
+Aripiprazole similarity: 0.967292
+Albuterol similarity: 1.000000
+Mestranol similarity: 0.843060
+C11H24: 0.873675
+C9H10N2O2PF2Cl: 0.816973
+Median molecules 1: 0.353067
+Median molecules 2: 0.357079
+Osimertinib MPO: 0.863275
+Fexofenadine MPO: 0.855405
+Ranolazine MPO: 0.823314
+Perindopril MPO: 0.680541
+Amlodipine MPO: 0.769446
+Sitagliptin MPO: 0.519440
+Zaleplon MPO: 0.558630
+Valsartan SMARTS: 0.889284
+Deco Hop: 0.936805
+Scaffold Hop: 0.965816
+Total Score: 15.207/20 
+
+
+HIDDEN NODES: 800
+DROP PROB: 0.4
+LEARNING RATE: 0.0004
+EPOCH: 100
+Celecoxib rediscovery: 0.505263
+Troglitazone rediscovery: 0.418803
+Thiothixene rediscovery: 0.456140
+Aripiprazole similarity: 0.592069
+Albuterol similarity: 0.714962
+Mestranol similarity: 0.627667
+C11H24: 0.665942
+C9H10N2O2PF2Cl: 0.732971
+Median molecules 1: 0.332236
+Median molecules 2: 0.349232
+Osimertinib MPO: 0.838829
+Fexofenadine MPO: 0.815488
+Total Score: 7.050/12 
+
+
+HIDDEN NODES: 900
+DROP PROB: 0.3
+LEARNING RATE: 0.0002
+EPOCH: 100
+Celecoxib rediscovery: 0.775000
+Troglitazone rediscovery: 0.666667
+Thiothixene rediscovery: 0.666667
+Aripiprazole similarity: 0.921495
+Albuterol similarity: 1.000000
+Mestranol similarity: 0.804244
+C11H24: 0.860011
+C9H10N2O2PF2Cl: 0.808500
+Median molecules 1: 0.358013
+Median molecules 2: 0.378685
+Osimertinib MPO: 0.861637
+Fexofenadine MPO: 0.857402
+Ranolazine MPO: 0.798324
+Perindopril MPO: 0.656196
+Amlodipine MPO: 0.750824
+Sitagliptin MPO: 0.513429
+Zaleplon MPO: 0.553282
+Valsartan SMARTS: 0.835550
+Deco Hop: 0.948831
+Total Score: 14.015/19 
+
+
+HIDDEN NODES: 800
+DROP PROB: 0.2
+LEARNING RATE: 0.0004
+EPOCH: 125
+Celecoxib rediscovery: 0.505263
+Troglitazone rediscovery: 0.418803
+Thiothixene rediscovery: 0.456140
+Aripiprazole similarity: 0.592069
+Albuterol similarity: 0.714962
+Mestranol similarity: 0.627667
+C11H24: 0.665018
+C9H10N2O2PF2Cl: 0.732971
+Median molecules 1: 0.332236
+Median molecules 2: 0.349232
+Osimertinib MPO: 0.838829
+Fexofenadine MPO: 0.815488
+Total Score: 7.049/12 
+
+
+HIDDEN NODES: 300
+DROP PROB: 0.2
+LEARNING RATE: 0.0004
+EPOCH: 175
+Celecoxib rediscovery: 0.844156
+Troglitazone rediscovery: 0.699115
+Thiothixene rediscovery: 0.698925
+Aripiprazole similarity: 0.855968
+Albuterol similarity: 1.000000
+Mestranol similarity: 0.880091
+C11H24: 0.903178
+C9H10N2O2PF2Cl: 0.785300
+Median molecules 1: 0.364054
+Median molecules 2: 0.360124
+Osimertinib MPO: 0.858010
+Fexofenadine MPO: 0.853635
+Ranolazine MPO: 0.829770
+Perindopril MPO: 0.652508
+Amlodipine MPO: 0.760331
+Sitagliptin MPO: 0.514395
+Zaleplon MPO: 0.553595
+Valsartan SMARTS: 0.776041
+Deco Hop: 0.961720
+Scaffold Hop: 0.916273
+Total Score: 15.067/20 
+
+
+HIDDEN NODES: 300
+DROP PROB: 0.2
+LEARNING RATE: 0.0003
+EPOCH: 200
+Celecoxib rediscovery: 0.775000
+Troglitazone rediscovery: 0.609524
+Thiothixene rediscovery: 0.677083
+Aripiprazole similarity: 0.900801
+Albuterol similarity: 1.000000
+Mestranol similarity: 0.783955
+C11H24: 0.954008
+C9H10N2O2PF2Cl: 0.798144
+Median molecules 1: 0.349142
+Median molecules 2: 0.352471
+Osimertinib MPO: 0.843530
+Fexofenadine MPO: 0.843421
+Ranolazine MPO: 0.817706
+Perindopril MPO: 0.616078
+Amlodipine MPO: 0.739521
+Sitagliptin MPO: 0.509291
+Zaleplon MPO: 0.549765
+Valsartan SMARTS: 0.561027
+Deco Hop: 0.944832
+Scaffold Hop: 0.962047
+Total Score: 14.587/20 
+
+
+HIDDEN NODES: 400
+DROP PROB: 0.2
+LEARNING RATE: 0.0001
+Celecoxib rediscovery: 0.755814
+Troglitazone rediscovery: 0.651376
+Thiothixene rediscovery: 0.596330
+Aripiprazole similarity: 0.903562
+Albuterol similarity: 0.999598
+Mestranol similarity: 0.910787
+C11H24: 0.947042
+C9H10N2O2PF2Cl: 0.755076
+Median molecules 1: 0.348741
+Median molecules 2: 0.357880
+Osimertinib MPO: 0.844101
+Fexofenadine MPO: 0.835008
+Ranolazine MPO: 0.825381
+Perindopril MPO: 0.582576
+Amlodipine MPO: 0.702528
+Sitagliptin MPO: 0.502951
+Zaleplon MPO: 0.546910
+Valsartan SMARTS: 0.760952
+Total Score: 12.827/18 
+
+
+HIDDEN NODES: 300
+DROP PROB: 0.4
+LEARNING RATE: 0.0004
+EPOCH: 150
+Celecoxib rediscovery: 0.750000
+Troglitazone rediscovery: 0.632653
+Thiothixene rediscovery: 0.590909
+Aripiprazole similarity: 0.907237
+Albuterol similarity: 0.990652
+Mestranol similarity: 0.890844
+C11H24: 0.874702
+C9H10N2O2PF2Cl: 0.793600
+Median molecules 1: 0.348370
+Median molecules 2: 0.356093
+Osimertinib MPO: 0.844834
+Fexofenadine MPO: 0.832929
+Ranolazine MPO: 0.778545
+Perindopril MPO: 0.597634
+Amlodipine MPO: 0.768800
+Sitagliptin MPO: 0.513616
+Zaleplon MPO: 0.553473
+Valsartan SMARTS: 0.658985
+Deco Hop: 0.933113
+Scaffold Hop: 0.858871
+Total Score: 14.476/20 
+
+
+HIDDEN NODES: 400
+DROP PROB: 0.2
+LEARNING RATE: 0.0004
+EPOCH: 175
+Celecoxib rediscovery: 0.868421
+Troglitazone rediscovery: 1.000000
+Thiothixene rediscovery: 0.720000
+Aripiprazole similarity: 0.941229
+Albuterol similarity: 1.000000
+Mestranol similarity: 0.844335
+C11H24: 0.983316
+C9H10N2O2PF2Cl: 0.804915
+Median molecules 1: 0.370390
+Median molecules 2: 0.358211
+Osimertinib MPO: 0.864099
+Fexofenadine MPO: 0.853869
+Ranolazine MPO: 0.835329
+Perindopril MPO: 0.630244
+Amlodipine MPO: 0.787318
+Sitagliptin MPO: 0.526522
+Zaleplon MPO: 0.556964
+Valsartan SMARTS: 0.867033
+Deco Hop: 0.957622
+Total Score: 14.770/19 
+
+
+HIDDEN NODES: 600
+DROP PROB: 0.2
+LEARNING RATE: 0.0001
+EPOCH: 175
+Celecoxib rediscovery: 0.666667
+Troglitazone rediscovery: 0.663717
+Thiothixene rediscovery: 0.509615
+Aripiprazole similarity: 0.797494
+Total Score: 2.637/4 
+
+
+HIDDEN NODES: 800
+DROP PROB: 0.4
+LEARNING RATE: 0.0002
+EPOCH: 200
+Celecoxib rediscovery: 0.636364
+Troglitazone rediscovery: 0.632653
+Thiothixene rediscovery: 0.613861
+Aripiprazole similarity: 0.955933
+Albuterol similarity: 0.993973
+Mestranol similarity: 0.787720
+C11H24: 0.841603
+C9H10N2O2PF2Cl: 0.802539
+Median molecules 1: 0.353596
+Median molecules 2: 0.373583
+Osimertinib MPO: 0.872691
+Fexofenadine MPO: 0.842621
+Ranolazine MPO: 0.784511
+Perindopril MPO: 0.651345
+Amlodipine MPO: 0.749355
+Sitagliptin MPO: 0.521097
+Zaleplon MPO: 0.550338
+Valsartan SMARTS: 0.753643
+Deco Hop: 0.933906
+Total Score: 13.651/19 
+
+
+HIDDEN NODES: 600
+DROP PROB: 0.2
+LEARNING RATE: 0.0002
+EPOCH: 155
+Celecoxib rediscovery: 0.616822
+Troglitazone rediscovery: 0.582524
+Thiothixene rediscovery: 0.642857
+Aripiprazole similarity: 0.909629
+Albuterol similarity: 0.933913
+Mestranol similarity: 0.796374
+C11H24: 0.854792
+C9H10N2O2PF2Cl: 0.801990
+Median molecules 1: 0.351513
+Median molecules 2: 0.354446
+Osimertinib MPO: 0.850731
+Fexofenadine MPO: 0.842320
+Ranolazine MPO: 0.770353
+Perindopril MPO: 0.595396
+Amlodipine MPO: 0.742611
+Sitagliptin MPO: 0.519679
+Zaleplon MPO: 0.544902
+Valsartan SMARTS: 0.353701
+Deco Hop: 0.932631
+Total Score: 12.997/19 
+
+
+HIDDEN NODES: 800
+DROP PROB: 0.3
+LEARNING RATE: 0.0002
+EPOCH: 100
+Celecoxib rediscovery: 0.750000
+Troglitazone rediscovery: 0.673077
+Thiothixene rediscovery: 0.663265
+Aripiprazole similarity: 0.918936
+Albuterol similarity: 1.000000
+Mestranol similarity: 0.917700
+C11H24: 0.888170
+C9H10N2O2PF2Cl: 0.823396
+Median molecules 1: 0.362823
+Median molecules 2: 0.361026
+Osimertinib MPO: 0.859338
+Fexofenadine MPO: 0.866010
+Ranolazine MPO: 0.838991
+Perindopril MPO: 0.670063
+Amlodipine MPO: 0.791740
+Sitagliptin MPO: 0.511363
+Zaleplon MPO: 0.565338
+Valsartan SMARTS: 0.423776
+Deco Hop: 0.942187
+Scaffold Hop: 0.823358
+Total Score: 14.651/20 
+
+
+HIDDEN NODES: 800
+DROP PROB: 0.4
+LEARNING RATE: 0.0006
+EPOCH: 175
+Celecoxib rediscovery: 0.505263
+Troglitazone rediscovery: 0.418803
+Thiothixene rediscovery: 0.456140
+Aripiprazole similarity: 0.592069
+Albuterol similarity: 0.714962
+Mestranol similarity: 0.627667
+C11H24: 0.667220
+C9H10N2O2PF2Cl: 0.732971
+Median molecules 1: 0.332236
+Median molecules 2: 0.349232
+Osimertinib MPO: 0.838829
+Fexofenadine MPO: 0.815488
+Total Score: 7.051/12 
+
+
+HIDDEN NODES: 1000
+DROP PROB: 0.2
+LEARNING RATE: 0.0004
+EPOCH: 47
+Celecoxib rediscovery: 0.731707
+Troglitazone rediscovery: 0.646465
+Thiothixene rediscovery: 0.633028
+Aripiprazole similarity: 0.909833
+Albuterol similarity: 1.000000
+Mestranol similarity: 0.900890
+C11H24: 0.864008
+C9H10N2O2PF2Cl: 0.789882
+Median molecules 1: 0.358867
+Median molecules 2: 0.357021
+Osimertinib MPO: 0.863233
+Fexofenadine MPO: 0.867559
+Ranolazine MPO: 0.818172
+Perindopril MPO: 0.649109
+Amlodipine MPO: 0.746436
+Sitagliptin MPO: 0.518790
+Zaleplon MPO: 0.550046
+Valsartan SMARTS: 0.815813
+Total Score: 13.021/18 
+
+
+HIDDEN NODES: 500
+DROP PROB: 0.4
+LEARNING RATE: 0.0004
+EPOCH: 126
+Celecoxib rediscovery: 0.690476
+Troglitazone rediscovery: 0.587629
+Thiothixene rediscovery: 0.643564
+Aripiprazole similarity: 0.931532
+Albuterol similarity: 1.000000
+Mestranol similarity: 0.892665
+C11H24: 0.857371
+C9H10N2O2PF2Cl: 0.814433
+Median molecules 1: 0.362954
+Median molecules 2: 0.358497
+Osimertinib MPO: 0.858371
+Fexofenadine MPO: 0.839648
+Ranolazine MPO: 0.814106
+Perindopril MPO: 0.633077
+Amlodipine MPO: 0.774284
+Sitagliptin MPO: 0.520734
+Zaleplon MPO: 0.550916
+Valsartan SMARTS: 0.784260
+Deco Hop: 0.935590
+Scaffold Hop: 0.977638
+Total Score: 14.828/20 
+
+
+HIDDEN NODES: 400
+DROP PROB: 0.2
+LEARNING RATE: 0.0002
+EPOCH: 175
+Celecoxib rediscovery: 0.693182
+Troglitazone rediscovery: 0.635417
+Thiothixene rediscovery: 0.723810
+Aripiprazole similarity: 0.926723
+Albuterol similarity: 0.987169
+Mestranol similarity: 0.838105
+C11H24: 0.963406
+C9H10N2O2PF2Cl: 0.784735
+Median molecules 1: 0.356549
+Median molecules 2: 0.357566
+Osimertinib MPO: 0.858714
+Fexofenadine MPO: 0.849077
+Ranolazine MPO: 0.808159
+Perindopril MPO: 0.637207
+Amlodipine MPO: 0.745196
+Sitagliptin MPO: 0.529323
+Zaleplon MPO: 0.546844
+Valsartan SMARTS: 0.808814
+Total Score: 13.050/18 
+
+
+HIDDEN NODES: 900
+DROP PROB: 0.4
+LEARNING RATE: 0.0004
+EPOCH: 109
+Celecoxib rediscovery: 0.775000
+Troglitazone rediscovery: 0.418803
+Thiothixene rediscovery: 0.581967
+Aripiprazole similarity: 0.843714
+Albuterol similarity: 0.998220
+Mestranol similarity: 0.878901
+C11H24: 0.869678
+C9H10N2O2PF2Cl: 0.748393
+Median molecules 1: 0.352077
+Median molecules 2: 0.354920
+Osimertinib MPO: 0.847199
+Fexofenadine MPO: 0.817992
+Ranolazine MPO: 0.829006
+Perindopril MPO: 0.676402
+Amlodipine MPO: 0.742871
+Sitagliptin MPO: 0.503875
+Zaleplon MPO: 0.548992
+Valsartan SMARTS: 0.668666
+Total Score: 12.457/18 
+
+
+HIDDEN NODES: 100
+DROP PROB: 0.4
+LEARNING RATE: 0.0004
+EPOCH: 200
+Celecoxib rediscovery: 1.000000
+Troglitazone rediscovery: 0.490000
+Thiothixene rediscovery: 0.575472
+Aripiprazole similarity: 0.853888
+Albuterol similarity: 0.977710
+Mestranol similarity: 0.744128
+C11H24: 0.970740
+C9H10N2O2PF2Cl: 0.767647
+Median molecules 1: 0.355157
+Median molecules 2: 0.351228
+Osimertinib MPO: 0.844358
+Fexofenadine MPO: 0.821738
+Ranolazine MPO: 0.828709
+Perindopril MPO: 0.581021
+Amlodipine MPO: 0.744724
+Sitagliptin MPO: 0.514490
+Zaleplon MPO: 0.546497
+Valsartan SMARTS: 0.517400
+Deco Hop: 0.937087
+Scaffold Hop: 0.729789
+Total Score: 14.152/20 
+
+
+HIDDEN NODES: 700
+DROP PROB: 0.3
+LEARNING RATE: 0.0002
+EPOCH: 135
+Celecoxib rediscovery: 0.797468
+Troglitazone rediscovery: 0.666667
+Thiothixene rediscovery: 0.663265
+Aripiprazole similarity: 0.936689
+Albuterol similarity: 1.000000
+Mestranol similarity: 0.929902
+C11H24: 0.976386
+C9H10N2O2PF2Cl: 0.828543
+Median molecules 1: 0.367518
+Median molecules 2: 0.359343
+Osimertinib MPO: 0.867772
+Total Score: 8.394/11 
+
+
+HIDDEN NODES: 900
+DROP PROB: 0.4
+LEARNING RATE: 0.0006
+EPOCH: 200
+Celecoxib rediscovery: 0.505263
+Troglitazone rediscovery: 0.418803
+Thiothixene rediscovery: 0.456140
+Aripiprazole similarity: 0.592069
+Albuterol similarity: 0.714962
+Mestranol similarity: 0.627667
+C11H24: 0.673929
+C9H10N2O2PF2Cl: 0.732971
+Median molecules 1: 0.332236
+Median molecules 2: 0.349232
+Osimertinib MPO: 0.838829
+Fexofenadine MPO: 0.815488
+Total Score: 7.058/12 
+
+
+HIDDEN NODES: 300
+DROP PROB: 0.3
+LEARNING RATE: 0.0002
+EPOCH: 200
+Celecoxib rediscovery: 0.731707
+Troglitazone rediscovery: 0.635417
+Thiothixene rediscovery: 0.663265
+Aripiprazole similarity: 0.910198
+Albuterol similarity: 1.000000
+Mestranol similarity: 0.894300
+C11H24: 0.890675
+C9H10N2O2PF2Cl: 0.824699
+Median molecules 1: 0.360707
+Median molecules 2: 0.353969
+Osimertinib MPO: 0.873972
+Fexofenadine MPO: 0.867950
+Ranolazine MPO: 0.843851
+Perindopril MPO: 0.628756
+Amlodipine MPO: 0.758265
+Sitagliptin MPO: 0.536377
+Zaleplon MPO: 0.555691
+Valsartan SMARTS: 0.946881
+Deco Hop: 0.940928
+Scaffold Hop: 0.960911
+Total Score: 15.179/20 
+
+
+HIDDEN NODES: 500
+DROP PROB: 0.2
+LEARNING RATE: 0.0001
+Celecoxib rediscovery: 0.775000
+Troglitazone rediscovery: 0.652174
+Thiothixene rediscovery: 0.787234
+Aripiprazole similarity: 0.886929
+Albuterol similarity: 0.939475
+Mestranol similarity: 0.688228
+C11H24: 0.875924
+C9H10N2O2PF2Cl: 0.806533
+Median molecules 1: 0.345446
+Median molecules 2: 0.366022
+Osimertinib MPO: 0.862272
+Fexofenadine MPO: 0.896018
+Ranolazine MPO: 0.795082
+Perindopril MPO: 0.613008
+Amlodipine MPO: 0.747790
+Sitagliptin MPO: 0.534863
+Zaleplon MPO: 0.555342
+Valsartan SMARTS: 0.924231
+Total Score: 13.052/18 
+
+
+HIDDEN NODES: 400
+DROP PROB: 0.2
+LEARNING RATE: 0.0002
+EPOCH: 200
+Celecoxib rediscovery: 1.000000
+Troglitazone rediscovery: 0.747573
+Thiothixene rediscovery: 0.625000
+Aripiprazole similarity: 0.918970
+Albuterol similarity: 0.999254
+Mestranol similarity: 0.826243
+Total Score: 5.117/6 
+
+
+HIDDEN NODES: 800
+DROP PROB: 0.3
+LEARNING RATE: 0.0002
+EPOCH: 125
+Celecoxib rediscovery: 0.760870
+Troglitazone rediscovery: 0.646465
+Thiothixene rediscovery: 0.603604
+Aripiprazole similarity: 0.946227
+Albuterol similarity: 1.000000
+Mestranol similarity: 0.855789
+C11H24: 0.749780
+C9H10N2O2PF2Cl: 0.805421
+Median molecules 1: 0.349697
+Median molecules 2: 0.359806
+Osimertinib MPO: 0.853743
+Fexofenadine MPO: 0.854903
+Ranolazine MPO: 0.834242
+Perindopril MPO: 0.625566
+Amlodipine MPO: 0.752296
+Sitagliptin MPO: 0.519317
+Zaleplon MPO: 0.545661
+Valsartan SMARTS: 0.604746
+Deco Hop: 0.935774
+Total Score: 13.604/19 
+
+
+HIDDEN NODES: 800
+DROP PROB: 0.4
+LEARNING RATE: 0.0006
+EPOCH: 200
+Celecoxib rediscovery: 0.505263
+Troglitazone rediscovery: 0.418803
+Thiothixene rediscovery: 0.456140
+Aripiprazole similarity: 0.592069
+Albuterol similarity: 0.714962
+Mestranol similarity: 0.627667
+C11H24: 0.669038
+C9H10N2O2PF2Cl: 0.732971
+Median molecules 1: 0.332236
+Median molecules 2: 0.349232
+Osimertinib MPO: 0.838829
+Fexofenadine MPO: 0.815488
+Total Score: 7.053/12 
+
+
+HIDDEN NODES: 900
+DROP PROB: 0.2
+LEARNING RATE: 0.0006
+EPOCH: 100
+Celecoxib rediscovery: 1.000000
+Troglitazone rediscovery: 0.613861
+Thiothixene rediscovery: 0.609524
+Aripiprazole similarity: 0.908488
+Albuterol similarity: 1.000000
+Mestranol similarity: 0.824943
+C11H24: 0.915937
+C9H10N2O2PF2Cl: 0.758057
+Median molecules 1: 0.357151
+Median molecules 2: 0.362390
+Osimertinib MPO: 0.852559
+Fexofenadine MPO: 0.835758
+Ranolazine MPO: 0.852365
+Perindopril MPO: 0.656388
+Amlodipine MPO: 0.756245
+Sitagliptin MPO: 0.507809
+Zaleplon MPO: 0.567212
+Valsartan SMARTS: 0.711747
+Deco Hop: 0.968956
+Scaffold Hop: 0.910069
+Total Score: 14.969/20 
+
+
+HIDDEN NODES: 600
+DROP PROB: 0.2
+LEARNING RATE: 0.0004
+EPOCH: 147
+Celecoxib rediscovery: 0.700000
+Troglitazone rediscovery: 0.632653
+Thiothixene rediscovery: 0.596330
+Aripiprazole similarity: 0.879748
+Albuterol similarity: 0.999349
+Mestranol similarity: 0.831583
+C11H24: 0.858119
+C9H10N2O2PF2Cl: 0.748994
+Median molecules 1: 0.347981
+Median molecules 2: 0.362121
+Osimertinib MPO: 0.864813
+Fexofenadine MPO: 0.871293
+Ranolazine MPO: 0.809107
+Perindopril MPO: 0.603474
+Amlodipine MPO: 0.742765
+Sitagliptin MPO: 0.505969
+Zaleplon MPO: 0.546730
+Valsartan SMARTS: 0.415366
+Deco Hop: 0.935519
+Scaffold Hop: 0.906652
+Total Score: 14.159/20 
+
+
+HIDDEN NODES: 400
+DROP PROB: 0.2
+LEARNING RATE: 0.0003
+EPOCH: 150
+Celecoxib rediscovery: 0.685393
+Troglitazone rediscovery: 0.632653
+Thiothixene rediscovery: 0.643564
+Aripiprazole similarity: 0.896675
+Albuterol similarity: 1.000000
+Mestranol similarity: 0.861181
+Total Score: 4.719/6 
+
+
+HIDDEN NODES: 600
+DROP PROB: 0.4
+LEARNING RATE: 0.0006
+EPOCH: 143
+Celecoxib rediscovery: 0.505263
+Troglitazone rediscovery: 0.418803
+Thiothixene rediscovery: 0.456140
+Aripiprazole similarity: 0.592069
+Albuterol similarity: 0.714962
+Mestranol similarity: 0.627667
+C11H24: 0.666096
+C9H10N2O2PF2Cl: 0.733148
+Median molecules 1: 0.332236
+Median molecules 2: 0.349232
+Osimertinib MPO: 0.838829
+Fexofenadine MPO: 0.815488
+Total Score: 7.050/12 
+
+
+HIDDEN NODES: 400
+DROP PROB: 0.2
+LEARNING RATE: 0.0003
+Celecoxib rediscovery: 0.686047
+Troglitazone rediscovery: 0.635417
+Thiothixene rediscovery: 0.660377
+Aripiprazole similarity: 0.963078
+Albuterol similarity: 1.000000
+Mestranol similarity: 0.838737
+C11H24: 0.893450
+C9H10N2O2PF2Cl: 0.787343
+Median molecules 1: 0.350469
+Median molecules 2: 0.354758
+Osimertinib MPO: 0.852544
+Fexofenadine MPO: 0.835336
+Ranolazine MPO: 0.810785
+Perindopril MPO: 0.643264
+Amlodipine MPO: 0.746386
+Sitagliptin MPO: 0.517428
+Zaleplon MPO: 0.552793
+Total Score: 12.128/17 
+
+
+HIDDEN NODES: 600
+DROP PROB: 0.3
+LEARNING RATE: 0.0002
+EPOCH: 142
+Celecoxib rediscovery: 0.731707
+Troglitazone rediscovery: 0.635417
+Thiothixene rediscovery: 0.643564
+Aripiprazole similarity: 0.892611
+Albuterol similarity: 0.999962
+Mestranol similarity: 0.810291
+C11H24: 0.858534
+C9H10N2O2PF2Cl: 0.812463
+Median molecules 1: 0.356487
+Median molecules 2: 0.361774
+Osimertinib MPO: 0.865201
+Fexofenadine MPO: 0.853604
+Ranolazine MPO: 0.785325
+Perindopril MPO: 0.637929
+Amlodipine MPO: 0.756550
+Sitagliptin MPO: 0.518644
+Zaleplon MPO: 0.556157
+Valsartan SMARTS: 0.927527
+Deco Hop: 0.939137
+Scaffold Hop: 0.841341
+Total Score: 14.784/20 
+
+
+HIDDEN NODES: 900
+DROP PROB: 0.3
+LEARNING RATE: 0.0002
+EPOCH: 200
+Celecoxib rediscovery: 0.775000
+Troglitazone rediscovery: 0.689320
+Thiothixene rediscovery: 0.652893
+Aripiprazole similarity: 0.940575
+Albuterol similarity: 1.000000
+Mestranol similarity: 0.896470
+C11H24: 0.941322
+C9H10N2O2PF2Cl: 0.808087
+Median molecules 1: 0.363191
+Median molecules 2: 0.390252
+Osimertinib MPO: 0.862477
+Fexofenadine MPO: 0.873197
+Ranolazine MPO: 0.847305
+Perindopril MPO: 0.657349
+Amlodipine MPO: 0.748894
+Sitagliptin MPO: 0.551607
+Zaleplon MPO: 0.589368
+Valsartan SMARTS: 0.837727
+Deco Hop: 0.958444
+Scaffold Hop: 1.000000
+Total Score: 15.383/20 
+
+
+HIDDEN NODES: 300
+DROP PROB: 0.2
+LEARNING RATE: 0.0003
+EPOCH: 125
+Celecoxib rediscovery: 0.701149
+Troglitazone rediscovery: 0.598214
+Thiothixene rediscovery: 0.536364
+Aripiprazole similarity: 0.855451
+Albuterol similarity: 0.993834
+Mestranol similarity: 0.734205
+C11H24: 0.893963
+C9H10N2O2PF2Cl: 0.776561
+Median molecules 1: 0.345964
+Median molecules 2: 0.354182
+Osimertinib MPO: 0.843292
+Fexofenadine MPO: 0.834683
+Ranolazine MPO: 0.802142
+Perindopril MPO: 0.591625
+Amlodipine MPO: 0.747402
+Sitagliptin MPO: 0.505429
+Zaleplon MPO: 0.544903
+Valsartan SMARTS: 0.263069
+Deco Hop: 0.932671
+Scaffold Hop: 0.919342
+Total Score: 13.774/20 
+
+
+HIDDEN NODES: 400
+DROP PROB: 0.2
+LEARNING RATE: 0.0003
+EPOCH: 175
+Celecoxib rediscovery: 0.694118
+Troglitazone rediscovery: 0.632653
+Thiothixene rediscovery: 0.700000
+Aripiprazole similarity: 0.908110
+Albuterol similarity: 0.992073
+Mestranol similarity: 0.843323
+Total Score: 4.770/6 
+
+
+HIDDEN NODES: 900
+DROP PROB: 0.4
+LEARNING RATE: 0.0002
+EPOCH: 150
+Celecoxib rediscovery: 0.741935
+Troglitazone rediscovery: 0.611111
+Thiothixene rediscovery: 0.625000
+Aripiprazole similarity: 0.900406
+Albuterol similarity: 0.985621
+Mestranol similarity: 0.751530
+C11H24: 0.860915
+C9H10N2O2PF2Cl: 0.798289
+Median molecules 1: 0.343320
+Median molecules 2: 0.356702
+Osimertinib MPO: 0.851545
+Fexofenadine MPO: 0.830914
+Ranolazine MPO: 0.806145
+Perindopril MPO: 0.658411
+Amlodipine MPO: 0.744982
+Sitagliptin MPO: 0.507013
+Zaleplon MPO: 0.545092
+Valsartan SMARTS: 0.860974
+Deco Hop: 0.941628
+Scaffold Hop: 0.955023
+Total Score: 14.677/20 
+
+
+HIDDEN NODES: 300
+DROP PROB: 0.2
+LEARNING RATE: 0.0004
+EPOCH: 200
+Celecoxib rediscovery: 0.775000
+Troglitazone rediscovery: 0.711340
+Thiothixene rediscovery: 0.680412
+Aripiprazole similarity: 0.861820
+Albuterol similarity: 1.000000
+Mestranol similarity: 0.905366
+C11H24: 0.890736
+C9H10N2O2PF2Cl: 0.786592
+Median molecules 1: 0.357877
+Median molecules 2: 0.353894
+Osimertinib MPO: 0.858460
+Fexofenadine MPO: 0.850818
+Ranolazine MPO: 0.817289
+Perindopril MPO: 0.645241
+Amlodipine MPO: 0.752073
+Sitagliptin MPO: 0.512944
+Zaleplon MPO: 0.549281
+Valsartan SMARTS: 0.830251
+Deco Hop: 0.948787
+Scaffold Hop: 0.960209
+Total Score: 15.048/20 
+
+
+HIDDEN NODES: 800
+DROP PROB: 0.3
+LEARNING RATE: 0.0004
+EPOCH: 125
+Celecoxib rediscovery: 0.505263
+Troglitazone rediscovery: 0.418803
+Thiothixene rediscovery: 0.456140
+Aripiprazole similarity: 0.592069
+Albuterol similarity: 0.714962
+Mestranol similarity: 0.627667
+C11H24: 0.676686
+C9H10N2O2PF2Cl: 0.733280
+Median molecules 1: 0.332236
+Median molecules 2: 0.349232
+Osimertinib MPO: 0.838829
+Fexofenadine MPO: 0.815488
+Total Score: 7.061/12 
+
+
+HIDDEN NODES: 500
+DROP PROB: 0.2
+LEARNING RATE: 0.0004
+EPOCH: 200
+Celecoxib rediscovery: 0.844156
+Troglitazone rediscovery: 0.635417
+Thiothixene rediscovery: 0.568627
+Aripiprazole similarity: 0.891256
+Albuterol similarity: 0.997932
+Mestranol similarity: 0.861934
+C11H24: 0.854101
+C9H10N2O2PF2Cl: 0.773931
+Median molecules 1: 0.353177
+Median molecules 2: 0.356756
+Osimertinib MPO: 0.853798
+Fexofenadine MPO: 0.850882
+Ranolazine MPO: 0.821031
+Perindopril MPO: 0.630023
+Amlodipine MPO: 0.747124
+Sitagliptin MPO: 0.517662
+Zaleplon MPO: 0.549181
+Valsartan SMARTS: 0.758855
+Deco Hop: 0.939035
+Scaffold Hop: 0.854738
+Total Score: 14.660/20 
+
+
+HIDDEN NODES: 400
+DROP PROB: 0.2
+LEARNING RATE: 0.0002
+Celecoxib rediscovery: 0.725000
+Troglitazone rediscovery: 0.666667
+Thiothixene rediscovery: 0.757009
+Aripiprazole similarity: 0.934365
+Albuterol similarity: 0.996698
+Mestranol similarity: 0.892483
+C11H24: 0.973563
+C9H10N2O2PF2Cl: 0.811855
+Median molecules 1: 0.352055
+Median molecules 2: 0.356948
+Osimertinib MPO: 0.842924
+Fexofenadine MPO: 0.841627
+Ranolazine MPO: 0.849909
+Perindopril MPO: 0.645662
+Amlodipine MPO: 0.736773
+Sitagliptin MPO: 0.511623
+Zaleplon MPO: 0.555760
+Valsartan SMARTS: 0.866384
+Total Score: 13.317/18 
+
+
+HIDDEN NODES: 400
+DROP PROB: 0.2
+LEARNING RATE: 0.0001
+Celecoxib rediscovery: 1.000000
+Troglitazone rediscovery: 0.861702
+Thiothixene rediscovery: 0.770642
+Aripiprazole similarity: 0.903931
+Albuterol similarity: 0.991419
+Mestranol similarity: 0.827990
+C11H24: 0.862847
+C9H10N2O2PF2Cl: 0.834447
+Median molecules 1: 0.356254
+Median molecules 2: 0.359463
+Osimertinib MPO: 0.858343
+Fexofenadine MPO: 0.868008
+Ranolazine MPO: 0.821990
+Perindopril MPO: 0.615682
+Amlodipine MPO: 0.761255
+Sitagliptin MPO: 0.532108
+Zaleplon MPO: 0.546117
+Valsartan SMARTS: 0.910355
+Total Score: 13.683/18 
+
+
+HIDDEN NODES: 600
+DROP PROB: 0.4
+LEARNING RATE: 0.0002
+EPOCH: 142
+Celecoxib rediscovery: 0.753086
+Troglitazone rediscovery: 0.537736
+Thiothixene rediscovery: 0.625000
+Aripiprazole similarity: 0.937087
+Albuterol similarity: 0.992811
+Mestranol similarity: 0.814815
+C11H24: 0.790703
+C9H10N2O2PF2Cl: 0.769897
+Median molecules 1: 0.351235
+Median molecules 2: 0.374926
+Osimertinib MPO: 0.856289
+Fexofenadine MPO: 0.854690
+Ranolazine MPO: 0.787813
+Perindopril MPO: 0.625611
+Amlodipine MPO: 0.736846
+Sitagliptin MPO: 0.509599
+Zaleplon MPO: 0.544153
+Valsartan SMARTS: 0.274736
+Deco Hop: 0.933322
+Total Score: 13.070/19 
+
+
+HIDDEN NODES: 900
+DROP PROB: 0.4
+LEARNING RATE: 0.0002
+EPOCH: 175
+Celecoxib rediscovery: 0.736842
+Troglitazone rediscovery: 0.632653
+Thiothixene rediscovery: 0.627451
+Aripiprazole similarity: 0.912381
+Albuterol similarity: 0.989320
+Mestranol similarity: 0.713014
+C11H24: 0.810400
+C9H10N2O2PF2Cl: 0.772052
+Median molecules 1: 0.347036
+Median molecules 2: 0.351908
+Total Score: 6.893/10 
+
+
+HIDDEN NODES: 900
+DROP PROB: 0.2
+LEARNING RATE: 0.0004
+EPOCH: 81
+Celecoxib rediscovery: 0.651163
+Troglitazone rediscovery: 0.617886
+Thiothixene rediscovery: 0.554545
+Aripiprazole similarity: 0.919275
+Albuterol similarity: 1.000000
+Mestranol similarity: 0.829572
+C11H24: 0.850992
+C9H10N2O2PF2Cl: 0.779438
+Median molecules 1: 0.336541
+Median molecules 2: 0.373445
+Osimertinib MPO: 0.855671
+Fexofenadine MPO: 0.854808
+Ranolazine MPO: 0.802984
+Perindopril MPO: 0.641041
+Amlodipine MPO: 0.729318
+Sitagliptin MPO: 0.521907
+Zaleplon MPO: 0.548759
+Valsartan SMARTS: 0.529091
+Deco Hop: 0.938397
+Scaffold Hop: 0.815665
+Total Score: 14.150/20 
+
+
+HIDDEN NODES: 400
+DROP PROB: 0.3
+LEARNING RATE: 0.0003
+EPOCH: 150
+Celecoxib rediscovery: 0.868421
+Troglitazone rediscovery: 0.635417
+Thiothixene rediscovery: 0.670000
+Aripiprazole similarity: 0.951176
+Albuterol similarity: 1.000000
+Mestranol similarity: 0.882140
+Total Score: 5.007/6 
+
+
+HIDDEN NODES: 400
+DROP PROB: 0.2
+LEARNING RATE: 0.0002
+Celecoxib rediscovery: 0.753247
+Troglitazone rediscovery: 0.652174
+Thiothixene rediscovery: 0.695238
+Aripiprazole similarity: 0.906939
+Albuterol similarity: 1.000000
+Mestranol similarity: 0.831758
+C11H24: 0.984343
+C9H10N2O2PF2Cl: 0.783669
+Median molecules 1: 0.356111
+Total Score: 6.963/9 
+
+
+HIDDEN NODES: 300
+DROP PROB: 0.2
+LEARNING RATE: 0.0001
+EPOCH: 150
+Celecoxib rediscovery: 0.662500
+Troglitazone rediscovery: 0.718447
+Thiothixene rediscovery: 0.663158
+Aripiprazole similarity: 0.906757
+Albuterol similarity: 0.999779
+Mestranol similarity: 0.875053
+C11H24: 0.971253
+C9H10N2O2PF2Cl: 0.808385
+Median molecules 1: 0.356545
+Median molecules 2: 0.352507
+Osimertinib MPO: 0.850240
+Fexofenadine MPO: 0.841373
+Ranolazine MPO: 0.821671
+Perindopril MPO: 0.608145
+Amlodipine MPO: 0.716998
+Sitagliptin MPO: 0.521313
+Zaleplon MPO: 0.546420
+Valsartan SMARTS: 0.879969
+Deco Hop: 0.954658
+Scaffold Hop: 0.954431
+Total Score: 15.010/20 
+
+
+HIDDEN NODES: 800
+DROP PROB: 0.4
+LEARNING RATE: 0.0004
+EPOCH: 123
+Celecoxib rediscovery: 0.505263
+Troglitazone rediscovery: 0.418803
+Thiothixene rediscovery: 0.456140
+Aripiprazole similarity: 0.592069
+Albuterol similarity: 0.714962
+Mestranol similarity: 0.627667
+C11H24: 0.666697
+C9H10N2O2PF2Cl: 0.732971
+Median molecules 1: 0.332236
+Median molecules 2: 0.349232
+Osimertinib MPO: 0.838829
+Fexofenadine MPO: 0.815488
+Total Score: 7.050/12 
+
+
+HIDDEN NODES: 800
+DROP PROB: 0.3
+LEARNING RATE: 0.0002
+EPOCH: 175
+Celecoxib rediscovery: 0.797468
+Troglitazone rediscovery: 0.646465
+Thiothixene rediscovery: 0.677083
+Aripiprazole similarity: 0.964705
+Albuterol similarity: 1.000000
+Mestranol similarity: 0.796473
+C11H24: 0.746539
+C9H10N2O2PF2Cl: 0.774634
+Median molecules 1: 0.336304
+Median molecules 2: 0.354818
+Osimertinib MPO: 0.857659
+Fexofenadine MPO: 0.847226
+Ranolazine MPO: 0.810712
+Perindopril MPO: 0.659930
+Amlodipine MPO: 0.735834
+Sitagliptin MPO: 0.518035
+Zaleplon MPO: 0.545769
+Valsartan SMARTS: 0.539933
+Deco Hop: 0.934771
+Total Score: 13.544/19 
+
+
+HIDDEN NODES: 400
+DROP PROB: 0.3
+LEARNING RATE: 0.0003
+EPOCH: 175
+Celecoxib rediscovery: 0.844156
+Troglitazone rediscovery: 0.737864
+Thiothixene rediscovery: 0.673469
+Aripiprazole similarity: 0.957704
+Albuterol similarity: 1.000000
+Mestranol similarity: 0.899269
+Total Score: 5.112/6 
+
+
+HIDDEN NODES: 700
+DROP PROB: 0.2
+LEARNING RATE: 0.0004
+EPOCH: 129
+Celecoxib rediscovery: 0.505263
+Troglitazone rediscovery: 0.418803
+Thiothixene rediscovery: 0.456140
+Aripiprazole similarity: 0.592069
+Albuterol similarity: 0.714962
+Mestranol similarity: 0.627667
+Total Score: 3.315/6 
+
+
+HIDDEN NODES: 900
+DROP PROB: 0.3
+LEARNING RATE: 0.0004
+EPOCH: 150
+Celecoxib rediscovery: 0.505263
+Troglitazone rediscovery: 0.418803
+Thiothixene rediscovery: 0.456140
+Aripiprazole similarity: 0.592069
+Albuterol similarity: 0.714962
+Mestranol similarity: 0.627667
+Total Score: 3.315/6 
+
+
+HIDDEN NODES: 400
+DROP PROB: 0.2
+LEARNING RATE: 0.0002
+EPOCH: 175
+Celecoxib rediscovery: 0.753247
+Troglitazone rediscovery: 0.563636
+Thiothixene rediscovery: 0.564815
+Aripiprazole similarity: 0.881432
+Albuterol similarity: 0.945917
+Mestranol similarity: 0.694086
+Total Score: 4.403/6 
+
+
+HIDDEN NODES: 1100
+DROP PROB: 0.2
+LEARNING RATE: 0.0006
+EPOCH: 45
+Celecoxib rediscovery: 0.505263
+Troglitazone rediscovery: 0.418803
+Thiothixene rediscovery: 0.456140
+Aripiprazole similarity: 0.592069
+Albuterol similarity: 0.714962
+Mestranol similarity: 0.627667
+C11H24: 0.681552
+C9H10N2O2PF2Cl: 0.732971
+Median molecules 1: 0.332236
+Median molecules 2: 0.349232
+Osimertinib MPO: 0.838829
+Fexofenadine MPO: 0.815488
+Total Score: 7.065/12 
+
+
+HIDDEN NODES: 500
+DROP PROB: 0.3
+LEARNING RATE: 0.0004
+EPOCH: 173
+Celecoxib rediscovery: 0.753086
+Troglitazone rediscovery: 0.500000
+Thiothixene rediscovery: 0.541985
+Aripiprazole similarity: 0.836948
+Albuterol similarity: 0.981518
+Mestranol similarity: 0.779048
+C11H24: 0.769663
+C9H10N2O2PF2Cl: 0.757867
+Median molecules 1: 0.339976
+Median molecules 2: 0.363192
+Osimertinib MPO: 0.846632
+Fexofenadine MPO: 0.841243
+Ranolazine MPO: 0.797358
+Perindopril MPO: 0.651338
+Amlodipine MPO: 0.734249
+Sitagliptin MPO: 0.510028
+Zaleplon MPO: 0.549185
+Valsartan SMARTS: 0.474689
+Deco Hop: 0.932361
+Total Score: 12.960/19 
+
+
+HIDDEN NODES: 900
+DROP PROB: 0.4
+LEARNING RATE: 0.0004
+EPOCH: 175
+Celecoxib rediscovery: 0.753247
+Troglitazone rediscovery: 0.654545
+Thiothixene rediscovery: 0.645833
+Aripiprazole similarity: 0.883914
+Albuterol similarity: 1.000000
+Mestranol similarity: 0.896206
+C11H24: 0.875410
+C9H10N2O2PF2Cl: 0.801031
+Median molecules 1: 0.359608
+Median molecules 2: 0.355978
+Osimertinib MPO: 0.844978
+Fexofenadine MPO: 0.845655
+Ranolazine MPO: 0.842771
+Perindopril MPO: 0.655813
+Amlodipine MPO: 0.755153
+Sitagliptin MPO: 0.507546
+Zaleplon MPO: 0.548415
+Valsartan SMARTS: 0.673385
+Deco Hop: 0.935962
+Total Score: 13.835/19 
+
+
+HIDDEN NODES: 700
+DROP PROB: 0.2
+LEARNING RATE: 0.0005
+EPOCH: 21745578
+Celecoxib rediscovery: 0.505263
+Troglitazone rediscovery: 0.418803
+Thiothixene rediscovery: 0.456140
+Aripiprazole similarity: 0.592069
+Albuterol similarity: 0.714962
+Mestranol similarity: 0.627667
+C11H24: 0.674816
+C9H10N2O2PF2Cl: 0.733103
+Median molecules 1: 0.332236
+Median molecules 2: 0.349232
+Osimertinib MPO: 0.838829
+Fexofenadine MPO: 0.815488
+Total Score: 7.059/12 
+
+
+HIDDEN NODES: 300
+DROP PROB: 0.3
+LEARNING RATE: 0.0006
+EPOCH: 175
+Celecoxib rediscovery: 0.775000
+Troglitazone rediscovery: 0.647541
+Thiothixene rediscovery: 0.725490
+Aripiprazole similarity: 0.873487
+Albuterol similarity: 1.000000
+Mestranol similarity: 0.872667
+C11H24: 0.979466
+C9H10N2O2PF2Cl: 0.792589
+Median molecules 1: 0.361786
+Median molecules 2: 0.354229
+Osimertinib MPO: 0.848323
+Fexofenadine MPO: 0.842852
+Ranolazine MPO: 0.846727
+Perindopril MPO: 0.628817
+Amlodipine MPO: 0.759782
+Sitagliptin MPO: 0.511399
+Zaleplon MPO: 0.552057
+Valsartan SMARTS: 0.467387
+Deco Hop: 0.946944
+Scaffold Hop: 0.770688
+Total Score: 14.557/20 
+
+
+HIDDEN NODES: 400
+DROP PROB: 0.3
+LEARNING RATE: 0.0006
+EPOCH: 159
+Celecoxib rediscovery: 0.505263
+Troglitazone rediscovery: 0.418803
+Thiothixene rediscovery: 0.456140
+Aripiprazole similarity: 0.592069
+Albuterol similarity: 0.714962
+Mestranol similarity: 0.627667
+Total Score: 3.315/6 
+
+
+HIDDEN NODES: 400
+DROP PROB: 0.2
+LEARNING RATE: 0.0004
+Celecoxib rediscovery: 0.775000
+Troglitazone rediscovery: 0.635417
+Thiothixene rediscovery: 0.643564
+Aripiprazole similarity: 0.862639
+Albuterol similarity: 1.000000
+Mestranol similarity: 0.856828
+C11H24: 0.913994
+C9H10N2O2PF2Cl: 0.805802
+Median molecules 1: 0.366284
+Median molecules 2: 0.358784
+Osimertinib MPO: 0.861987
+Fexofenadine MPO: 0.855971
+Ranolazine MPO: 0.817743
+Total Score: 9.754/13 
+
+
+HIDDEN NODES: 900
+DROP PROB: 0.4
+LEARNING RATE: 0.0004
+EPOCH: 150
+Celecoxib rediscovery: 0.775000
+Troglitazone rediscovery: 0.613861
+Thiothixene rediscovery: 0.622642
+Aripiprazole similarity: 0.882827
+Albuterol similarity: 1.000000
+Mestranol similarity: 0.885693
+C11H24: 0.877720
+C9H10N2O2PF2Cl: 0.789955
+Median molecules 1: 0.356235
+Median molecules 2: 0.357458
+Osimertinib MPO: 0.845799
+Fexofenadine MPO: 0.842922
+Ranolazine MPO: 0.829458
+Perindopril MPO: 0.609772
+Amlodipine MPO: 0.722002
+Sitagliptin MPO: 0.509615
+Zaleplon MPO: 0.549565
+Valsartan SMARTS: 0.797631
+Deco Hop: 0.950288
+Total Score: 13.818/19 
+
+
+HIDDEN NODES: 700
+DROP PROB: 0.2
+LEARNING RATE: 0.0005
+EPOCH: 21745576
+Celecoxib rediscovery: 0.505263
+Troglitazone rediscovery: 0.418803
+Thiothixene rediscovery: 0.456140
+Aripiprazole similarity: 0.592069
+Albuterol similarity: 0.714962
+Mestranol similarity: 0.627667
+C11H24: 0.670649
+Total Score: 3.986/7 
+
+
+HIDDEN NODES: 300
+DROP PROB: 0.3
+LEARNING RATE: 0.0004
+EPOCH: 200
+Celecoxib rediscovery: 0.773810
+Troglitazone rediscovery: 0.563107
+Thiothixene rediscovery: 0.684685
+Aripiprazole similarity: 0.884343
+Albuterol similarity: 1.000000
+Mestranol similarity: 0.809982
+C11H24: 0.858080
+C9H10N2O2PF2Cl: 0.802424
+Median molecules 1: 0.346980
+Median molecules 2: 0.349542
+Osimertinib MPO: 0.853529
+Fexofenadine MPO: 0.844875
+Ranolazine MPO: 0.812262
+Perindopril MPO: 0.656109
+Amlodipine MPO: 0.761653
+Sitagliptin MPO: 0.556806
+Zaleplon MPO: 0.550718
+Total Score: 12.109/17 
+
+
+HIDDEN NODES: 1000
+DROP PROB: 0.3
+LEARNING RATE: 0.0004
+EPOCH: 50
+Celecoxib rediscovery: 0.505263
+Troglitazone rediscovery: 0.418803
+Thiothixene rediscovery: 0.456140
+Aripiprazole similarity: 0.592069
+Albuterol similarity: 0.714962
+Mestranol similarity: 0.627667
+C11H24: 0.680252
+C9H10N2O2PF2Cl: 0.733103
+Median molecules 1: 0.332236
+Median molecules 2: 0.349232
+Osimertinib MPO: 0.838829
+Fexofenadine MPO: 0.815488
+Total Score: 7.064/12 
+
+
+HIDDEN NODES: 700
+DROP PROB: 0.2
+LEARNING RATE: 0.0004
+EPOCH: 200
+Total Score: 0.000/0 
+
+
+HIDDEN NODES: 400
+DROP PROB: 0.2
+LEARNING RATE: 0.0001
+EPOCH: 200
+Celecoxib rediscovery: 0.844156
+Troglitazone rediscovery: 0.641667
+Thiothixene rediscovery: 0.698925
+Aripiprazole similarity: 0.813942
+Albuterol similarity: 0.997375
+Mestranol similarity: 0.870944
+C11H24: 0.983316
+C9H10N2O2PF2Cl: 0.813781
+Median molecules 1: 0.350869
+Total Score: 7.015/9 
+
+
+HIDDEN NODES: 400
+DROP PROB: 0.4
+LEARNING RATE: 0.0004
+EPOCH: 150
+Celecoxib rediscovery: 0.705882
+Troglitazone rediscovery: 0.609524
+Thiothixene rediscovery: 0.605505
+Aripiprazole similarity: 0.868867
+Albuterol similarity: 1.000000
+Mestranol similarity: 0.836168
+C11H24: 0.865169
+C9H10N2O2PF2Cl: 0.799312
+Median molecules 1: 0.353891
+Median molecules 2: 0.351470
+Osimertinib MPO: 0.855277
+Fexofenadine MPO: 0.840619
+Ranolazine MPO: 0.786576
+Perindopril MPO: 0.637448
+Amlodipine MPO: 0.761020
+Sitagliptin MPO: 0.521473
+Zaleplon MPO: 0.551252
+Valsartan SMARTS: 0.830173
+Deco Hop: 0.934809
+Scaffold Hop: 0.783405
+Total Score: 14.498/20 
+
+
+HIDDEN NODES: 300
+DROP PROB: 0.4
+LEARNING RATE: 0.0006
+EPOCH: 150
+Celecoxib rediscovery: 0.731707
+Troglitazone rediscovery: 0.537736
+Thiothixene rediscovery: 0.549550
+Aripiprazole similarity: 0.867147
+Albuterol similarity: 0.998268
+Mestranol similarity: 0.860955
+C11H24: 0.866647
+C9H10N2O2PF2Cl: 0.799099
+Median molecules 1: 0.352649
+Median molecules 2: 0.352718
+Osimertinib MPO: 0.846267
+Fexofenadine MPO: 0.836446
+Ranolazine MPO: 0.815117
+Perindopril MPO: 0.596932
+Amlodipine MPO: 0.724861
+Sitagliptin MPO: 0.516687
+Zaleplon MPO: 0.546822
+Valsartan SMARTS: 0.688848
+Deco Hop: 0.935138
+Scaffold Hop: 0.956141
+Total Score: 14.380/20 
+
+
+HIDDEN NODES: 400
+DROP PROB: 0.3
+LEARNING RATE: 0.0002
+EPOCH: 200
+Celecoxib rediscovery: 0.741935
+Troglitazone rediscovery: 0.658120
+Thiothixene rediscovery: 0.616162
+Aripiprazole similarity: 0.948657
+Albuterol similarity: 1.000000
+Mestranol similarity: 0.837184
+C11H24: 0.973820
+C9H10N2O2PF2Cl: 0.832434
+Median molecules 1: 0.351810
+Median molecules 2: 0.351658
+Osimertinib MPO: 0.862277
+Fexofenadine MPO: 0.848471
+Ranolazine MPO: 0.812110
+Perindopril MPO: 0.669945
+Amlodipine MPO: 0.762504
+Sitagliptin MPO: 0.524858
+Zaleplon MPO: 0.552561
+Valsartan SMARTS: 0.905949
+Deco Hop: 0.933382
+Total Score: 14.184/19 
+
+
+HIDDEN NODES: 400
+DROP PROB: 0.2
+LEARNING RATE: 0.0004
+Celecoxib rediscovery: 1.000000
+Troglitazone rediscovery: 1.000000
+Thiothixene rediscovery: 0.833333
+Aripiprazole similarity: 0.927221
+Albuterol similarity: 1.000000
+Mestranol similarity: 0.870557
+C11H24: 0.980750
+C9H10N2O2PF2Cl: 0.809638
+Median molecules 1: 0.364876
+Median molecules 2: 0.361825
+Osimertinib MPO: 0.857879
+Fexofenadine MPO: 0.858563
+Ranolazine MPO: 0.834605
+Perindopril MPO: 0.639714
+Amlodipine MPO: 0.783347
+Sitagliptin MPO: 0.518294
+Zaleplon MPO: 0.557231
+Valsartan SMARTS: 0.692800
+Total Score: 13.891/18 
+
+
+HIDDEN NODES: 300
+DROP PROB: 0.4
+LEARNING RATE: 0.0005
+EPOCH: 200
+Celecoxib rediscovery: 0.505263
+Troglitazone rediscovery: 0.418803
+Thiothixene rediscovery: 0.456140
+Aripiprazole similarity: 0.592069
+Albuterol similarity: 0.714962
+Mestranol similarity: 0.627667
+C11H24: 0.666667
+Total Score: 3.982/7 
+
+
+HIDDEN NODES: 1100
+DROP PROB: 0.2
+LEARNING RATE: 0.0002
+EPOCH: 44
+Celecoxib rediscovery: 0.776471
+Troglitazone rediscovery: 0.635417
+Thiothixene rediscovery: 0.645833
+Aripiprazole similarity: 0.904906
+Albuterol similarity: 0.996114
+Mestranol similarity: 0.697177
+C11H24: 0.855359
+C9H10N2O2PF2Cl: 0.800492
+Median molecules 1: 0.356522
+Median molecules 2: 0.361370
+Osimertinib MPO: 0.847709
+Fexofenadine MPO: 0.831682
+Ranolazine MPO: 0.784805
+Perindopril MPO: 0.601096
+Amlodipine MPO: 0.736522
+Sitagliptin MPO: 0.515356
+Zaleplon MPO: 0.548329
+Valsartan SMARTS: 0.340963
+Total Score: 12.236/18 
+
+
+HIDDEN NODES: 1000
+DROP PROB: 0.2
+LEARNING RATE: 0.0002
+EPOCH: 47
+Celecoxib rediscovery: 0.709302
+Troglitazone rediscovery: 0.634783
+Thiothixene rediscovery: 0.707965
+Aripiprazole similarity: 0.867067
+Albuterol similarity: 1.000000
+Mestranol similarity: 0.752028
+C11H24: 0.779917
+C9H10N2O2PF2Cl: 0.819153
+Median molecules 1: 0.338141
+Median molecules 2: 0.376695
+Osimertinib MPO: 0.857531
+Fexofenadine MPO: 0.847746
+Ranolazine MPO: 0.780077
+Perindopril MPO: 0.612063
+Amlodipine MPO: 0.746907
+Sitagliptin MPO: 0.516368
+Zaleplon MPO: 0.546448
+Valsartan SMARTS: 0.488821
+Deco Hop: 0.934214
+Total Score: 13.315/19 
+
+
+HIDDEN NODES: 200
+DROP PROB: 0.4
+LEARNING RATE: 0.0005
+EPOCH: 200
+Celecoxib rediscovery: 0.701149
+Troglitazone rediscovery: 0.679612
+Thiothixene rediscovery: 0.483333
+Aripiprazole similarity: 0.695569
+Albuterol similarity: 0.974620
+Mestranol similarity: 0.627936
+C11H24: 0.706062
+C9H10N2O2PF2Cl: 0.746571
+Median molecules 1: 0.335818
+Median molecules 2: 0.351836
+Osimertinib MPO: 0.840061
+Fexofenadine MPO: 0.846147
+Ranolazine MPO: 0.786595
+Perindopril MPO: 0.597765
+Amlodipine MPO: 0.726588
+Sitagliptin MPO: 0.509910
+Zaleplon MPO: 0.544715
+Valsartan SMARTS: 0.272397
+Deco Hop: 0.932075
+Total Score: 12.359/19 
+
+
+HIDDEN NODES: 900
+DROP PROB: 0.4
+LEARNING RATE: 0.0004
+EPOCH: 200
+Celecoxib rediscovery: 0.814815
+Troglitazone rediscovery: 0.654545
+Thiothixene rediscovery: 0.616162
+Aripiprazole similarity: 0.868523
+Albuterol similarity: 1.000000
+Mestranol similarity: 0.895894
+C11H24: 0.869740
+C9H10N2O2PF2Cl: 0.803650
+Median molecules 1: 0.359534
+Median molecules 2: 0.356620
+Osimertinib MPO: 0.852343
+Fexofenadine MPO: 0.851913
+Ranolazine MPO: 0.837937
+Perindopril MPO: 0.651244
+Amlodipine MPO: 0.767054
+Sitagliptin MPO: 0.511437
+Zaleplon MPO: 0.555098
+Valsartan SMARTS: 0.708837
+Deco Hop: 0.945266
+Scaffold Hop: 0.967236
+Total Score: 14.888/20 
+
+
+HIDDEN NODES: 900
+DROP PROB: 0.4
+LEARNING RATE: 0.0006
+EPOCH: 175
+Celecoxib rediscovery: 0.505263
+Troglitazone rediscovery: 0.418803
+Thiothixene rediscovery: 0.456140
+Aripiprazole similarity: 0.592069
+Albuterol similarity: 0.714962
+Mestranol similarity: 0.627667
+C11H24: 0.675703
+C9H10N2O2PF2Cl: 0.732971
+Median molecules 1: 0.332236
+Median molecules 2: 0.349232
+Osimertinib MPO: 0.838829
+Fexofenadine MPO: 0.815488
+Total Score: 7.059/12 
+
+
+HIDDEN NODES: 200
+DROP PROB: 0.3
+LEARNING RATE: 0.0005
+EPOCH: 200
+Celecoxib rediscovery: 0.775000
+Troglitazone rediscovery: 0.570093
+Thiothixene rediscovery: 0.643564
+Aripiprazole similarity: 0.852428
+Albuterol similarity: 0.999314
+Mestranol similarity: 0.856706
+C11H24: 0.895491
+C9H10N2O2PF2Cl: 0.776504
+Median molecules 1: 0.353359
+Median molecules 2: 0.355619
+Osimertinib MPO: 0.846355
+Fexofenadine MPO: 0.843721
+Ranolazine MPO: 0.813336
+Perindopril MPO: 0.618589
+Amlodipine MPO: 0.766147
+Sitagliptin MPO: 0.513383
+Zaleplon MPO: 0.548446
+Valsartan SMARTS: 0.703655
+Deco Hop: 0.935905
+Total Score: 13.668/19 
+
+
+HIDDEN NODES: 400
+DROP PROB: 0.3
+LEARNING RATE: 0.0004
+EPOCH: 175
+Celecoxib rediscovery: 1.000000
+Troglitazone rediscovery: 0.806122
+Thiothixene rediscovery: 0.715789
+Aripiprazole similarity: 0.939405
+Albuterol similarity: 1.000000
+Mestranol similarity: 0.881048
+C11H24: 0.957027
+C9H10N2O2PF2Cl: 0.795434
+Median molecules 1: 0.367050
+Median molecules 2: 0.363444
+Osimertinib MPO: 0.862403
+Fexofenadine MPO: 0.867038
+Ranolazine MPO: 0.843911
+Perindopril MPO: 0.651097
+Amlodipine MPO: 0.814124
+Sitagliptin MPO: 0.519863
+Zaleplon MPO: 0.557284
+Valsartan SMARTS: 0.821842
+Deco Hop: 0.981373
+Scaffold Hop: 0.965856
+Total Score: 15.710/20 
+
+
+HIDDEN NODES: 700
+DROP PROB: 0.3
+LEARNING RATE: 0.0004
+EPOCH: 98
+Celecoxib rediscovery: 0.731707
+Troglitazone rediscovery: 0.616162
+Thiothixene rediscovery: 0.609756
+Aripiprazole similarity: 0.881172
+Albuterol similarity: 1.000000
+Mestranol similarity: 0.823032
+C11H24: 0.860915
+C9H10N2O2PF2Cl: 0.793335
+Median molecules 1: 0.350670
+Median molecules 2: 0.356624
+Osimertinib MPO: 0.853220
+Fexofenadine MPO: 0.848933
+Ranolazine MPO: 0.816013
+Perindopril MPO: 0.648253
+Amlodipine MPO: 0.769460
+Sitagliptin MPO: 0.521016
+Zaleplon MPO: 0.557119
+Valsartan SMARTS: 0.719586
+Deco Hop: 0.939466
+Scaffold Hop: 0.784124
+Total Score: 14.481/20 
+
+
+HIDDEN NODES: 300
+DROP PROB: 0.3
+LEARNING RATE: 0.0002
+EPOCH: 175
+Celecoxib rediscovery: 0.797468
+Troglitazone rediscovery: 0.635417
+Thiothixene rediscovery: 0.627451
+Aripiprazole similarity: 0.903289
+Albuterol similarity: 1.000000
+Mestranol similarity: 0.848566
+C11H24: 0.899756
+C9H10N2O2PF2Cl: 0.792173
+Median molecules 1: 0.358022
+Median molecules 2: 0.358452
+Osimertinib MPO: 0.864783
+Fexofenadine MPO: 0.854281
+Ranolazine MPO: 0.830822
+Perindopril MPO: 0.605589
+Amlodipine MPO: 0.761861
+Sitagliptin MPO: 0.522148
+Zaleplon MPO: 0.555246
+Valsartan SMARTS: 0.664721
+Deco Hop: 0.935807
+Scaffold Hop: 0.943914
+Total Score: 14.760/20 
+
+
+HIDDEN NODES: 500
+DROP PROB: 0.2
+LEARNING RATE: 0.0001
+Celecoxib rediscovery: 0.731707
+Troglitazone rediscovery: 0.576577
+Thiothixene rediscovery: 0.568627
+Aripiprazole similarity: 0.933096
+Albuterol similarity: 0.999981
+Mestranol similarity: 0.876338
+C11H24: 0.895063
+C9H10N2O2PF2Cl: 0.818055
+Median molecules 1: 0.359445
+Median molecules 2: 0.354316
+Osimertinib MPO: 0.840521
+Fexofenadine MPO: 0.826101
+Ranolazine MPO: 0.800650
+Perindopril MPO: 0.580650
+Amlodipine MPO: 0.705572
+Sitagliptin MPO: 0.503196
+Zaleplon MPO: 0.548995
+Valsartan SMARTS: 0.327290
+Total Score: 12.246/18 
+
+
+HIDDEN NODES: 400
+DROP PROB: 0.2
+LEARNING RATE: 0.0003
+EPOCH: 200
+Celecoxib rediscovery: 0.731707
+Troglitazone rediscovery: 0.600000
+Thiothixene rediscovery: 0.643564
+Aripiprazole similarity: 0.947372
+Albuterol similarity: 0.999802
+Mestranol similarity: 0.833525
+C11H24: 0.987937
+C9H10N2O2PF2Cl: 0.796966
+Median molecules 1: 0.358002
+Median molecules 2: 0.355897
+Osimertinib MPO: 0.858678
+Fexofenadine MPO: 0.847600
+Ranolazine MPO: 0.822472
+Perindopril MPO: 0.641236
+Amlodipine MPO: 0.765498
+Sitagliptin MPO: 0.526889
+Zaleplon MPO: 0.564001
+Valsartan SMARTS: 0.890258
+Deco Hop: 0.933645
+Scaffold Hop: 0.929329
+Total Score: 15.034/20 
+
+
+HIDDEN NODES: 900
+DROP PROB: 0.2
+LEARNING RATE: 0.0006
+EPOCH: 125
+Total Score: 0.000/0 
+
+
+HIDDEN NODES: 400
+DROP PROB: 0.3
+LEARNING RATE: 0.0004
+EPOCH: 150
+Celecoxib rediscovery: 1.000000
+Troglitazone rediscovery: 0.752475
+Thiothixene rediscovery: 0.714286
+Aripiprazole similarity: 0.955971
+Albuterol similarity: 1.000000
+Mestranol similarity: 0.837890
+C11H24: 0.977926
+C9H10N2O2PF2Cl: 0.792362
+Median molecules 1: 0.364865
+Median molecules 2: 0.366363
+Osimertinib MPO: 0.866768
+Fexofenadine MPO: 0.849829
+Ranolazine MPO: 0.825667
+Perindopril MPO: 0.685237
+Amlodipine MPO: 0.782075
+Sitagliptin MPO: 0.527781
+Zaleplon MPO: 0.556409
+Valsartan SMARTS: 0.913185
+Deco Hop: 0.980751
+Scaffold Hop: 0.984447
+Total Score: 15.734/20 
+
+
+HIDDEN NODES: 400
+DROP PROB: 0.2
+LEARNING RATE: 0.0002
+EPOCH: 150
+Celecoxib rediscovery: 0.663043
+Troglitazone rediscovery: 0.570093
+Thiothixene rediscovery: 0.575000
+Aripiprazole similarity: 0.905359
+Albuterol similarity: 0.979174
+Mestranol similarity: 0.685898
+C11H24: 0.840940
+C9H10N2O2PF2Cl: 0.806151
+Median molecules 1: 0.341454
+Median molecules 2: 0.355601
+Osimertinib MPO: 0.853372
+Fexofenadine MPO: 0.837017
+Ranolazine MPO: 0.785383
+Perindopril MPO: 0.591906
+Amlodipine MPO: 0.740972
+Sitagliptin MPO: 0.507698
+Zaleplon MPO: 0.544711
+Valsartan SMARTS: 0.278032
+Deco Hop: 0.932374
+Scaffold Hop: 0.821898
+Total Score: 13.616/20 
+
+
+HIDDEN NODES: 900
+DROP PROB: 0.4
+LEARNING RATE: 0.0002
+EPOCH: 109
+Celecoxib rediscovery: 0.766667
+Troglitazone rediscovery: 0.666667
+Thiothixene rediscovery: 0.795699
+Aripiprazole similarity: 0.969274
+Albuterol similarity: 0.985437
+Mestranol similarity: 0.756423
+C11H24: 0.820094
+C9H10N2O2PF2Cl: 0.791978
+Median molecules 1: 0.349564
+Median molecules 2: 0.361763
+Osimertinib MPO: 0.857504
+Fexofenadine MPO: 0.826503
+Ranolazine MPO: 0.787352
+Perindopril MPO: 0.647870
+Amlodipine MPO: 0.722293
+Sitagliptin MPO: 0.513334
+Zaleplon MPO: 0.544791
+Valsartan SMARTS: 0.294376
+Deco Hop: 0.932202
+Total Score: 13.390/19 
+
+
+HIDDEN NODES: 800
+DROP PROB: 0.2
+LEARNING RATE: 0.0004
+EPOCH: 200
+Celecoxib rediscovery: 0.505263
+Troglitazone rediscovery: 0.418803
+Thiothixene rediscovery: 0.456140
+Aripiprazole similarity: 0.592069
+Albuterol similarity: 0.714962
+Mestranol similarity: 0.627667
+C11H24: 0.665913
+C9H10N2O2PF2Cl: 0.732971
+Median molecules 1: 0.332236
+Median molecules 2: 0.349232
+Osimertinib MPO: 0.838829
+Fexofenadine MPO: 0.815488
+Total Score: 7.050/12 
+
+
+HIDDEN NODES: 600
+DROP PROB: 0.4
+LEARNING RATE: 0.0004
+EPOCH: 135
+Celecoxib rediscovery: 0.844156
+Troglitazone rediscovery: 0.703297
+Thiothixene rediscovery: 1.000000
+Aripiprazole similarity: 0.919772
+Albuterol similarity: 1.000000
+Mestranol similarity: 0.893805
+C11H24: 0.900147
+C9H10N2O2PF2Cl: 0.812677
+Median molecules 1: 0.358450
+Median molecules 2: 0.357041
+Osimertinib MPO: 0.858807
+Fexofenadine MPO: 0.865669
+Ranolazine MPO: 0.826445
+Perindopril MPO: 0.651616
+Amlodipine MPO: 0.832073
+Sitagliptin MPO: 0.531339
+Zaleplon MPO: 0.552635
+Valsartan SMARTS: 0.852283
+Deco Hop: 0.961324
+Scaffold Hop: 0.981471
+Total Score: 15.703/20 
+
+
+HIDDEN NODES: 300
+DROP PROB: 0.3
+LEARNING RATE: 0.0003
+EPOCH: 200
+Total Score: 0.000/0 
+
+
+HIDDEN NODES: 1000
+DROP PROB: 0.2
+LEARNING RATE: 0.0006
+EPOCH: 47
+Celecoxib rediscovery: 0.505263
+Troglitazone rediscovery: 0.418803
+Thiothixene rediscovery: 0.456140
+Aripiprazole similarity: 0.592069
+Albuterol similarity: 0.714962
+Mestranol similarity: 0.627667
+C11H24: 0.687472
+Total Score: 4.002/7 
+
+
+HIDDEN NODES: 100
+DROP PROB: 0.3
+LEARNING RATE: 0.0003
+EPOCH: 200
+Celecoxib rediscovery: 1.000000
+Troglitazone rediscovery: 0.488889
+Thiothixene rediscovery: 0.666667
+Aripiprazole similarity: 0.843292
+Albuterol similarity: 0.998855
+Mestranol similarity: 0.691629
+C11H24: 0.880556
+C9H10N2O2PF2Cl: 0.785013
+Median molecules 1: 0.356573
+Median molecules 2: 0.351449
+Osimertinib MPO: 0.841361
+Fexofenadine MPO: 0.822327
+Total Score: 8.727/12 
+
+
+HIDDEN NODES: 300
+DROP PROB: 0.2
+LEARNING RATE: 0.0004
+EPOCH: 150
+Celecoxib rediscovery: 0.844156
+Troglitazone rediscovery: 0.680851
+Thiothixene rediscovery: 0.720000
+Aripiprazole similarity: 0.864952
+Albuterol similarity: 1.000000
+Mestranol similarity: 0.881434
+C11H24: 0.886165
+C9H10N2O2PF2Cl: 0.791057
+Median molecules 1: 0.364316
+Median molecules 2: 0.358145
+Osimertinib MPO: 0.851248
+Fexofenadine MPO: 0.855831
+Ranolazine MPO: 0.817246
+Perindopril MPO: 0.620951
+Amlodipine MPO: 0.773881
+Sitagliptin MPO: 0.512691
+Zaleplon MPO: 0.566676
+Valsartan SMARTS: 0.901734
+Deco Hop: 0.945778
+Scaffold Hop: 0.983184
+Total Score: 15.220/20 
+
+
+HIDDEN NODES: 800
+DROP PROB: 0.4
+LEARNING RATE: 0.0004
+EPOCH: 125
+Celecoxib rediscovery: 0.505263
+Troglitazone rediscovery: 0.418803
+Thiothixene rediscovery: 0.456140
+Aripiprazole similarity: 0.592069
+Albuterol similarity: 0.714962
+Mestranol similarity: 0.627667
+C11H24: 0.666310
+C9H10N2O2PF2Cl: 0.732971
+Median molecules 1: 0.332236
+Median molecules 2: 0.349232
+Osimertinib MPO: 0.838829
+Fexofenadine MPO: 0.815488
+Total Score: 7.050/12 
+
+
+HIDDEN NODES: 400
+DROP PROB: 0.2
+LEARNING RATE: 0.0001
+Celecoxib rediscovery: 0.835443
+Troglitazone rediscovery: 0.666667
+Thiothixene rediscovery: 0.718750
+Aripiprazole similarity: 0.880653
+Albuterol similarity: 0.998706
+Mestranol similarity: 0.765257
+C11H24: 0.892215
+C9H10N2O2PF2Cl: 0.754449
+Median molecules 1: 0.348233
+Median molecules 2: 0.354241
+Osimertinib MPO: 0.840120
+Fexofenadine MPO: 0.822843
+Ranolazine MPO: 0.738435
+Perindopril MPO: 0.641004
+Amlodipine MPO: 0.737000
+Sitagliptin MPO: 0.504270
+Zaleplon MPO: 0.568851
+Total Score: 12.067/17 
+
+
+HIDDEN NODES: 300
+DROP PROB: 0.2
+LEARNING RATE: 0.0003
+EPOCH: 175
+Celecoxib rediscovery: 0.775000
+Troglitazone rediscovery: 0.630000
+Thiothixene rediscovery: 0.566038
+Aripiprazole similarity: 0.821174
+Albuterol similarity: 0.994103
+Mestranol similarity: 0.664588
+C11H24: 0.923014
+C9H10N2O2PF2Cl: 0.786131
+Median molecules 1: 0.350278
+Median molecules 2: 0.364998
+Osimertinib MPO: 0.849973
+Fexofenadine MPO: 0.849981
+Ranolazine MPO: 0.807207
+Perindopril MPO: 0.636221
+Amlodipine MPO: 0.757525
+Sitagliptin MPO: 0.525911
+Zaleplon MPO: 0.549842
+Valsartan SMARTS: 0.433975
+Deco Hop: 0.942296
+Scaffold Hop: 0.984232
+Total Score: 14.212/20 
+
+
+HIDDEN NODES: 300
+DROP PROB: 0.4
+LEARNING RATE: 0.0004
+EPOCH: 125
+Celecoxib rediscovery: 0.686047
+Troglitazone rediscovery: 0.575221
+Thiothixene rediscovery: 0.632653
+Aripiprazole similarity: 0.893656
+Albuterol similarity: 0.983468
+Mestranol similarity: 0.817446
+C11H24: 0.838675
+C9H10N2O2PF2Cl: 0.785324
+Median molecules 1: 0.347829
+Median molecules 2: 0.358172
+Osimertinib MPO: 0.851539
+Fexofenadine MPO: 0.834971
+Ranolazine MPO: 0.781446
+Perindopril MPO: 0.594904
+Amlodipine MPO: 0.761548
+Sitagliptin MPO: 0.524513
+Zaleplon MPO: 0.545795
+Valsartan SMARTS: 0.523033
+Deco Hop: 0.932098
+Scaffold Hop: 0.826629
+Total Score: 14.095/20 
+
+
+HIDDEN NODES: 800
+DROP PROB: 0.2
+LEARNING RATE: 0.0002
+EPOCH: 150
+Celecoxib rediscovery: 0.766667
+Troglitazone rediscovery: 0.585185
+Thiothixene rediscovery: 0.663265
+Aripiprazole similarity: 0.967147
+Albuterol similarity: 1.000000
+Mestranol similarity: 0.818567
+C11H24: 0.865647
+C9H10N2O2PF2Cl: 0.830721
+Median molecules 1: 0.349948
+Median molecules 2: 0.357935
+Osimertinib MPO: 0.855158
+Fexofenadine MPO: 0.886762
+Ranolazine MPO: 0.822019
+Perindopril MPO: 0.678729
+Amlodipine MPO: 0.775725
+Sitagliptin MPO: 0.514287
+Zaleplon MPO: 0.546375
+Valsartan SMARTS: 0.912862
+Deco Hop: 0.976188
+Scaffold Hop: 0.951321
+Total Score: 15.125/20 
+
+
+HIDDEN NODES: 400
+DROP PROB: 0.2
+LEARNING RATE: 0.0004
+EPOCH: 200
+Total Score: 0.000/0 
+
+
+HIDDEN NODES: 600
+DROP PROB: 0.2
+LEARNING RATE: 0.0001
+EPOCH: 200
+Celecoxib rediscovery: 0.812500
+Troglitazone rediscovery: 0.706422
+Thiothixene rediscovery: 0.770642
+Aripiprazole similarity: 0.905297
+Total Score: 3.195/4 
+
+
+HIDDEN NODES: 600
+DROP PROB: 0.2
+LEARNING RATE: 0.0004
+EPOCH: 147
+Celecoxib rediscovery: 0.694118
+Troglitazone rediscovery: 0.633028
+Thiothixene rediscovery: 0.576577
+Aripiprazole similarity: 0.887673
+Albuterol similarity: 0.998197
+Mestranol similarity: 0.848120
+C11H24: 0.853827
+C9H10N2O2PF2Cl: 0.743706
+Median molecules 1: 0.345794
+Median molecules 2: 0.355681
+Osimertinib MPO: 0.844289
+Fexofenadine MPO: 0.852126
+Ranolazine MPO: 0.781326
+Perindopril MPO: 0.576896
+Amlodipine MPO: 0.720115
+Sitagliptin MPO: 0.521715
+Zaleplon MPO: 0.548041
+Valsartan SMARTS: 0.736868
+Deco Hop: 0.932526
+Scaffold Hop: 0.844672
+Total Score: 14.295/20 
+
+
+HIDDEN NODES: 800
+DROP PROB: 0.4
+LEARNING RATE: 0.0002
+EPOCH: 125
+Celecoxib rediscovery: 0.753247
+Troglitazone rediscovery: 0.653846
+Thiothixene rediscovery: 0.562500
+Aripiprazole similarity: 0.884750
+Albuterol similarity: 0.961087
+Mestranol similarity: 0.660615
+C11H24: 0.713680
+C9H10N2O2PF2Cl: 0.766377
+Median molecules 1: 0.343867
+Median molecules 2: 0.351555
+Osimertinib MPO: 0.860442
+Fexofenadine MPO: 0.833267
+Ranolazine MPO: 0.781621
+Perindopril MPO: 0.592840
+Amlodipine MPO: 0.729568
+Sitagliptin MPO: 0.517522
+Zaleplon MPO: 0.550193
+Valsartan SMARTS: 0.580978
+Deco Hop: 0.937723
+Total Score: 13.036/19 
+
+
+HIDDEN NODES: 800
+DROP PROB: 0.2
+LEARNING RATE: 0.0006
+EPOCH: 150
+Total Score: 0.000/0 
+
+
+HIDDEN NODES: 500
+DROP PROB: 0.2
+LEARNING RATE: 0.0001
+EPOCH: 200
+Celecoxib rediscovery: 0.766667
+Troglitazone rediscovery: 0.630000
+Thiothixene rediscovery: 0.740000
+Aripiprazole similarity: 0.872191
+Albuterol similarity: 0.985259
+Total Score: 3.994/5 
+
+
+HIDDEN NODES: 800
+DROP PROB: 0.2
+LEARNING RATE: 0.0004
+EPOCH: 100
+Celecoxib rediscovery: 0.505263
+Troglitazone rediscovery: 0.418803
+Thiothixene rediscovery: 0.456140
+Aripiprazole similarity: 0.592069
+Albuterol similarity: 0.714962
+Mestranol similarity: 0.627667
+C11H24: 0.673029
+Total Score: 3.988/7 
+
+
+HIDDEN NODES: 400
+DROP PROB: 0.2
+LEARNING RATE: 0.0001
+Celecoxib rediscovery: 1.000000
+Troglitazone rediscovery: 0.646465
+Thiothixene rediscovery: 0.795699
+Aripiprazole similarity: 0.909725
+Albuterol similarity: 0.980661
+Mestranol similarity: 0.841728
+C11H24: 0.970483
+C9H10N2O2PF2Cl: 0.848633
+Median molecules 1: 0.345405
+Median molecules 2: 0.355312
+Total Score: 7.694/10 
+
+
+HIDDEN NODES: 500
+DROP PROB: 0.3
+LEARNING RATE: 0.0002
+EPOCH: 165
+Celecoxib rediscovery: 0.775000
+Troglitazone rediscovery: 0.677966
+Thiothixene rediscovery: 0.580952
+Aripiprazole similarity: 0.927598
+Total Score: 2.962/4 
+
+
+HIDDEN NODES: 800
+DROP PROB: 0.2
+LEARNING RATE: 0.0006
+EPOCH: 175
+Total Score: 0.000/0 
+
+
+HIDDEN NODES: 1100
+DROP PROB: 0.4
+LEARNING RATE: 0.0006
+EPOCH: 44
+Celecoxib rediscovery: 0.505263
+Troglitazone rediscovery: 0.418803
+Thiothixene rediscovery: 0.456140
+Aripiprazole similarity: 0.592069
+Albuterol similarity: 0.714962
+Mestranol similarity: 0.627667
+C11H24: 0.690175
+C9H10N2O2PF2Cl: 0.733148
+Median molecules 1: 0.332236
+Median molecules 2: 0.349232
+Osimertinib MPO: 0.838829
+Fexofenadine MPO: 0.815488
+Total Score: 7.074/12 
+
+
+HIDDEN NODES: 400
+DROP PROB: 0.2
+LEARNING RATE: 0.0001
+EPOCH: 150
+Celecoxib rediscovery: 0.756098
+Troglitazone rediscovery: 0.652174
+Thiothixene rediscovery: 0.792453
+Aripiprazole similarity: 0.903516
+Albuterol similarity: 1.000000
+Mestranol similarity: 0.824520
+C11H24: 0.974333
+C9H10N2O2PF2Cl: 0.784006
+Median molecules 1: 0.357195
+Median molecules 2: 0.358147
+Osimertinib MPO: 0.867327
+Total Score: 8.270/11 
+
+
+HIDDEN NODES: 500
+DROP PROB: 0.2
+LEARNING RATE: 0.0004
+EPOCH: 200
+Celecoxib rediscovery: 0.797468
+Troglitazone rediscovery: 0.611650
+Thiothixene rediscovery: 0.670000
+Aripiprazole similarity: 0.922817
+Albuterol similarity: 0.999397
+Mestranol similarity: 0.885163
+C11H24: 0.837738
+C9H10N2O2PF2Cl: 0.775132
+Median molecules 1: 0.352887
+Median molecules 2: 0.351573
+Osimertinib MPO: 0.856929
+Fexofenadine MPO: 0.863011
+Ranolazine MPO: 0.819852
+Perindopril MPO: 0.627971
+Amlodipine MPO: 0.755813
+Sitagliptin MPO: 0.516783
+Zaleplon MPO: 0.553551
+Valsartan SMARTS: 0.629389
+Deco Hop: 0.934935
+Scaffold Hop: 0.824277
+Total Score: 14.586/20 
+
+
+HIDDEN NODES: 800
+DROP PROB: 0.3
+LEARNING RATE: 0.0004
+EPOCH: 100
+Celecoxib rediscovery: 0.505263
+Troglitazone rediscovery: 0.418803
+Thiothixene rediscovery: 0.456140
+Aripiprazole similarity: 0.592069
+Albuterol similarity: 0.714962
+Mestranol similarity: 0.627667
+C11H24: 0.672350
+Total Score: 3.987/7 
+
+
+HIDDEN NODES: 400
+DROP PROB: 0.4
+LEARNING RATE: 0.0002
+EPOCH: 150
+Celecoxib rediscovery: 0.775000
+Troglitazone rediscovery: 0.632653
+Thiothixene rediscovery: 0.580357
+Aripiprazole similarity: 0.931864
+Albuterol similarity: 1.000000
+Mestranol similarity: 0.867088
+C11H24: 0.880690
+C9H10N2O2PF2Cl: 0.841816
+Median molecules 1: 0.365993
+Median molecules 2: 0.355757
+Osimertinib MPO: 0.855308
+Fexofenadine MPO: 0.846265
+Ranolazine MPO: 0.764969
+Perindopril MPO: 0.596823
+Amlodipine MPO: 0.715565
+Sitagliptin MPO: 0.529299
+Zaleplon MPO: 0.551862
+Valsartan SMARTS: 0.310046
+Deco Hop: 0.934060
+Total Score: 13.335/19 
+
+
+HIDDEN NODES: 400
+DROP PROB: 0.2
+LEARNING RATE: 0.0004
+EPOCH: 150
+Celecoxib rediscovery: 0.844156
+Troglitazone rediscovery: 0.718447
+Thiothixene rediscovery: 0.686869
+Aripiprazole similarity: 0.926021
+Albuterol similarity: 1.000000
+Mestranol similarity: 0.867900
+C11H24: 0.983316
+C9H10N2O2PF2Cl: 0.797953
+Median molecules 1: 0.368765
+Median molecules 2: 0.358105
+Osimertinib MPO: 0.846001
+Fexofenadine MPO: 0.871853
+Ranolazine MPO: 0.827981
+Perindopril MPO: 0.649102
+Amlodipine MPO: 0.742405
+Sitagliptin MPO: 0.530633
+Zaleplon MPO: 0.553736
+Valsartan SMARTS: 0.856980
+Deco Hop: 0.950059
+Scaffold Hop: 0.874900
+Total Score: 15.255/20 
+
+
+HIDDEN NODES: 900
+DROP PROB: 0.4
+LEARNING RATE: 0.0002
+EPOCH: 200
+Celecoxib rediscovery: 0.741935
+Troglitazone rediscovery: 0.675676
+Thiothixene rediscovery: 0.698925
+Aripiprazole similarity: 0.903420
+Albuterol similarity: 0.996283
+Mestranol similarity: 0.687678
+C11H24: 0.864460
+C9H10N2O2PF2Cl: 0.762731
+Median molecules 1: 0.346563
+Median molecules 2: 0.351019
+Osimertinib MPO: 0.844583
+Fexofenadine MPO: 0.826843
+Ranolazine MPO: 0.776363
+Perindopril MPO: 0.607759
+Amlodipine MPO: 0.732439
+Sitagliptin MPO: 0.503349
+Zaleplon MPO: 0.544286
+Valsartan SMARTS: 0.282098
+Deco Hop: 0.932430
+Scaffold Hop: 0.809162
+Total Score: 13.888/20 
+
+
+HIDDEN NODES: 300
+DROP PROB: 0.4
+LEARNING RATE: 0.0004
+EPOCH: 175
+Celecoxib rediscovery: 0.775000
+Troglitazone rediscovery: 0.576577
+Thiothixene rediscovery: 0.557522
+Aripiprazole similarity: 0.893558
+Albuterol similarity: 0.997649
+Mestranol similarity: 0.819586
+C11H24: 0.856210
+C9H10N2O2PF2Cl: 0.779753
+Median molecules 1: 0.350377
+Median molecules 2: 0.357569
+Osimertinib MPO: 0.849235
+Fexofenadine MPO: 0.837610
+Ranolazine MPO: 0.796284
+Perindopril MPO: 0.614838
+Amlodipine MPO: 0.763044
+Sitagliptin MPO: 0.521397
+Zaleplon MPO: 0.547090
+Valsartan SMARTS: 0.613863
+Deco Hop: 0.932207
+Scaffold Hop: 0.855501
+Total Score: 14.295/20 
+
+
+HIDDEN NODES: 800
+DROP PROB: 0.2
+LEARNING RATE: 0.0002
+EPOCH: 175
+Celecoxib rediscovery: 0.775000
+Troglitazone rediscovery: 0.648148
+Thiothixene rediscovery: 0.880435
+Aripiprazole similarity: 0.949150
+Albuterol similarity: 0.992001
+Mestranol similarity: 0.947695
+C11H24: 0.977670
+C9H10N2O2PF2Cl: 0.794789
+Median molecules 1: 0.363854
+Median molecules 2: 0.364494
+Osimertinib MPO: 0.866825
+Fexofenadine MPO: 0.871800
+Ranolazine MPO: 0.821273
+Perindopril MPO: 0.664149
+Amlodipine MPO: 0.751287
+Sitagliptin MPO: 0.517181
+Zaleplon MPO: 0.550489
+Valsartan SMARTS: 0.848086
+Deco Hop: 0.934987
+Scaffold Hop: 0.978463
+Total Score: 15.498/20 
+
+
+HIDDEN NODES: 600
+DROP PROB: 0.2
+LEARNING RATE: 0.0001
+EPOCH: 150
+Total Score: 0.000/0 
+
+
+HIDDEN NODES: 1100
+DROP PROB: 0.4
+LEARNING RATE: 0.0004
+EPOCH: 44
+Celecoxib rediscovery: 0.670588
+Troglitazone rediscovery: 0.510345
+Thiothixene rediscovery: 0.592593
+Aripiprazole similarity: 0.903781
+Albuterol similarity: 0.993103
+Mestranol similarity: 0.721900
+C11H24: 0.760245
+C9H10N2O2PF2Cl: 0.759154
+Median molecules 1: 0.350004
+Median molecules 2: 0.359423
+Osimertinib MPO: 0.844747
+Fexofenadine MPO: 0.834355
+Ranolazine MPO: 0.780913
+Perindopril MPO: 0.589317
+Amlodipine MPO: 0.719627
+Sitagliptin MPO: 0.514636
+Zaleplon MPO: 0.549689
+Valsartan SMARTS: 0.356797
+Deco Hop: 0.933050
+Total Score: 12.744/19 
+
+
+HIDDEN NODES: 500
+DROP PROB: 0.4
+LEARNING RATE: 0.0006
+EPOCH: 104
+Celecoxib rediscovery: 0.505263
+Troglitazone rediscovery: 0.418803
+Thiothixene rediscovery: 0.456140
+Aripiprazole similarity: 0.592069
+Albuterol similarity: 0.714962
+Mestranol similarity: 0.627667
+C11H24: 0.696620
+C9H10N2O2PF2Cl: 0.732971
+Median molecules 1: 0.332305
+Median molecules 2: 0.349232
+Osimertinib MPO: 0.838829
+Fexofenadine MPO: 0.815488
+Total Score: 7.080/12 
+
+
+HIDDEN NODES: 200
+DROP PROB: 0.4
+LEARNING RATE: 0.0003
+EPOCH: 200
+Celecoxib rediscovery: 0.844156
+Troglitazone rediscovery: 0.635417
+Thiothixene rediscovery: 0.670000
+Aripiprazole similarity: 0.902716
+Albuterol similarity: 1.000000
+Mestranol similarity: 0.838481
+C11H24: 0.984086
+C9H10N2O2PF2Cl: 0.804017
+Median molecules 1: 0.362201
+Median molecules 2: 0.353579
+Osimertinib MPO: 0.856244
+Fexofenadine MPO: 0.848795
+Ranolazine MPO: 0.811312
+Perindopril MPO: 0.627645
+Amlodipine MPO: 0.757189
+Sitagliptin MPO: 0.525418
+Zaleplon MPO: 0.550006
+Valsartan SMARTS: 0.831694
+Deco Hop: 0.950560
+Scaffold Hop: 0.754811
+Total Score: 14.908/20 
+
+
+HIDDEN NODES: 600
+DROP PROB: 0.2
+LEARNING RATE: 0.0003
+EPOCH: 175
+Celecoxib rediscovery: 0.835443
+Troglitazone rediscovery: 0.632653
+Thiothixene rediscovery: 0.605505
+Total Score: 2.074/3 
+
+
+HIDDEN NODES: 800
+DROP PROB: 0.4
+LEARNING RATE: 0.0002
+EPOCH: 100
+Celecoxib rediscovery: 0.731707
+Troglitazone rediscovery: 0.579365
+Thiothixene rediscovery: 0.630000
+Aripiprazole similarity: 0.850070
+Albuterol similarity: 0.981959
+Mestranol similarity: 0.818326
+C11H24: 0.745372
+C9H10N2O2PF2Cl: 0.759116
+Median molecules 1: 0.336132
+Median molecules 2: 0.349466
+Osimertinib MPO: 0.852922
+Fexofenadine MPO: 0.836636
+Ranolazine MPO: 0.779162
+Perindopril MPO: 0.581733
+Amlodipine MPO: 0.718101
+Sitagliptin MPO: 0.512879
+Zaleplon MPO: 0.546058
+Valsartan SMARTS: 0.349669
+Total Score: 11.959/18 
+
+
+HIDDEN NODES: 700
+DROP PROB: 0.3
+LEARNING RATE: 0.0006
+EPOCH: 132
+Celecoxib rediscovery: 0.505263
+Troglitazone rediscovery: 0.418803
+Thiothixene rediscovery: 0.456140
+Aripiprazole similarity: 0.592069
+Albuterol similarity: 0.714962
+Mestranol similarity: 0.627667
+C11H24: 0.672653
+C9H10N2O2PF2Cl: 0.733289
+Median molecules 1: 0.332236
+Median molecules 2: 0.349232
+Osimertinib MPO: 0.838829
+Fexofenadine MPO: 0.815488
+Total Score: 7.057/12 
+
+
+HIDDEN NODES: 400
+DROP PROB: 0.2
+LEARNING RATE: 0.0004
+EPOCH: 100
+Celecoxib rediscovery: 0.775000
+Troglitazone rediscovery: 0.635417
+Thiothixene rediscovery: 0.686869
+Aripiprazole similarity: 0.916010
+Albuterol similarity: 1.000000
+Mestranol similarity: 0.889899
+C11H24: 0.953935
+C9H10N2O2PF2Cl: 0.809437
+Median molecules 1: 0.370541
+Median molecules 2: 0.356851
+Osimertinib MPO: 0.854797
+Total Score: 8.249/11 
+
+
+HIDDEN NODES: 400
+DROP PROB: 0.2
+LEARNING RATE: 0.0004
+EPOCH: 200
+Total Score: 0.000/0 
+
+
+HIDDEN NODES: 300
+DROP PROB: 0.3
+LEARNING RATE: 0.0002
+EPOCH: 150
+Celecoxib rediscovery: 0.666667
+Troglitazone rediscovery: 0.649485
+Thiothixene rediscovery: 0.585859
+Aripiprazole similarity: 0.907854
+Albuterol similarity: 1.000000
+Mestranol similarity: 0.810961
+C11H24: 0.895637
+C9H10N2O2PF2Cl: 0.811081
+Median molecules 1: 0.359841
+Median molecules 2: 0.353653
+Osimertinib MPO: 0.861296
+Fexofenadine MPO: 0.859822
+Ranolazine MPO: 0.804552
+Perindopril MPO: 0.637573
+Amlodipine MPO: 0.761364
+Sitagliptin MPO: 0.518218
+Zaleplon MPO: 0.550496
+Valsartan SMARTS: 0.466237
+Deco Hop: 0.936456
+Scaffold Hop: 0.944977
+Total Score: 14.382/20 
+
+
+HIDDEN NODES: 300
+DROP PROB: 0.3
+LEARNING RATE: 0.0004
+EPOCH: 200
+Celecoxib rediscovery: 0.731707
+Troglitazone rediscovery: 0.607843
+Thiothixene rediscovery: 0.616162
+Aripiprazole similarity: 0.895091
+Albuterol similarity: 1.000000
+Mestranol similarity: 0.812690
+C11H24: 0.879346
+C9H10N2O2PF2Cl: 0.788669
+Median molecules 1: 0.344888
+Median molecules 2: 0.349985
+Osimertinib MPO: 0.848700
+Fexofenadine MPO: 0.845930
+Ranolazine MPO: 0.805231
+Perindopril MPO: 0.661010
+Amlodipine MPO: 0.721739
+Sitagliptin MPO: 0.525967
+Zaleplon MPO: 0.550348
+Valsartan SMARTS: 0.723970
+Deco Hop: 0.936292
+Scaffold Hop: 0.766961
+Total Score: 14.413/20 
+
+
+HIDDEN NODES: 600
+DROP PROB: 0.3
+LEARNING RATE: 0.0002
+EPOCH: 142
+Celecoxib rediscovery: 0.756098
+Troglitazone rediscovery: 0.632653
+Total Score: 1.389/2 
+
+
+HIDDEN NODES: 400
+DROP PROB: 0.2
+LEARNING RATE: 0.0004
+EPOCH: 175
+Celecoxib rediscovery: 0.775000
+Troglitazone rediscovery: 0.842105
+Thiothixene rediscovery: 0.734043
+Aripiprazole similarity: 0.926565
+Albuterol similarity: 1.000000
+Mestranol similarity: 0.886156
+C11H24: 0.983316
+C9H10N2O2PF2Cl: 0.804792
+Median molecules 1: 0.374232
+Median molecules 2: 0.362080
+Osimertinib MPO: 0.857131
+Fexofenadine MPO: 0.854379
+Ranolazine MPO: 0.842127
+Perindopril MPO: 0.680175
+Amlodipine MPO: 0.753693
+Sitagliptin MPO: 0.513936
+Zaleplon MPO: 0.558176
+Valsartan SMARTS: 0.885846
+Deco Hop: 0.963857
+Scaffold Hop: 0.854912
+Total Score: 15.453/20 
+
+
+HIDDEN NODES: 100
+DROP PROB: 0.4
+LEARNING RATE: 0.0005
+EPOCH: 200
+Celecoxib rediscovery: 0.814815
+Troglitazone rediscovery: 0.513761
+Thiothixene rediscovery: 0.610000
+Aripiprazole similarity: 0.836892
+Albuterol similarity: 0.994898
+Mestranol similarity: 0.801772
+C11H24: 0.977413
+C9H10N2O2PF2Cl: 0.769880
+Median molecules 1: 0.363075
+Median molecules 2: 0.349745
+Osimertinib MPO: 0.844699
+Fexofenadine MPO: 0.822416
+Ranolazine MPO: 0.845023
+Perindopril MPO: 0.574268
+Amlodipine MPO: 0.755319
+Sitagliptin MPO: 0.516945
+Zaleplon MPO: 0.546991
+Valsartan SMARTS: 0.529708
+Total Score: 12.468/18 
+
+
+HIDDEN NODES: 400
+DROP PROB: 0.3
+LEARNING RATE: 0.0004
+EPOCH: 200
+Celecoxib rediscovery: 0.844156
+Troglitazone rediscovery: 0.701923
+Thiothixene rediscovery: 0.634615
+Aripiprazole similarity: 0.916104
+Albuterol similarity: 1.000000
+Mestranol similarity: 0.883102
+C11H24: 0.965533
+C9H10N2O2PF2Cl: 0.790686
+Median molecules 1: 0.362903
+Median molecules 2: 0.366193
+Osimertinib MPO: 0.855437
+Fexofenadine MPO: 0.870921
+Ranolazine MPO: 0.843477
+Perindopril MPO: 0.661928
+Amlodipine MPO: 0.842904
+Sitagliptin MPO: 0.516393
+Zaleplon MPO: 0.568061
+Valsartan SMARTS: 0.895096
+Deco Hop: 0.971506
+Scaffold Hop: 0.955676
+Total Score: 15.447/20 
+
+
+HIDDEN NODES: 500
+DROP PROB: 0.2
+LEARNING RATE: 0.0005
+Celecoxib rediscovery: 0.750000
+Troglitazone rediscovery: 0.640351
+Thiothixene rediscovery: 0.736842
+Aripiprazole similarity: 0.936506
+Albuterol similarity: 1.000000
+Mestranol similarity: 0.924352
+C11H24: 0.920631
+C9H10N2O2PF2Cl: 0.796886
+Median molecules 1: 0.367227
+Median molecules 2: 0.360003
+Osimertinib MPO: 0.858993
+Fexofenadine MPO: 0.870503
+Ranolazine MPO: 0.825265
+Perindopril MPO: 0.619692
+Amlodipine MPO: 0.799724
+Sitagliptin MPO: 0.524087
+Zaleplon MPO: 0.545005
+Valsartan SMARTS: 0.624218
+Deco Hop: 0.937673
+Total Score: 14.038/19 
+
+
+HIDDEN NODES: 400
+DROP PROB: 0.2
+LEARNING RATE: 0.0004
+EPOCH: 150
+Celecoxib rediscovery: 0.695122
+Troglitazone rediscovery: 0.760417
+Thiothixene rediscovery: 0.686869
+Aripiprazole similarity: 0.951064
+Albuterol similarity: 1.000000
+Mestranol similarity: 0.893051
+C11H24: 0.984600
+C9H10N2O2PF2Cl: 0.812386
+Median molecules 1: 0.369617
+Median molecules 2: 0.358354
+Osimertinib MPO: 0.858255
+Fexofenadine MPO: 0.864319
+Ranolazine MPO: 0.831563
+Perindopril MPO: 0.659757
+Amlodipine MPO: 0.741337
+Sitagliptin MPO: 0.521978
+Zaleplon MPO: 0.564609
+Valsartan SMARTS: 0.893376
+Deco Hop: 0.940549
+Scaffold Hop: 0.824178
+Total Score: 15.211/20 
+
+
+HIDDEN NODES: 200
+DROP PROB: 0.3
+LEARNING RATE: 0.0003
+EPOCH: 200
+Celecoxib rediscovery: 1.000000
+Troglitazone rediscovery: 0.652174
+Thiothixene rediscovery: 0.663158
+Aripiprazole similarity: 0.906092
+Albuterol similarity: 1.000000
+Mestranol similarity: 0.823416
+C11H24: 0.929834
+C9H10N2O2PF2Cl: 0.812957
+Median molecules 1: 0.359625
+Median molecules 2: 0.360655
+Osimertinib MPO: 0.860595
+Fexofenadine MPO: 0.846531
+Ranolazine MPO: 0.813406
+Perindopril MPO: 0.653185
+Amlodipine MPO: 0.753869
+Sitagliptin MPO: 0.518005
+Zaleplon MPO: 0.576934
+Valsartan SMARTS: 0.923925
+Deco Hop: 0.961322
+Total Score: 14.416/19 
+
+
+HIDDEN NODES: 700
+DROP PROB: 0.4
+LEARNING RATE: 0.0006
+EPOCH: 95
+Celecoxib rediscovery: 0.775000
+Troglitazone rediscovery: 0.455556
+Thiothixene rediscovery: 0.527273
+Aripiprazole similarity: 0.869089
+Albuterol similarity: 0.985152
+Mestranol similarity: 0.668004
+C11H24: 0.974333
+C9H10N2O2PF2Cl: 0.761649
+Median molecules 1: 0.352659
+Median molecules 2: 0.349340
+Osimertinib MPO: 0.838877
+Fexofenadine MPO: 0.817641
+Ranolazine MPO: 0.790656
+Perindopril MPO: 0.571030
+Amlodipine MPO: 0.693241
+Sitagliptin MPO: 0.512269
+Zaleplon MPO: 0.544614
+Valsartan SMARTS: 0.259338
+Deco Hop: 0.932067
+Scaffold Hop: 0.722912
+Total Score: 13.401/20 
+
+
+HIDDEN NODES: 800
+DROP PROB: 0.4
+LEARNING RATE: 0.0006
+EPOCH: 150
+Celecoxib rediscovery: 0.505263
+Troglitazone rediscovery: 0.418803
+Thiothixene rediscovery: 0.456140
+Aripiprazole similarity: 0.592069
+Albuterol similarity: 0.714962
+Mestranol similarity: 0.627667
+C11H24: 0.672427
+C9H10N2O2PF2Cl: 0.732971
+Median molecules 1: 0.332236
+Median molecules 2: 0.349232
+Osimertinib MPO: 0.838829
+Fexofenadine MPO: 0.815488
+Total Score: 7.056/12 
+
+
+HIDDEN NODES: 500
+DROP PROB: 0.2
+LEARNING RATE: 0.0002
+EPOCH: 175
+Celecoxib rediscovery: 1.000000
+Troglitazone rediscovery: 0.816327
+Thiothixene rediscovery: 0.731183
+Aripiprazole similarity: 0.912937
+Albuterol similarity: 1.000000
+Total Score: 4.460/5 
+
+
+HIDDEN NODES: 800
+DROP PROB: 0.2
+LEARNING RATE: 0.0002
+EPOCH: 200
+Celecoxib rediscovery: 0.844156
+Troglitazone rediscovery: 0.666667
+Thiothixene rediscovery: 0.643564
+Aripiprazole similarity: 0.964764
+Albuterol similarity: 1.000000
+Mestranol similarity: 0.870290
+C11H24: 0.870644
+C9H10N2O2PF2Cl: 0.806812
+Median molecules 1: 0.365680
+Median molecules 2: 0.357796
+Osimertinib MPO: 0.864638
+Fexofenadine MPO: 0.861141
+Ranolazine MPO: 0.814487
+Perindopril MPO: 0.662340
+Amlodipine MPO: 0.761474
+Sitagliptin MPO: 0.527848
+Zaleplon MPO: 0.551064
+Valsartan SMARTS: 0.952050
+Deco Hop: 0.939163
+Scaffold Hop: 0.983833
+Total Score: 15.308/20 
+
+
+HIDDEN NODES: 400
+DROP PROB: 0.2
+LEARNING RATE: 0.0002
+EPOCH: 200
+Celecoxib rediscovery: 0.670588
+Troglitazone rediscovery: 0.734694
+Thiothixene rediscovery: 0.561404
+Aripiprazole similarity: 0.842565
+Albuterol similarity: 0.999064
+Mestranol similarity: 0.690898
+C11H24: 0.965606
+C9H10N2O2PF2Cl: 0.796931
+Median molecules 1: 0.349087
+Median molecules 2: 0.349372
+Osimertinib MPO: 0.844581
+Fexofenadine MPO: 0.847339
+Ranolazine MPO: 0.772401
+Perindopril MPO: 0.581053
+Amlodipine MPO: 0.695010
+Sitagliptin MPO: 0.505197
+Zaleplon MPO: 0.544152
+Valsartan SMARTS: 0.272899
+Total Score: 12.023/18 
+
+
+HIDDEN NODES: 500
+DROP PROB: 0.2
+LEARNING RATE: 0.0002
+EPOCH: 200
+Celecoxib rediscovery: 0.844156
+Troglitazone rediscovery: 0.689320
+Thiothixene rediscovery: 0.734043
+Aripiprazole similarity: 0.940049
+Albuterol similarity: 1.000000
+Total Score: 4.208/5 
+
+
+HIDDEN NODES: 300
+DROP PROB: 0.3
+LEARNING RATE: 0.0004
+EPOCH: 150
+Celecoxib rediscovery: 0.750000
+Troglitazone rediscovery: 0.596154
+Thiothixene rediscovery: 0.567568
+Total Score: 1.914/3 
+
+
+HIDDEN NODES: 600
+DROP PROB: 0.2
+LEARNING RATE: 0.0003
+EPOCH: 150
+Celecoxib rediscovery: 0.753247
+Troglitazone rediscovery: 0.702970
+Thiothixene rediscovery: 0.645833
+Total Score: 2.102/3 
+
+
+HIDDEN NODES: 400
+DROP PROB: 0.3
+LEARNING RATE: 0.0002
+EPOCH: 150
+Celecoxib rediscovery: 0.741935
+Troglitazone rediscovery: 0.630000
+Thiothixene rediscovery: 0.639640
+Aripiprazole similarity: 0.922489
+Albuterol similarity: 0.999111
+Mestranol similarity: 0.831899
+C11H24: 0.868713
+C9H10N2O2PF2Cl: 0.829284
+Median molecules 1: 0.357025
+Median molecules 2: 0.354725
+Osimertinib MPO: 0.851663
+Fexofenadine MPO: 0.852207
+Ranolazine MPO: 0.802286
+Perindopril MPO: 0.661375
+Amlodipine MPO: 0.718973
+Sitagliptin MPO: 0.515669
+Zaleplon MPO: 0.553015
+Valsartan SMARTS: 0.813876
+Deco Hop: 0.932054
+Total Score: 13.876/19 
+
+
+HIDDEN NODES: 100
+DROP PROB: 0.3
+LEARNING RATE: 0.0005
+EPOCH: 200
+Celecoxib rediscovery: 0.835443
+Troglitazone rediscovery: 0.504348
+Thiothixene rediscovery: 0.676471
+Aripiprazole similarity: 0.850565
+Albuterol similarity: 0.959348
+Mestranol similarity: 0.747536
+C11H24: 0.974590
+C9H10N2O2PF2Cl: 0.774358
+Median molecules 1: 0.354851
+Median molecules 2: 0.349381
+Osimertinib MPO: 0.840050
+Fexofenadine MPO: 0.824670
+Ranolazine MPO: 0.829448
+Perindopril MPO: 0.573680
+Amlodipine MPO: 0.769813
+Sitagliptin MPO: 0.510298
+Zaleplon MPO: 0.549073
+Valsartan SMARTS: 0.517886
+Deco Hop: 0.937865
+Scaffold Hop: 0.728867
+Total Score: 14.109/20 
+
+
+HIDDEN NODES: 500
+DROP PROB: 0.2
+LEARNING RATE: 0.0001
+EPOCH: 175
+Celecoxib rediscovery: 0.844156
+Troglitazone rediscovery: 0.792079
+Thiothixene rediscovery: 0.690722
+Aripiprazole similarity: 0.882339
+Albuterol similarity: 0.966119
+Total Score: 4.175/5 
+
+
+HIDDEN NODES: 800
+DROP PROB: 0.2
+LEARNING RATE: 0.0006
+EPOCH: 38
+Celecoxib rediscovery: 0.835443
+Troglitazone rediscovery: 0.705882
+Thiothixene rediscovery: 0.648936
+Aripiprazole similarity: 0.945291
+Albuterol similarity: 1.000000
+Mestranol similarity: 0.915257
+C11H24: 0.868835
+C9H10N2O2PF2Cl: 0.817925
+Median molecules 1: 0.370220
+Median molecules 2: 0.359217
+Osimertinib MPO: 0.876575
+Fexofenadine MPO: 0.882586
+Ranolazine MPO: 0.846171
+Perindopril MPO: 0.682818
+Amlodipine MPO: 0.781394
+Sitagliptin MPO: 0.524700
+Zaleplon MPO: 0.562979
+Valsartan SMARTS: 0.811535
+Deco Hop: 0.964572
+Scaffold Hop: 0.941412
+Total Score: 15.342/20 
+
+
+HIDDEN NODES: 400
+DROP PROB: 0.3
+LEARNING RATE: 0.0001
+EPOCH: 200
+Celecoxib rediscovery: 0.844156
+Troglitazone rediscovery: 0.710280
+Thiothixene rediscovery: 0.707865
+Aripiprazole similarity: 0.928150
+Albuterol similarity: 1.000000
+Mestranol similarity: 0.836757
+Total Score: 5.027/6 
+
+
+HIDDEN NODES: 400
+DROP PROB: 0.2
+LEARNING RATE: 0.0001
+Celecoxib rediscovery: 1.000000
+Troglitazone rediscovery: 0.675926
+Thiothixene rediscovery: 0.707865
+Aripiprazole similarity: 0.888558
+Albuterol similarity: 1.000000
+Mestranol similarity: 0.785868
+C11H24: 0.968943
+C9H10N2O2PF2Cl: 0.855413
+Median molecules 1: 0.359211
+Median molecules 2: 0.360113
+Osimertinib MPO: 0.857247
+Fexofenadine MPO: 0.842101
+Ranolazine MPO: 0.833335
+Perindopril MPO: 0.595621
+Amlodipine MPO: 0.699493
+Sitagliptin MPO: 0.506609
+Zaleplon MPO: 0.549020
+Valsartan SMARTS: 0.834403
+Total Score: 13.320/18 
+
+
+HIDDEN NODES: 800
+DROP PROB: 0.2
+LEARNING RATE: 0.0002
+EPOCH: 100
+Celecoxib rediscovery: 0.766667
+Troglitazone rediscovery: 0.666667
+Thiothixene rediscovery: 0.620690
+Aripiprazole similarity: 0.867947
+Albuterol similarity: 0.986546
+Mestranol similarity: 0.899434
+C11H24: 0.891066
+C9H10N2O2PF2Cl: 0.799685
+Median molecules 1: 0.368786
+Median molecules 2: 0.370006
+Osimertinib MPO: 0.866971
+Fexofenadine MPO: 0.863894
+Ranolazine MPO: 0.824391
+Perindopril MPO: 0.683674
+Amlodipine MPO: 0.786083
+Sitagliptin MPO: 0.536139
+Zaleplon MPO: 0.556935
+Valsartan SMARTS: 0.867060
+Deco Hop: 0.944571
+Scaffold Hop: 0.959694
+Total Score: 15.127/20 
+
+
+HIDDEN NODES: 800
+DROP PROB: 0.2
+LEARNING RATE: 0.0004
+EPOCH: 150
+Celecoxib rediscovery: 0.505263
+Troglitazone rediscovery: 0.418803
+Thiothixene rediscovery: 0.456140
+Aripiprazole similarity: 0.592069
+Albuterol similarity: 0.714962
+Mestranol similarity: 0.627667
+C11H24: 0.671685
+C9H10N2O2PF2Cl: 0.732971
+Median molecules 1: 0.332236
+Median molecules 2: 0.349232
+Osimertinib MPO: 0.838829
+Fexofenadine MPO: 0.815488
+Total Score: 7.055/12 
+
+
+HIDDEN NODES: 100
+DROP PROB: 0.3
+LEARNING RATE: 0.0004
+EPOCH: 200
+Celecoxib rediscovery: 0.835443
+Troglitazone rediscovery: 0.554545
+Thiothixene rediscovery: 0.580952
+Aripiprazole similarity: 0.882307
+Albuterol similarity: 1.000000
+Mestranol similarity: 0.834060
+C11H24: 0.946773
+C9H10N2O2PF2Cl: 0.789557
+Median molecules 1: 0.354587
+Median molecules 2: 0.350559
+Osimertinib MPO: 0.841490
+Fexofenadine MPO: 0.837597
+Ranolazine MPO: 0.844720
+Perindopril MPO: 0.591967
+Amlodipine MPO: 0.758315
+Sitagliptin MPO: 0.509289
+Zaleplon MPO: 0.550180
+Valsartan SMARTS: 0.614879
+Deco Hop: 0.937657
+Total Score: 13.615/19 
+
+
+HIDDEN NODES: 800
+DROP PROB: 0.4
+LEARNING RATE: 0.0002
+EPOCH: 175
+Celecoxib rediscovery: 0.632184
+Troglitazone rediscovery: 0.616162
+Thiothixene rediscovery: 0.559322
+Aripiprazole similarity: 0.842463
+Albuterol similarity: 0.997942
+Mestranol similarity: 0.686185
+C11H24: 0.770785
+C9H10N2O2PF2Cl: 0.768627
+Median molecules 1: 0.352873
+Median molecules 2: 0.354192
+Osimertinib MPO: 0.846574
+Fexofenadine MPO: 0.843002
+Ranolazine MPO: 0.781099
+Perindopril MPO: 0.594080
+Amlodipine MPO: 0.709698
+Sitagliptin MPO: 0.519835
+Zaleplon MPO: 0.558738
+Valsartan SMARTS: 0.540328
+Deco Hop: 0.933902
+Total Score: 12.908/19 
+
+
+HIDDEN NODES: 800
+DROP PROB: 0.2
+LEARNING RATE: 0.0006
+EPOCH: 100
+Total Score: 0.000/0 
+
+
+HIDDEN NODES: 800
+DROP PROB: 0.2
+LEARNING RATE: 0.0004
+EPOCH: 175
+Celecoxib rediscovery: 0.505263
+Troglitazone rediscovery: 0.418803
+Thiothixene rediscovery: 0.456140
+Aripiprazole similarity: 0.592069
+Albuterol similarity: 0.714962
+Mestranol similarity: 0.627667
+C11H24: 0.671504
+C9H10N2O2PF2Cl: 0.732971
+Median molecules 1: 0.332236
+Median molecules 2: 0.349232
+Osimertinib MPO: 0.838829
+Fexofenadine MPO: 0.815488
+Total Score: 7.055/12 
+
+
+Celecoxib rediscovery: 0.753086
+Troglitazone rediscovery: 0.666667
+Thiothixene rediscovery: 0.646465
+Aripiprazole similarity: 0.763551
+Albuterol similarity: 1.000000
+Mestranol similarity: 0.861525
+C11H24: 0.932302
+C9H10N2O2PF2Cl: 0.749138
+Median molecules 1: 0.362179
+Median molecules 2: 0.355621
+Osimertinib MPO: 0.858440
+Fexofenadine MPO: 0.820691
+Ranolazine MPO: 0.820150
+Perindopril MPO: 0.634939
+Amlodipine MPO: 0.777310
+Sitagliptin MPO: 0.502889
+Zaleplon MPO: 0.544326
+Valsartan SMARTS: 0.258961
+Deco Hop: 0.958589
+Total Score: 13.267/19 
+
+
+HIDDEN NODES: 400
+DROP PROB: 0.4
+LEARNING RATE: 0.0002
+EPOCH: 175
+Celecoxib rediscovery: 0.689655
+Troglitazone rediscovery: 0.632653
+Thiothixene rediscovery: 0.663265
+Aripiprazole similarity: 0.887646
+Albuterol similarity: 0.990408
+Mestranol similarity: 0.820122
+C11H24: 0.754865
+C9H10N2O2PF2Cl: 0.758724
+Median molecules 1: 0.338573
+Median molecules 2: 0.351289
+Osimertinib MPO: 0.852219
+Fexofenadine MPO: 0.833824
+Ranolazine MPO: 0.768955
+Perindopril MPO: 0.623950
+Amlodipine MPO: 0.736154
+Sitagliptin MPO: 0.514985
+Zaleplon MPO: 0.544970
+Valsartan SMARTS: 0.316663
+Deco Hop: 0.932743
+Scaffold Hop: 0.784614
+Total Score: 13.796/20 
+
+
+HIDDEN NODES: 700
+DROP PROB: 0.2
+LEARNING RATE: 0.0003
+EPOCH: 175
+Celecoxib rediscovery: 0.775000
+Troglitazone rediscovery: 0.666667
+Thiothixene rediscovery: 0.643564
+Aripiprazole similarity: 0.931593
+Albuterol similarity: 1.000000
+Mestranol similarity: 0.920661
+C11H24: 0.979723
+C9H10N2O2PF2Cl: 0.804106
+Median molecules 1: 0.378571
+Median molecules 2: 0.360466
+Osimertinib MPO: 0.872913
+Fexofenadine MPO: 0.860099
+Ranolazine MPO: 0.871254
+Perindopril MPO: 0.672768
+Amlodipine MPO: 0.780077
+Sitagliptin MPO: 0.517021
+Zaleplon MPO: 0.577525
+Valsartan SMARTS: 0.925079
+Deco Hop: 0.992337
+Total Score: 14.529/19 
+
+
+HIDDEN NODES: 1100
+DROP PROB: 0.3
+LEARNING RATE: 0.0004
+EPOCH: 45
+Celecoxib rediscovery: 0.718750
+Troglitazone rediscovery: 0.646465
+Thiothixene rediscovery: 0.638095
+Aripiprazole similarity: 0.915015
+Albuterol similarity: 1.000000
+Mestranol similarity: 0.796827
+C11H24: 0.866134
+C9H10N2O2PF2Cl: 0.795820
+Median molecules 1: 0.370987
+Median molecules 2: 0.355648
+Osimertinib MPO: 0.867261
+Fexofenadine MPO: 0.860671
+Ranolazine MPO: 0.833780
+Perindopril MPO: 0.667802
+Amlodipine MPO: 0.744546
+Sitagliptin MPO: 0.525251
+Zaleplon MPO: 0.563403
+Valsartan SMARTS: 0.588217
+Deco Hop: 0.939407
+Scaffold Hop: 0.853096
+Total Score: 14.547/20 
+
+
+HIDDEN NODES: 500
+DROP PROB: 0.3
+LEARNING RATE: 0.0006
+EPOCH: 171
+Celecoxib rediscovery: 0.505263
+Troglitazone rediscovery: 0.418803
+Thiothixene rediscovery: 0.456140
+Aripiprazole similarity: 0.592069
+Albuterol similarity: 0.714962
+Mestranol similarity: 0.627667
+C11H24: 0.677230
+C9H10N2O2PF2Cl: 0.733280
+Median molecules 1: 0.332236
+Median molecules 2: 0.349232
+Osimertinib MPO: 0.838829
+Fexofenadine MPO: 0.815488
+Total Score: 7.061/12 
+
+
+HIDDEN NODES: 700
+DROP PROB: 0.2
+LEARNING RATE: 0.0005
+EPOCH: 21745580
+Celecoxib rediscovery: 0.505263
+Troglitazone rediscovery: 0.418803
+Thiothixene rediscovery: 0.456140
+Aripiprazole similarity: 0.592069
+Albuterol similarity: 0.714962
+Mestranol similarity: 0.627667
+C11H24: 0.672623
+C9H10N2O2PF2Cl: 0.733325
+Median molecules 1: 0.332236
+Median molecules 2: 0.349232
+Osimertinib MPO: 0.838829
+Fexofenadine MPO: 0.815488
+Total Score: 7.057/12 
+
+
+HIDDEN NODES: 500
+DROP PROB: 0.3
+LEARNING RATE: 0.0002
+EPOCH: 165
+Celecoxib rediscovery: 0.844156
+Troglitazone rediscovery: 0.747573
+Thiothixene rediscovery: 0.677083
+Aripiprazole similarity: 0.927563
+Albuterol similarity: 1.000000
+Mestranol similarity: 0.850551
+C11H24: 0.986653
+C9H10N2O2PF2Cl: 0.793249
+Median molecules 1: 0.363236
+Median molecules 2: 0.356951
+Osimertinib MPO: 0.858750
+Fexofenadine MPO: 0.882834
+Ranolazine MPO: 0.849868
+Perindopril MPO: 0.684829
+Amlodipine MPO: 0.792394
+Sitagliptin MPO: 0.527338
+Zaleplon MPO: 0.552608
+Valsartan SMARTS: 0.866057
+Deco Hop: 0.970102
+Scaffold Hop: 0.992001
+Total Score: 15.524/20 
+
+
+HIDDEN NODES: 500
+DROP PROB: 0.3
+LEARNING RATE: 0.0004
+EPOCH: 173
+Celecoxib rediscovery: 0.689655
+Troglitazone rediscovery: 0.512000
+Thiothixene rediscovery: 0.536364
+Aripiprazole similarity: 0.893085
+Albuterol similarity: 0.984164
+Mestranol similarity: 0.804424
+C11H24: 0.773213
+C9H10N2O2PF2Cl: 0.761537
+Median molecules 1: 0.339509
+Median molecules 2: 0.360735
+Osimertinib MPO: 0.852731
+Fexofenadine MPO: 0.847903
+Ranolazine MPO: 0.801888
+Perindopril MPO: 0.622241
+Amlodipine MPO: 0.737644
+Sitagliptin MPO: 0.523149
+Zaleplon MPO: 0.552114
+Valsartan SMARTS: 0.403780
+Deco Hop: 0.934316
+Scaffold Hop: 0.904003
+Total Score: 13.834/20 
+
+
+HIDDEN NODES: 800
+DROP PROB: 0.3
+LEARNING RATE: 0.0004
+EPOCH: 115
+Celecoxib rediscovery: 0.505263
+Troglitazone rediscovery: 0.418803
+Thiothixene rediscovery: 0.456140
+Aripiprazole similarity: 0.592069
+Albuterol similarity: 0.714962
+Mestranol similarity: 0.627667
+C11H24: 0.682131
+C9H10N2O2PF2Cl: 0.732971
+Median molecules 1: 0.332236
+Median molecules 2: 0.349232
+Osimertinib MPO: 0.838829
+Fexofenadine MPO: 0.815488
+Total Score: 7.066/12 
+
+
+HIDDEN NODES: 400
+DROP PROB: 0.3
+LEARNING RATE: 0.0001
+EPOCH: 150
+Celecoxib rediscovery: 1.000000
+Troglitazone rediscovery: 0.651376
+Thiothixene rediscovery: 0.523810
+Aripiprazole similarity: 0.824223
+Albuterol similarity: 0.914103
+Mestranol similarity: 0.721477
+Total Score: 4.635/6 
+
+
+HIDDEN NODES: 700
+DROP PROB: 0.2
+LEARNING RATE: 0.0003
+EPOCH: 200
+Celecoxib rediscovery: 0.835443
+Troglitazone rediscovery: 0.755102
+Thiothixene rediscovery: 0.853933
+Aripiprazole similarity: 0.943991
+Albuterol similarity: 1.000000
+Mestranol similarity: 0.934938
+C11H24: 0.970740
+C9H10N2O2PF2Cl: 0.788495
+Median molecules 1: 0.376529
+Median molecules 2: 0.360613
+Osimertinib MPO: 0.855582
+Fexofenadine MPO: 0.854657
+Ranolazine MPO: 0.841251
+Perindopril MPO: 0.687087
+Amlodipine MPO: 0.771248
+Sitagliptin MPO: 0.516381
+Zaleplon MPO: 0.558103
+Valsartan SMARTS: 0.897527
+Deco Hop: 0.977477
+Total Score: 14.779/19 
+
+
+HIDDEN NODES: 600
+DROP PROB: 0.3
+LEARNING RATE: 0.0004
+EPOCH: 156
+Celecoxib rediscovery: 0.505263
+Troglitazone rediscovery: 0.418803
+Thiothixene rediscovery: 0.456140
+Aripiprazole similarity: 0.592069
+Albuterol similarity: 0.714962
+Mestranol similarity: 0.627667
+C11H24: 0.663325
+C9H10N2O2PF2Cl: 0.733457
+Median molecules 1: 0.332236
+Median molecules 2: 0.349232
+Osimertinib MPO: 0.838829
+Fexofenadine MPO: 0.815488
+Total Score: 7.047/12 
+
+
+HIDDEN NODES: 400
+DROP PROB: 0.2
+LEARNING RATE: 0.0002
+EPOCH: 200
+Celecoxib rediscovery: 0.677778
+Troglitazone rediscovery: 0.686275
+Thiothixene rediscovery: 0.728155
+Aripiprazole similarity: 0.973805
+Albuterol similarity: 0.997957
+Mestranol similarity: 0.825839
+C11H24: 0.969200
+C9H10N2O2PF2Cl: 0.810665
+Median molecules 1: 0.354496
+Median molecules 2: 0.355757
+Osimertinib MPO: 0.850770
+Fexofenadine MPO: 0.867957
+Ranolazine MPO: 0.813577
+Perindopril MPO: 0.632420
+Amlodipine MPO: 0.744077
+Sitagliptin MPO: 0.515687
+Zaleplon MPO: 0.564916
+Valsartan SMARTS: 0.818536
+Deco Hop: 0.941200
+Scaffold Hop: 0.970307
+Total Score: 15.099/20 
+
+
+HIDDEN NODES: 400
+DROP PROB: 0.2
+LEARNING RATE: 0.0003
+Celecoxib rediscovery: 0.731707
+Troglitazone rediscovery: 0.669811
+Thiothixene rediscovery: 0.670000
+Aripiprazole similarity: 0.898626
+Albuterol similarity: 1.000000
+Mestranol similarity: 0.912729
+C11H24: 0.952590
+C9H10N2O2PF2Cl: 0.805739
+Median molecules 1: 0.355393
+Median molecules 2: 0.355282
+Osimertinib MPO: 0.862871
+Fexofenadine MPO: 0.841021
+Ranolazine MPO: 0.800440
+Perindopril MPO: 0.655014
+Amlodipine MPO: 0.743513
+Sitagliptin MPO: 0.528425
+Zaleplon MPO: 0.551101
+Total Score: 12.334/17 
+
+
+HIDDEN NODES: 600
+DROP PROB: 0.3
+LEARNING RATE: 0.0004
+EPOCH: 156
+Celecoxib rediscovery: 0.505263
+Troglitazone rediscovery: 0.418803
+Thiothixene rediscovery: 0.456140
+Aripiprazole similarity: 0.592069
+Albuterol similarity: 0.714962
+Mestranol similarity: 0.627667
+C11H24: 0.662725
+C9H10N2O2PF2Cl: 0.733787
+Median molecules 1: 0.332236
+Median molecules 2: 0.349232
+Osimertinib MPO: 0.838829
+Fexofenadine MPO: 0.815488
+Ranolazine MPO: 0.412841
+Perindopril MPO: 0.570896
+Amlodipine MPO: 0.693241
+Sitagliptin MPO: 0.502579
+Zaleplon MPO: 0.544152
+Valsartan SMARTS: 0.258947
+Deco Hop: 0.931942
+Scaffold Hop: 0.722847
+Total Score: 11.685/20 
+
+
+HIDDEN NODES: 400
+DROP PROB: 0.2
+LEARNING RATE: 0.0002
+Celecoxib rediscovery: 0.731707
+Troglitazone rediscovery: 0.635417
+Thiothixene rediscovery: 0.547009
+Aripiprazole similarity: 0.853772
+Albuterol similarity: 0.982078
+Mestranol similarity: 0.732455
+C11H24: 0.860207
+C9H10N2O2PF2Cl: 0.781587
+Median molecules 1: 0.350687
+Median molecules 2: 0.354027
+Osimertinib MPO: 0.844055
+Fexofenadine MPO: 0.828622
+Ranolazine MPO: 0.823670
+Perindopril MPO: 0.577250
+Amlodipine MPO: 0.717288
+Sitagliptin MPO: 0.508807
+Zaleplon MPO: 0.547137
+Total Score: 11.676/17 
+
+
+HIDDEN NODES: 900
+DROP PROB: 0.3
+LEARNING RATE: 0.0004
+EPOCH: 113
+Total Score: 0.000/0 
+
+
+HIDDEN NODES: 900
+DROP PROB: 0.3
+LEARNING RATE: 0.0002
+EPOCH: 150
+Celecoxib rediscovery: 0.775000
+Troglitazone rediscovery: 0.710000
+Thiothixene rediscovery: 0.910112
+Aripiprazole similarity: 0.915245
+Albuterol similarity: 1.000000
+Mestranol similarity: 0.879560
+C11H24: 0.862138
+C9H10N2O2PF2Cl: 0.816098
+Median molecules 1: 0.368428
+Median molecules 2: 0.374462
+Osimertinib MPO: 0.863639
+Fexofenadine MPO: 0.854927
+Ranolazine MPO: 0.805518
+Perindopril MPO: 0.638105
+Amlodipine MPO: 0.773217
+Sitagliptin MPO: 0.524318
+Zaleplon MPO: 0.558264
+Valsartan SMARTS: 0.808255
+Deco Hop: 0.939488
+Total Score: 14.377/19 
+
+
+HIDDEN NODES: 900
+DROP PROB: 0.4
+LEARNING RATE: 0.0002
+EPOCH: 100
+Celecoxib rediscovery: 0.718750
+Troglitazone rediscovery: 0.722772
+Thiothixene rediscovery: 0.698925
+Aripiprazole similarity: 0.897414
+Albuterol similarity: 0.959165
+Mestranol similarity: 0.676315
+C11H24: 0.832570
+C9H10N2O2PF2Cl: 0.819938
+Median molecules 1: 0.348288
+Median molecules 2: 0.358772
+Osimertinib MPO: 0.856413
+Fexofenadine MPO: 0.832519
+Ranolazine MPO: 0.769957
+Perindopril MPO: 0.614863
+Amlodipine MPO: 0.741218
+Sitagliptin MPO: 0.503678
+Zaleplon MPO: 0.551049
+Valsartan SMARTS: 0.742334
+Deco Hop: 0.934366
+Total Score: 13.579/19 
+
+
+HIDDEN NODES: 800
+DROP PROB: 0.3
+LEARNING RATE: 0.0004
+EPOCH: 175
+Celecoxib rediscovery: 0.505263
+Troglitazone rediscovery: 0.418803
+Thiothixene rediscovery: 0.456140
+Aripiprazole similarity: 0.592069
+Albuterol similarity: 0.714962
+Mestranol similarity: 0.627667
+Total Score: 3.315/6 
+
+
+HIDDEN NODES: 600
+DROP PROB: 0.4
+LEARNING RATE: 0.0004
+EPOCH: 135
+Celecoxib rediscovery: 0.775000
+Troglitazone rediscovery: 0.703297
+Thiothixene rediscovery: 1.000000
+Aripiprazole similarity: 0.929654
+Albuterol similarity: 1.000000
+Mestranol similarity: 0.883066
+C11H24: 0.944096
+C9H10N2O2PF2Cl: 0.812766
+Median molecules 1: 0.358942
+Median molecules 2: 0.356197
+Osimertinib MPO: 0.862476
+Fexofenadine MPO: 0.867627
+Ranolazine MPO: 0.826656
+Perindopril MPO: 0.641315
+Amlodipine MPO: 0.784695
+Sitagliptin MPO: 0.558241
+Zaleplon MPO: 0.552798
+Valsartan SMARTS: 0.538596
+Deco Hop: 0.953272
+Scaffold Hop: 0.978415
+Total Score: 15.327/20 
+
+
+HIDDEN NODES: 400
+DROP PROB: 0.3
+LEARNING RATE: 0.0002
+EPOCH: 175
+Celecoxib rediscovery: 0.709677
+Troglitazone rediscovery: 0.658120
+Thiothixene rediscovery: 0.568807
+Aripiprazole similarity: 0.921152
+Albuterol similarity: 1.000000
+Mestranol similarity: 0.840154
+C11H24: 0.935834
+C9H10N2O2PF2Cl: 0.821161
+Median molecules 1: 0.362036
+Median molecules 2: 0.354679
+Osimertinib MPO: 0.856153
+Fexofenadine MPO: 0.824311
+Ranolazine MPO: 0.810060
+Perindopril MPO: 0.571847
+Amlodipine MPO: 0.694346
+Sitagliptin MPO: 0.504262
+Zaleplon MPO: 0.544266
+Valsartan SMARTS: 0.273780
+Total Score: 12.251/18 
+
+
+HIDDEN NODES: 400
+DROP PROB: 0.2
+LEARNING RATE: 0.0003
+Celecoxib rediscovery: 0.731707
+Troglitazone rediscovery: 0.598361
+Thiothixene rediscovery: 0.632653
+Aripiprazole similarity: 0.912157
+Albuterol similarity: 0.984889
+Mestranol similarity: 0.809412
+C11H24: 0.815387
+C9H10N2O2PF2Cl: 0.769605
+Median molecules 1: 0.339187
+Median molecules 2: 0.356950
+Osimertinib MPO: 0.844437
+Fexofenadine MPO: 0.837868
+Ranolazine MPO: 0.807195
+Perindopril MPO: 0.656733
+Amlodipine MPO: 0.753738
+Sitagliptin MPO: 0.514575
+Zaleplon MPO: 0.554568
+Total Score: 11.919/17 
+
+
+HIDDEN NODES: 300
+DROP PROB: 0.2
+LEARNING RATE: 0.0002
+EPOCH: 150
+Celecoxib rediscovery: 1.000000
+Troglitazone rediscovery: 0.703297
+Thiothixene rediscovery: 0.755556
+Aripiprazole similarity: 0.850490
+Albuterol similarity: 1.000000
+Mestranol similarity: 0.935074
+C11H24: 0.887131
+C9H10N2O2PF2Cl: 0.802252
+Median molecules 1: 0.355548
+Median molecules 2: 0.355426
+Osimertinib MPO: 0.839135
+Fexofenadine MPO: 0.842853
+Ranolazine MPO: 0.808101
+Perindopril MPO: 0.644005
+Amlodipine MPO: 0.777104
+Sitagliptin MPO: 0.590457
+Zaleplon MPO: 0.548579
+Valsartan SMARTS: 0.869850
+Deco Hop: 0.935891
+Scaffold Hop: 0.942900
+Total Score: 15.444/20 
+
+
+HIDDEN NODES: 300
+DROP PROB: 0.4
+LEARNING RATE: 0.0002
+EPOCH: 200
+Celecoxib rediscovery: 0.766667
+Troglitazone rediscovery: 0.620370
+Thiothixene rediscovery: 0.707865
+Aripiprazole similarity: 0.876952
+Albuterol similarity: 0.987614
+Mestranol similarity: 0.842605
+C11H24: 0.862847
+C9H10N2O2PF2Cl: 0.822286
+Median molecules 1: 0.354435
+Median molecules 2: 0.354370
+Osimertinib MPO: 0.846323
+Fexofenadine MPO: 0.856214
+Ranolazine MPO: 0.839228
+Perindopril MPO: 0.620656
+Amlodipine MPO: 0.759952
+Sitagliptin MPO: 0.519221
+Zaleplon MPO: 0.544532
+Valsartan SMARTS: 0.709786
+Deco Hop: 0.958289
+Scaffold Hop: 0.928391
+Total Score: 14.779/20 
+
+
+HIDDEN NODES: 300
+DROP PROB: 0.2
+LEARNING RATE: 0.0001
+EPOCH: 175
+Celecoxib rediscovery: 1.000000
+Troglitazone rediscovery: 0.745098
+Thiothixene rediscovery: 0.712871
+Aripiprazole similarity: 0.920212
+Albuterol similarity: 0.984172
+Mestranol similarity: 0.791305
+C11H24: 0.873540
+C9H10N2O2PF2Cl: 0.828387
+Median molecules 1: 0.354958
+Median molecules 2: 0.354917
+Osimertinib MPO: 0.840340
+Fexofenadine MPO: 0.831678
+Ranolazine MPO: 0.784614
+Perindopril MPO: 0.617639
+Amlodipine MPO: 0.735439
+Sitagliptin MPO: 0.508377
+Zaleplon MPO: 0.544246
+Valsartan SMARTS: 0.286339
+Total Score: 12.714/18 
+
+
+HIDDEN NODES: 800
+DROP PROB: 0.4
+LEARNING RATE: 0.0002
+EPOCH: 100
+Celecoxib rediscovery: 0.714286
+Troglitazone rediscovery: 0.632653
+Thiothixene rediscovery: 0.640000
+Aripiprazole similarity: 0.877421
+Albuterol similarity: 0.979748
+Mestranol similarity: 0.667040
+C11H24: 0.733644
+C9H10N2O2PF2Cl: 0.768959
+Median molecules 1: 0.335219
+Median molecules 2: 0.352448
+Osimertinib MPO: 0.845622
+Fexofenadine MPO: 0.833909
+Ranolazine MPO: 0.788827
+Perindopril MPO: 0.578143
+Amlodipine MPO: 0.723696
+Sitagliptin MPO: 0.513039
+Zaleplon MPO: 0.544361
+Valsartan SMARTS: 0.355128
+Deco Hop: 0.932932
+Scaffold Hop: 0.828704
+Total Score: 13.646/20 
+
+
+HIDDEN NODES: 300
+DROP PROB: 0.2
+LEARNING RATE: 0.0006
+EPOCH: 150
+Celecoxib rediscovery: 0.795181
+Troglitazone rediscovery: 0.613861
+Thiothixene rediscovery: 0.876404
+Aripiprazole similarity: 0.884415
+Albuterol similarity: 1.000000
+Mestranol similarity: 0.895024
+C11H24: 0.915791
+C9H10N2O2PF2Cl: 0.784430
+Median molecules 1: 0.359069
+Median molecules 2: 0.352882
+Osimertinib MPO: 0.849748
+Fexofenadine MPO: 0.838797
+Ranolazine MPO: 0.830887
+Perindopril MPO: 0.598576
+Amlodipine MPO: 0.737760
+Sitagliptin MPO: 0.516611
+Zaleplon MPO: 0.547518
+Valsartan SMARTS: 0.738510
+Deco Hop: 0.934562
+Scaffold Hop: 0.836671
+Total Score: 14.907/20 
+
+
+HIDDEN NODES: 300
+DROP PROB: 0.2
+LEARNING RATE: 0.0002
+EPOCH: 125
+Celecoxib rediscovery: 0.844156
+Troglitazone rediscovery: 0.673077
+Thiothixene rediscovery: 0.755556
+Aripiprazole similarity: 0.925962
+Albuterol similarity: 1.000000
+Mestranol similarity: 0.832950
+C11H24: 0.984600
+C9H10N2O2PF2Cl: 0.779540
+Median molecules 1: 0.366441
+Median molecules 2: 0.359315
+Osimertinib MPO: 0.851264
+Fexofenadine MPO: 0.875210
+Ranolazine MPO: 0.820232
+Perindopril MPO: 0.628767
+Amlodipine MPO: 0.766092
+Sitagliptin MPO: 0.515592
+Zaleplon MPO: 0.548327
+Valsartan SMARTS: 0.752108
+Deco Hop: 0.951351
+Scaffold Hop: 0.755600
+Total Score: 14.986/20 
+
+
+HIDDEN NODES: 900
+DROP PROB: 0.3
+LEARNING RATE: 0.0004
+EPOCH: 200
+Celecoxib rediscovery: 0.505263
+Troglitazone rediscovery: 0.418803
+Thiothixene rediscovery: 0.456140
+Aripiprazole similarity: 0.592069
+Albuterol similarity: 0.714962
+Mestranol similarity: 0.627667
+Total Score: 3.315/6 
+
+
+HIDDEN NODES: 300
+DROP PROB: 0.4
+LEARNING RATE: 0.0002
+EPOCH: 175
+Celecoxib rediscovery: 0.760870
+Troglitazone rediscovery: 0.652174
+Thiothixene rediscovery: 0.640449
+Aripiprazole similarity: 0.858216
+Albuterol similarity: 1.000000
+Mestranol similarity: 0.906017
+C11H24: 0.956367
+C9H10N2O2PF2Cl: 0.749546
+Median molecules 1: 0.358116
+Median molecules 2: 0.356703
+Osimertinib MPO: 0.843884
+Fexofenadine MPO: 0.839949
+Ranolazine MPO: 0.819043
+Perindopril MPO: 0.601676
+Amlodipine MPO: 0.754634
+Sitagliptin MPO: 0.515664
+Zaleplon MPO: 0.556138
+Valsartan SMARTS: 0.747802
+Deco Hop: 0.945560
+Total Score: 13.863/19 
+
+
+HIDDEN NODES: 400
+DROP PROB: 0.2
+LEARNING RATE: 0.0002
+Celecoxib rediscovery: 0.775000
+Troglitazone rediscovery: 0.525000
+Thiothixene rediscovery: 0.611650
+Aripiprazole similarity: 0.841577
+Albuterol similarity: 0.983691
+Mestranol similarity: 0.754131
+C11H24: 0.781168
+C9H10N2O2PF2Cl: 0.809034
+Median molecules 1: 0.354509
+Median molecules 2: 0.352989
+Osimertinib MPO: 0.850203
+Fexofenadine MPO: 0.836620
+Ranolazine MPO: 0.773063
+Perindopril MPO: 0.577571
+Amlodipine MPO: 0.698891
+Sitagliptin MPO: 0.510542
+Total Score: 11.036/16 
+
+
+HIDDEN NODES: 900
+DROP PROB: 0.2
+LEARNING RATE: 0.0006
+EPOCH: 96
+Celecoxib rediscovery: 0.835443
+Troglitazone rediscovery: 0.765957
+Thiothixene rediscovery: 0.631068
+Aripiprazole similarity: 0.928748
+Albuterol similarity: 1.000000
+Mestranol similarity: 0.861459
+C11H24: 0.872379
+C9H10N2O2PF2Cl: 0.789612
+Median molecules 1: 0.365624
+Median molecules 2: 0.357545
+Osimertinib MPO: 0.856028
+Fexofenadine MPO: 0.866167
+Ranolazine MPO: 0.824483
+Perindopril MPO: 0.653984
+Amlodipine MPO: 0.764872
+Sitagliptin MPO: 0.512895
+Zaleplon MPO: 0.567937
+Valsartan SMARTS: 0.826787
+Deco Hop: 0.950979
+Scaffold Hop: 0.959742
+Total Score: 15.192/20 
+
+
+HIDDEN NODES: 400
+DROP PROB: 0.3
+LEARNING RATE: 0.0002
+EPOCH: 175
+Celecoxib rediscovery: 0.750000
+Troglitazone rediscovery: 0.646465
+Thiothixene rediscovery: 0.632653
+Aripiprazole similarity: 0.908389
+Albuterol similarity: 1.000000
+Total Score: 3.938/5 
+
+
+HIDDEN NODES: 400
+DROP PROB: 0.4
+LEARNING RATE: 0.0006
+EPOCH: 200
+Celecoxib rediscovery: 0.505263
+Troglitazone rediscovery: 0.418803
+Thiothixene rediscovery: 0.456140
+Aripiprazole similarity: 0.592069
+Albuterol similarity: 0.714962
+Mestranol similarity: 0.627667
+C11H24: 0.741721
+C9H10N2O2PF2Cl: 0.732971
+Median molecules 1: 0.332236
+Median molecules 2: 0.349232
+Osimertinib MPO: 0.838829
+Fexofenadine MPO: 0.815488
+Total Score: 7.125/12 
+
+
+HIDDEN NODES: 500
+DROP PROB: 0.4
+LEARNING RATE: 0.0002
+EPOCH: 177
+Celecoxib rediscovery: 0.753247
+Troglitazone rediscovery: 0.635417
+Thiothixene rediscovery: 0.625000
+Aripiprazole similarity: 0.922848
+Albuterol similarity: 1.000000
+Mestranol similarity: 0.835123
+C11H24: 0.910523
+C9H10N2O2PF2Cl: 0.827749
+Median molecules 1: 0.358555
+Median molecules 2: 0.355375
+Osimertinib MPO: 0.852957
+Fexofenadine MPO: 0.851794
+Ranolazine MPO: 0.832931
+Perindopril MPO: 0.643224
+Amlodipine MPO: 0.804269
+Sitagliptin MPO: 0.507025
+Zaleplon MPO: 0.550825
+Valsartan SMARTS: 0.369357
+Deco Hop: 0.936376
+Scaffold Hop: 0.932202
+Total Score: 14.505/20 
+
+
+HIDDEN NODES: 500
+DROP PROB: 0.2
+LEARNING RATE: 0.0002
+EPOCH: 175
+Celecoxib rediscovery: 0.844156
+Troglitazone rediscovery: 0.632653
+Thiothixene rediscovery: 0.787234
+Aripiprazole similarity: 0.940767
+Albuterol similarity: 1.000000
+Mestranol similarity: 0.924122
+C11H24: 0.992813
+C9H10N2O2PF2Cl: 0.822418
+Median molecules 1: 0.365565
+Median molecules 2: 0.360022
+Osimertinib MPO: 0.869865
+Fexofenadine MPO: 0.871435
+Ranolazine MPO: 0.836321
+Perindopril MPO: 0.658263
+Amlodipine MPO: 0.809874
+Sitagliptin MPO: 0.517973
+Zaleplon MPO: 0.595350
+Valsartan SMARTS: 0.905956
+Deco Hop: 0.987545
+Scaffold Hop: 0.965841
+Total Score: 15.688/20 
+
+
+HIDDEN NODES: 800
+DROP PROB: 0.2
+LEARNING RATE: 0.0006
+EPOCH: 200
+Total Score: 0.000/0 
+
+
+HIDDEN NODES: 300
+DROP PROB: 0.3
+LEARNING RATE: 0.0006
+EPOCH: 200
+Celecoxib rediscovery: 0.775000
+Troglitazone rediscovery: 0.644444
+Thiothixene rediscovery: 0.627451
+Aripiprazole similarity: 0.867770
+Albuterol similarity: 1.000000
+Mestranol similarity: 0.886022
+C11H24: 0.982033
+C9H10N2O2PF2Cl: 0.780242
+Median molecules 1: 0.365715
+Median molecules 2: 0.356932
+Osimertinib MPO: 0.846527
+Fexofenadine MPO: 0.834692
+Ranolazine MPO: 0.846954
+Perindopril MPO: 0.609710
+Amlodipine MPO: 0.748227
+Sitagliptin MPO: 0.515426
+Zaleplon MPO: 0.556278
+Valsartan SMARTS: 0.677541
+Deco Hop: 0.942322
+Scaffold Hop: 0.745129
+Total Score: 14.608/20 
+
+
+HIDDEN NODES: 400
+DROP PROB: 0.2
+LEARNING RATE: 0.0004
+EPOCH: 200
+Total Score: 0.000/0 
+
+
+HIDDEN NODES: 500
+DROP PROB: 0.2
+LEARNING RATE: 0.0002
+EPOCH: 200
+Celecoxib rediscovery: 1.000000
+Troglitazone rediscovery: 0.712963
+Thiothixene rediscovery: 0.684783
+Aripiprazole similarity: 0.910784
+Albuterol similarity: 1.000000
+Mestranol similarity: 0.938739
+C11H24: 0.991787
+C9H10N2O2PF2Cl: 0.826437
+Median molecules 1: 0.354103
+Median molecules 2: 0.373287
+Osimertinib MPO: 0.876520
+Fexofenadine MPO: 0.874121
+Ranolazine MPO: 0.858371
+Perindopril MPO: 0.673867
+Amlodipine MPO: 0.765916
+Sitagliptin MPO: 0.523727
+Zaleplon MPO: 0.569949
+Valsartan SMARTS: 0.947250
+Deco Hop: 0.993118
+Scaffold Hop: 0.967549
+Total Score: 15.843/20 
+
+
+HIDDEN NODES: 700
+DROP PROB: 0.2
+LEARNING RATE: 0.0003
+EPOCH: 125
+Celecoxib rediscovery: 0.844156
+Troglitazone rediscovery: 0.699029
+Thiothixene rediscovery: 0.670000
+Aripiprazole similarity: 0.907669
+Albuterol similarity: 1.000000
+Mestranol similarity: 0.894449
+C11H24: 0.947445
+C9H10N2O2PF2Cl: 0.827304
+Median molecules 1: 0.377170
+Median molecules 2: 0.372236
+Osimertinib MPO: 0.861554
+Fexofenadine MPO: 0.857426
+Ranolazine MPO: 0.851597
+Perindopril MPO: 0.671776
+Amlodipine MPO: 0.782239
+Sitagliptin MPO: 0.519706
+Zaleplon MPO: 0.568582
+Valsartan SMARTS: 0.926977
+Deco Hop: 0.990817
+Scaffold Hop: 0.977003
+Total Score: 15.547/20 
+
+
+HIDDEN NODES: 400
+DROP PROB: 0.4
+LEARNING RATE: 0.0004
+EPOCH: 175
+Celecoxib rediscovery: 0.731707
+Troglitazone rediscovery: 0.635417
+Thiothixene rediscovery: 0.638298
+Aripiprazole similarity: 0.903050
+Albuterol similarity: 1.000000
+Mestranol similarity: 0.866323
+C11H24: 0.884564
+C9H10N2O2PF2Cl: 0.805048
+Median molecules 1: 0.356108
+Median molecules 2: 0.354847
+Osimertinib MPO: 0.849493
+Fexofenadine MPO: 0.850580
+Ranolazine MPO: 0.813969
+Perindopril MPO: 0.669859
+Amlodipine MPO: 0.785774
+Sitagliptin MPO: 0.517681
+Zaleplon MPO: 0.551071
+Valsartan SMARTS: 0.733139
+Deco Hop: 0.938661
+Scaffold Hop: 0.841929
+Total Score: 14.728/20 
+
+
+HIDDEN NODES: 400
+DROP PROB: 0.2
+LEARNING RATE: 0.0004
+Total Score: 0.000/0 
+
+
+HIDDEN NODES: 400
+DROP PROB: 0.2
+LEARNING RATE: 0.0006
+EPOCH: 200
+Celecoxib rediscovery: 0.844156
+Troglitazone rediscovery: 0.652174
+Thiothixene rediscovery: 0.677083
+Aripiprazole similarity: 0.650461
+Albuterol similarity: 1.000000
+Mestranol similarity: 0.821226
+C11H24: 0.979466
+C9H10N2O2PF2Cl: 0.734781
+Median molecules 1: 0.364582
+Median molecules 2: 0.356981
+Osimertinib MPO: 0.858376
+Fexofenadine MPO: 0.846132
+Ranolazine MPO: 0.838219
+Perindopril MPO: 0.667785
+Amlodipine MPO: 0.774111
+Sitagliptin MPO: 0.502660
+Zaleplon MPO: 0.560407
+Total Score: 12.129/17 
+
+
+HIDDEN NODES: 500
+DROP PROB: 0.2
+LEARNING RATE: 0.0003
+EPOCH: 150
+Celecoxib rediscovery: 0.662921
+Total Score: 0.663/1 
+
+
+HIDDEN NODES: 700
+DROP PROB: 0.2
+LEARNING RATE: 0.0005
+EPOCH: 21745572
+Celecoxib rediscovery: 0.844156
+Troglitazone rediscovery: 0.598039
+Thiothixene rediscovery: 0.640777
+Aripiprazole similarity: 0.862380
+Albuterol similarity: 0.985541
+Mestranol similarity: 0.721495
+C11H24: 0.808978
+C9H10N2O2PF2Cl: 0.762550
+Total Score: 6.224/8 
+
+
+HIDDEN NODES: 900
+DROP PROB: 0.4
+LEARNING RATE: 0.0004
+EPOCH: 100
+Celecoxib rediscovery: 0.775000
+Troglitazone rediscovery: 0.635417
+Thiothixene rediscovery: 0.627451
+Aripiprazole similarity: 0.920410
+Albuterol similarity: 1.000000
+Mestranol similarity: 0.893099
+C11H24: 0.873540
+C9H10N2O2PF2Cl: 0.738041
+Median molecules 1: 0.359305
+Median molecules 2: 0.359676
+Osimertinib MPO: 0.849068
+Fexofenadine MPO: 0.820107
+Ranolazine MPO: 0.837546
+Perindopril MPO: 0.665459
+Amlodipine MPO: 0.767835
+Sitagliptin MPO: 0.511113
+Zaleplon MPO: 0.556767
+Valsartan SMARTS: 0.739779
+Deco Hop: 0.940847
+Scaffold Hop: 0.733384
+Total Score: 14.604/20 
+
+
+HIDDEN NODES: 1000
+DROP PROB: 0.4
+LEARNING RATE: 0.0006
+EPOCH: 47
+Celecoxib rediscovery: 0.505263
+Troglitazone rediscovery: 0.418803
+Thiothixene rediscovery: 0.456140
+Aripiprazole similarity: 0.592069
+Albuterol similarity: 0.714962
+Mestranol similarity: 0.627667
+Total Score: 3.315/6 
+
+
+HIDDEN NODES: 400
+DROP PROB: 0.2
+LEARNING RATE: 0.0004
+Celecoxib rediscovery: 0.775000
+Troglitazone rediscovery: 0.644231
+Thiothixene rediscovery: 0.558559
+Aripiprazole similarity: 0.922865
+Albuterol similarity: 0.980937
+Mestranol similarity: 0.663153
+C11H24: 0.851700
+C9H10N2O2PF2Cl: 0.833193
+Median molecules 1: 0.336113
+Median molecules 2: 0.350407
+Osimertinib MPO: 0.857798
+Fexofenadine MPO: 0.863594
+Ranolazine MPO: 0.807807
+Perindopril MPO: 0.592012
+Amlodipine MPO: 0.716159
+Sitagliptin MPO: 0.530178
+Zaleplon MPO: 0.544226
+Valsartan SMARTS: 0.743900
+Total Score: 12.572/18 
+
+
+HIDDEN NODES: 400
+DROP PROB: 0.4
+LEARNING RATE: 0.0002
+EPOCH: 200
+Celecoxib rediscovery: 0.753086
+Troglitazone rediscovery: 0.547009
+Thiothixene rediscovery: 0.607477
+Aripiprazole similarity: 0.928353
+Albuterol similarity: 0.998420
+Mestranol similarity: 0.808178
+C11H24: 0.960070
+C9H10N2O2PF2Cl: 0.775772
+Median molecules 1: 0.358388
+Median molecules 2: 0.357139
+Osimertinib MPO: 0.845295
+Fexofenadine MPO: 0.833344
+Ranolazine MPO: 0.778419
+Perindopril MPO: 0.635252
+Amlodipine MPO: 0.741624
+Sitagliptin MPO: 0.526853
+Zaleplon MPO: 0.547271
+Valsartan SMARTS: 0.401491
+Deco Hop: 0.934175
+Scaffold Hop: 0.810584
+Total Score: 14.148/20 
+
+
+HIDDEN NODES: 500
+DROP PROB: 0.3
+LEARNING RATE: 0.0001
+EPOCH: 180
+Celecoxib rediscovery: 0.750000
+Troglitazone rediscovery: 0.637931
+Thiothixene rediscovery: 0.663462
+Aripiprazole similarity: 0.902239
+Total Score: 2.954/4 
+
+
+HIDDEN NODES: 1000
+DROP PROB: 0.3
+LEARNING RATE: 0.0006
+EPOCH: 52
+Celecoxib rediscovery: 0.505263
+Troglitazone rediscovery: 0.418803
+Thiothixene rediscovery: 0.456140
+Aripiprazole similarity: 0.592069
+Albuterol similarity: 0.714962
+Mestranol similarity: 0.627667
+C11H24: 0.678600
+C9H10N2O2PF2Cl: 0.733469
+Median molecules 1: 0.332236
+Median molecules 2: 0.349232
+Osimertinib MPO: 0.838829
+Fexofenadine MPO: 0.815488
+Total Score: 7.063/12 
+
+
+HIDDEN NODES: 300
+DROP PROB: 0.4
+LEARNING RATE: 0.0003
+EPOCH: 200
+Celecoxib rediscovery: 1.000000
+Troglitazone rediscovery: 0.701923
+Thiothixene rediscovery: 0.720000
+Aripiprazole similarity: 0.929928
+Albuterol similarity: 1.000000
+Mestranol similarity: 0.886491
+C11H24: 0.983060
+C9H10N2O2PF2Cl: 0.811370
+Median molecules 1: 0.362021
+Median molecules 2: 0.359849
+Osimertinib MPO: 0.859144
+Fexofenadine MPO: 0.862163
+Ranolazine MPO: 0.835441
+Perindopril MPO: 0.671738
+Amlodipine MPO: 0.760365
+Sitagliptin MPO: 0.526447
+Zaleplon MPO: 0.559025
+Valsartan SMARTS: 0.850213
+Total Score: 13.679/18 
+
+
+HIDDEN NODES: 400
+DROP PROB: 0.2
+LEARNING RATE: 0.0004
+EPOCH: 125
+Celecoxib rediscovery: 0.741935
+Troglitazone rediscovery: 0.705882
+Thiothixene rediscovery: 0.677083
+Aripiprazole similarity: 0.913713
+Albuterol similarity: 1.000000
+Mestranol similarity: 0.874074
+C11H24: 0.979210
+C9H10N2O2PF2Cl: 0.793540
+Median molecules 1: 0.370830
+Median molecules 2: 0.357752
+Osimertinib MPO: 0.854109
+Fexofenadine MPO: 0.868264
+Ranolazine MPO: 0.827654
+Perindopril MPO: 0.638344
+Amlodipine MPO: 0.748875
+Sitagliptin MPO: 0.528601
+Zaleplon MPO: 0.558731
+Valsartan SMARTS: 0.863444
+Deco Hop: 0.937154
+Scaffold Hop: 0.755417
+Total Score: 14.995/20 
+
+
+HIDDEN NODES: 200
+DROP PROB: 0.3
+LEARNING RATE: 0.0004
+EPOCH: 200
+Celecoxib rediscovery: 0.844156
+Troglitazone rediscovery: 0.666667
+Thiothixene rediscovery: 0.646465
+Aripiprazole similarity: 0.910816
+Albuterol similarity: 1.000000
+Mestranol similarity: 0.886752
+C11H24: 0.976130
+C9H10N2O2PF2Cl: 0.785373
+Median molecules 1: 0.359844
+Median molecules 2: 0.354011
+Osimertinib MPO: 0.847299
+Fexofenadine MPO: 0.836375
+Ranolazine MPO: 0.816780
+Perindopril MPO: 0.613685
+Amlodipine MPO: 0.767266
+Sitagliptin MPO: 0.516730
+Zaleplon MPO: 0.550093
+Valsartan SMARTS: 0.885098
+Deco Hop: 0.953224
+Scaffold Hop: 0.829944
+Total Score: 15.047/20 
+
+
+HIDDEN NODES: 900
+DROP PROB: 0.3
+LEARNING RATE: 0.0004
+EPOCH: 100
+Celecoxib rediscovery: 0.505263
+Troglitazone rediscovery: 0.418803
+Thiothixene rediscovery: 0.456140
+Aripiprazole similarity: 0.592069
+Albuterol similarity: 0.714962
+Mestranol similarity: 0.627667
+Total Score: 3.315/6 
+
+
+HIDDEN NODES: 500
+DROP PROB: 0.3
+LEARNING RATE: 0.0002
+EPOCH: 165
+Celecoxib rediscovery: 0.784091
+Troglitazone rediscovery: 0.800000
+Thiothixene rediscovery: 0.646465
+Aripiprazole similarity: 0.979276
+Albuterol similarity: 1.000000
+Mestranol similarity: 0.845418
+C11H24: 0.993840
+C9H10N2O2PF2Cl: 0.801261
+Median molecules 1: 0.370973
+Median molecules 2: 0.356558
+Osimertinib MPO: 0.860231
+Fexofenadine MPO: 0.867320
+Ranolazine MPO: 0.825145
+Perindopril MPO: 0.648203
+Amlodipine MPO: 0.738470
+Sitagliptin MPO: 0.531128
+Zaleplon MPO: 0.556676
+Valsartan SMARTS: 0.887730
+Deco Hop: 0.941603
+Scaffold Hop: 0.956358
+Total Score: 15.391/20 
+
+
+HIDDEN NODES: 800
+DROP PROB: 0.3
+LEARNING RATE: 0.0002
+EPOCH: 115
+Celecoxib rediscovery: 0.775000
+Troglitazone rediscovery: 0.682692
+Thiothixene rediscovery: 0.643564
+Aripiprazole similarity: 0.907428
+Albuterol similarity: 1.000000
+Mestranol similarity: 0.848739
+C11H24: 0.840951
+C9H10N2O2PF2Cl: 0.816391
+Median molecules 1: 0.365563
+Median molecules 2: 0.358664
+Osimertinib MPO: 0.851730
+Fexofenadine MPO: 0.871811
+Ranolazine MPO: 0.835466
+Perindopril MPO: 0.639750
+Amlodipine MPO: 0.753031
+Sitagliptin MPO: 0.525575
+Zaleplon MPO: 0.570053
+Valsartan SMARTS: 0.720578
+Deco Hop: 0.938915
+Scaffold Hop: 0.882597
+Total Score: 14.828/20 
+
+
+HIDDEN NODES: 500
+DROP PROB: 0.2
+LEARNING RATE: 0.0001
+Celecoxib rediscovery: 0.656250
+Troglitazone rediscovery: 0.576577
+Thiothixene rediscovery: 0.698276
+Aripiprazole similarity: 0.899047
+Albuterol similarity: 0.988125
+Mestranol similarity: 0.791139
+C11H24: 0.860915
+C9H10N2O2PF2Cl: 0.836181
+Median molecules 1: 0.336553
+Median molecules 2: 0.358125
+Osimertinib MPO: 0.849435
+Fexofenadine MPO: 0.856735
+Ranolazine MPO: 0.828425
+Perindopril MPO: 0.616220
+Amlodipine MPO: 0.735267
+Sitagliptin MPO: 0.515964
+Zaleplon MPO: 0.547657
+Valsartan SMARTS: 0.384297
+Total Score: 12.335/18 
+
+
+HIDDEN NODES: 400
+DROP PROB: 0.3
+LEARNING RATE: 0.0001
+EPOCH: 175
+Total Score: 0.000/0 
+
+
+HIDDEN NODES: 800
+DROP PROB: 0.4
+LEARNING RATE: 0.0004
+EPOCH: 175
+Celecoxib rediscovery: 0.505263
+Troglitazone rediscovery: 0.418803
+Thiothixene rediscovery: 0.456140
+Aripiprazole similarity: 0.592069
+Albuterol similarity: 0.714962
+Mestranol similarity: 0.627667
+C11H24: 0.664820
+C9H10N2O2PF2Cl: 0.732971
+Median molecules 1: 0.332236
+Median molecules 2: 0.349232
+Osimertinib MPO: 0.838829
+Fexofenadine MPO: 0.815488
+Total Score: 7.048/12 
+
+
+HIDDEN NODES: 400
+DROP PROB: 0.4
+LEARNING RATE: 0.0002
+EPOCH: 200
+Celecoxib rediscovery: 0.731707
+Troglitazone rediscovery: 0.596154
+Thiothixene rediscovery: 0.701031
+Aripiprazole similarity: 0.925096
+Albuterol similarity: 0.984931
+Mestranol similarity: 0.705806
+C11H24: 0.810551
+C9H10N2O2PF2Cl: 0.791277
+Median molecules 1: 0.346591
+Median molecules 2: 0.351423
+Osimertinib MPO: 0.849804
+Fexofenadine MPO: 0.828371
+Ranolazine MPO: 0.785781
+Perindopril MPO: 0.626948
+Amlodipine MPO: 0.751148
+Sitagliptin MPO: 0.516155
+Zaleplon MPO: 0.551564
+Valsartan SMARTS: 0.486095
+Deco Hop: 0.934305
+Scaffold Hop: 0.784320
+Total Score: 14.059/20 
+
+
+HIDDEN NODES: 1100
+DROP PROB: 0.3
+LEARNING RATE: 0.0006
+EPOCH: 44
+Celecoxib rediscovery: 0.662500
+Troglitazone rediscovery: 0.632653
+Thiothixene rediscovery: 0.592593
+Aripiprazole similarity: 0.886334
+Albuterol similarity: 1.000000
+Mestranol similarity: 0.831770
+C11H24: 0.853118
+C9H10N2O2PF2Cl: 0.773353
+Median molecules 1: 0.355850
+Median molecules 2: 0.358062
+Osimertinib MPO: 0.856950
+Fexofenadine MPO: 0.840493
+Ranolazine MPO: 0.832365
+Perindopril MPO: 0.666237
+Amlodipine MPO: 0.764438
+Sitagliptin MPO: 0.511484
+Zaleplon MPO: 0.582590
+Valsartan SMARTS: 0.749296
+Deco Hop: 0.949928
+Scaffold Hop: 0.931855
+Total Score: 14.632/20 
+
+
+HIDDEN NODES: 400
+DROP PROB: 0.2
+LEARNING RATE: 0.0004
+EPOCH: 200
+Total Score: 0.000/0 
+
+
+HIDDEN NODES: 500
+DROP PROB: 0.4
+LEARNING RATE: 0.0002
+EPOCH: 177
+Celecoxib rediscovery: 0.766667
+Troglitazone rediscovery: 0.632653
+Thiothixene rediscovery: 0.826087
+Aripiprazole similarity: 0.911389
+Albuterol similarity: 1.000000
+Mestranol similarity: 0.836017
+C11H24: 0.974333
+C9H10N2O2PF2Cl: 0.826361
+Median molecules 1: 0.360743
+Median molecules 2: 0.351675
+Osimertinib MPO: 0.867433
+Fexofenadine MPO: 0.836984
+Ranolazine MPO: 0.805350
+Perindopril MPO: 0.616722
+Amlodipine MPO: 0.746500
+Sitagliptin MPO: 0.515606
+Zaleplon MPO: 0.545979
+Valsartan SMARTS: 0.679223
+Deco Hop: 0.934356
+Scaffold Hop: 0.823398
+Total Score: 14.857/20 
+
+
+HIDDEN NODES: 800
+DROP PROB: 0.4
+LEARNING RATE: 0.0004
+EPOCH: 150
+Celecoxib rediscovery: 0.505263
+Troglitazone rediscovery: 0.418803
+Thiothixene rediscovery: 0.456140
+Aripiprazole similarity: 0.592069
+Albuterol similarity: 0.714962
+Mestranol similarity: 0.627667
+C11H24: 0.668469
+C9H10N2O2PF2Cl: 0.732971
+Median molecules 1: 0.332236
+Median molecules 2: 0.349232
+Osimertinib MPO: 0.838829
+Fexofenadine MPO: 0.815488
+Total Score: 7.052/12 
+
+
+HIDDEN NODES: 400
+DROP PROB: 0.2
+LEARNING RATE: 0.0001
+Celecoxib rediscovery: 1.000000
+Troglitazone rediscovery: 0.652542
+Thiothixene rediscovery: 0.592233
+Aripiprazole similarity: 0.850968
+Albuterol similarity: 0.959014
+Mestranol similarity: 0.716027
+C11H24: 0.859046
+C9H10N2O2PF2Cl: 0.748559
+Median molecules 1: 0.345732
+Median molecules 2: 0.353679
+Osimertinib MPO: 0.840006
+Fexofenadine MPO: 0.822393
+Ranolazine MPO: 0.794813
+Perindopril MPO: 0.588322
+Amlodipine MPO: 0.722099
+Sitagliptin MPO: 0.503220
+Zaleplon MPO: 0.545921
+Valsartan SMARTS: 0.878590
+Total Score: 12.773/18 
+
+
+HIDDEN NODES: 800
+DROP PROB: 0.2
+LEARNING RATE: 0.0002
+EPOCH: 125
+Celecoxib rediscovery: 0.714286
+Troglitazone rediscovery: 0.718447
+Thiothixene rediscovery: 0.663717
+Aripiprazole similarity: 0.959374
+Albuterol similarity: 1.000000
+Mestranol similarity: 0.906600
+C11H24: 0.965606
+C9H10N2O2PF2Cl: 0.831242
+Median molecules 1: 0.371124
+Median molecules 2: 0.363920
+Osimertinib MPO: 0.866191
+Fexofenadine MPO: 0.873055
+Ranolazine MPO: 0.833188
+Perindopril MPO: 0.687154
+Amlodipine MPO: 0.764375
+Sitagliptin MPO: 0.520963
+Zaleplon MPO: 0.555269
+Valsartan SMARTS: 0.928041
+Deco Hop: 0.956534
+Scaffold Hop: 0.945789
+Total Score: 15.425/20 
+
+
+HIDDEN NODES: 400
+DROP PROB: 0.2
+LEARNING RATE: 0.0004
+EPOCH: 100
+Celecoxib rediscovery: 0.741935
+Troglitazone rediscovery: 0.727273
+Thiothixene rediscovery: 0.721649
+Aripiprazole similarity: 0.896424
+Albuterol similarity: 1.000000
+Mestranol similarity: 0.848486
+C11H24: 0.926619
+C9H10N2O2PF2Cl: 0.808624
+Median molecules 1: 0.365354
+Median molecules 2: 0.358861
+Osimertinib MPO: 0.855978
+Fexofenadine MPO: 0.851997
+Ranolazine MPO: 0.820877
+Perindopril MPO: 0.645533
+Amlodipine MPO: 0.744324
+Sitagliptin MPO: 0.533814
+Zaleplon MPO: 0.555890
+Valsartan SMARTS: 0.788315
+Deco Hop: 0.935337
+Scaffold Hop: 0.909262
+Total Score: 15.037/20 
+
+
+HIDDEN NODES: 800
+DROP PROB: 0.2
+LEARNING RATE: 0.0006
+EPOCH: 125
+Total Score: 0.000/0 
+
+
+HIDDEN NODES: 800
+DROP PROB: 0.4
+LEARNING RATE: 0.0002
+EPOCH: 150
+Celecoxib rediscovery: 0.642105
+Troglitazone rediscovery: 0.630000
+Thiothixene rediscovery: 0.592593
+Aripiprazole similarity: 0.932486
+Albuterol similarity: 0.999310
+Mestranol similarity: 0.866189
+C11H24: 0.847309
+C9H10N2O2PF2Cl: 0.797681
+Median molecules 1: 0.356040
+Median molecules 2: 0.360778
+Osimertinib MPO: 0.861153
+Fexofenadine MPO: 0.835789
+Ranolazine MPO: 0.788601
+Perindopril MPO: 0.621031
+Amlodipine MPO: 0.725272
+Sitagliptin MPO: 0.520808
+Zaleplon MPO: 0.548118
+Valsartan SMARTS: 0.833548
+Deco Hop: 0.933615
+Scaffold Hop: 0.921315
+Total Score: 14.614/20 
+
+
+HIDDEN NODES: 300
+DROP PROB: 0.2
+LEARNING RATE: 0.0002
+EPOCH: 200
+Celecoxib rediscovery: 0.844156
+Troglitazone rediscovery: 0.701923
+Thiothixene rediscovery: 0.827957
+Aripiprazole similarity: 0.922045
+Albuterol similarity: 1.000000
+Mestranol similarity: 0.859900
+C11H24: 0.932791
+C9H10N2O2PF2Cl: 0.783093
+Median molecules 1: 0.361651
+Median molecules 2: 0.358579
+Osimertinib MPO: 0.851969
+Fexofenadine MPO: 0.857111
+Ranolazine MPO: 0.806753
+Perindopril MPO: 0.638010
+Amlodipine MPO: 0.778547
+Sitagliptin MPO: 0.505197
+Zaleplon MPO: 0.572464
+Valsartan SMARTS: 0.784406
+Deco Hop: 0.950114
+Scaffold Hop: 0.737249
+Total Score: 15.074/20 
+
+
+HIDDEN NODES: 500
+DROP PROB: 0.2
+LEARNING RATE: 0.0001
+EPOCH: 150
+Celecoxib rediscovery: 0.666667
+Total Score: 0.667/1 
+
+
+HIDDEN NODES: 800
+DROP PROB: 0.2
+LEARNING RATE: 0.0004
+EPOCH: 106
+Celecoxib rediscovery: 0.505263
+Troglitazone rediscovery: 0.418803
+Thiothixene rediscovery: 0.456140
+Aripiprazole similarity: 0.592069
+Albuterol similarity: 0.714962
+Mestranol similarity: 0.627667
+C11H24: 0.667803
+C9H10N2O2PF2Cl: 0.733148
+Median molecules 1: 0.332236
+Median molecules 2: 0.349232
+Osimertinib MPO: 0.838829
+Fexofenadine MPO: 0.815488
+Total Score: 7.052/12 
+
+
+HIDDEN NODES: 400
+DROP PROB: 0.3
+LEARNING RATE: 0.0002
+EPOCH: 150
+Celecoxib rediscovery: 0.726190
+Troglitazone rediscovery: 0.635417
+Thiothixene rediscovery: 0.633333
+Aripiprazole similarity: 0.884134
+Albuterol similarity: 0.984223
+Mestranol similarity: 0.823588
+Total Score: 4.687/6 
+
+
+HIDDEN NODES: 800
+DROP PROB: 0.4
+LEARNING RATE: 0.0006
+EPOCH: 125
+Celecoxib rediscovery: 0.505263
+Troglitazone rediscovery: 0.418803
+Thiothixene rediscovery: 0.456140
+Aripiprazole similarity: 0.592069
+Albuterol similarity: 0.714962
+Mestranol similarity: 0.627667
+C11H24: 0.671885
+C9H10N2O2PF2Cl: 0.732971
+Median molecules 1: 0.332236
+Median molecules 2: 0.349232
+Osimertinib MPO: 0.838829
+Fexofenadine MPO: 0.815488
+Total Score: 7.056/12 
+
+
+HIDDEN NODES: 900
+DROP PROB: 0.2
+LEARNING RATE: 0.0006
+EPOCH: 175
+Total Score: 0.000/0 
+
+
+HIDDEN NODES: 900
+DROP PROB: 0.4
+LEARNING RATE: 0.0006
+EPOCH: 109
+Celecoxib rediscovery: 0.505263
+Troglitazone rediscovery: 0.418803
+Thiothixene rediscovery: 0.456140
+Aripiprazole similarity: 0.592069
+Albuterol similarity: 0.714962
+Mestranol similarity: 0.627667
+C11H24: 0.671312
+C9H10N2O2PF2Cl: 0.733280
+Median molecules 1: 0.332236
+Median molecules 2: 0.349232
+Osimertinib MPO: 0.838829
+Fexofenadine MPO: 0.815488
+Total Score: 7.055/12 
+
+
+HIDDEN NODES: 300
+DROP PROB: 0.3
+LEARNING RATE: 0.0004
+EPOCH: 125
+Celecoxib rediscovery: 0.731707
+Troglitazone rediscovery: 0.584158
+Thiothixene rediscovery: 0.643564
+Aripiprazole similarity: 0.938143
+Albuterol similarity: 0.999797
+Mestranol similarity: 0.809581
+C11H24: 0.942422
+C9H10N2O2PF2Cl: 0.798748
+Median molecules 1: 0.343858
+Median molecules 2: 0.349538
+Osimertinib MPO: 0.850835
+Fexofenadine MPO: 0.836419
+Ranolazine MPO: 0.806257
+Perindopril MPO: 0.636824
+Amlodipine MPO: 0.742269
+Sitagliptin MPO: 0.520239
+Zaleplon MPO: 0.546844
+Valsartan SMARTS: 0.647683
+Deco Hop: 0.932324
+Scaffold Hop: 0.803483
+Total Score: 14.465/20 
+
+
+HIDDEN NODES: 500
+DROP PROB: 0.2
+LEARNING RATE: 0.0002
+EPOCH: 150
+Celecoxib rediscovery: 1.000000
+Total Score: 1.000/1 
+
+
+HIDDEN NODES: 800
+DROP PROB: 0.4
+LEARNING RATE: 0.0006
+EPOCH: 100
+Celecoxib rediscovery: 0.505263
+Troglitazone rediscovery: 0.418803
+Thiothixene rediscovery: 0.456140
+Aripiprazole similarity: 0.592069
+Albuterol similarity: 0.714962
+Mestranol similarity: 0.627667
+C11H24: 0.670514
+C9H10N2O2PF2Cl: 0.732971
+Median molecules 1: 0.332236
+Median molecules 2: 0.349232
+Osimertinib MPO: 0.838829
+Fexofenadine MPO: 0.815488
+Total Score: 7.054/12 
+
+
+HIDDEN NODES: 600
+DROP PROB: 0.2
+LEARNING RATE: 0.0003
+EPOCH: 200
+Celecoxib rediscovery: 0.753247
+Troglitazone rediscovery: 0.579439
+Thiothixene rediscovery: 0.645833
+Total Score: 1.979/3 
+
+
+HIDDEN NODES: 700
+DROP PROB: 0.4
+LEARNING RATE: 0.0004
+EPOCH: 129
+Celecoxib rediscovery: 0.505263
+Troglitazone rediscovery: 0.418803
+Thiothixene rediscovery: 0.456140
+Aripiprazole similarity: 0.592069
+Albuterol similarity: 0.714962
+Mestranol similarity: 0.627667
+Total Score: 3.315/6 
+
+
+HIDDEN NODES: 900
+DROP PROB: 0.4
+LEARNING RATE: 0.0006
+EPOCH: 150
+Celecoxib rediscovery: 0.505263
+Troglitazone rediscovery: 0.418803
+Thiothixene rediscovery: 0.456140
+Aripiprazole similarity: 0.592069
+Albuterol similarity: 0.714962
+Mestranol similarity: 0.627667
+C11H24: 0.673419
+C9H10N2O2PF2Cl: 0.733289
+Median molecules 1: 0.332236
+Median molecules 2: 0.349232
+Osimertinib MPO: 0.838829
+Fexofenadine MPO: 0.815488
+Total Score: 7.057/12 
+
+
+HIDDEN NODES: 200
+DROP PROB: 0.4
+LEARNING RATE: 0.0004
+EPOCH: 200
+Celecoxib rediscovery: 0.775000
+Troglitazone rediscovery: 0.488889
+Thiothixene rediscovery: 0.674157
+Aripiprazole similarity: 0.886301
+Albuterol similarity: 0.999189
+Mestranol similarity: 0.888883
+C11H24: 0.982033
+C9H10N2O2PF2Cl: 0.778885
+Median molecules 1: 0.359930
+Median molecules 2: 0.355456
+Osimertinib MPO: 0.845789
+Fexofenadine MPO: 0.845359
+Ranolazine MPO: 0.824543
+Perindopril MPO: 0.599283
+Amlodipine MPO: 0.737800
+Sitagliptin MPO: 0.531905
+Zaleplon MPO: 0.561338
+Valsartan SMARTS: 0.721444
+Deco Hop: 0.942923
+Total Score: 13.799/19 
+
+
+HIDDEN NODES: 700
+DROP PROB: 0.4
+LEARNING RATE: 0.0002
+EPOCH: 130
+Celecoxib rediscovery: 0.700000
+Troglitazone rediscovery: 0.598039
+Thiothixene rediscovery: 0.680672
+Aripiprazole similarity: 0.868752
+Albuterol similarity: 0.998405
+Mestranol similarity: 0.779316
+C11H24: 0.899120
+C9H10N2O2PF2Cl: 0.795871
+Median molecules 1: 0.343380
+Median molecules 2: 0.353877
+Osimertinib MPO: 0.850480
+Fexofenadine MPO: 0.822788
+Ranolazine MPO: 0.794554
+Perindopril MPO: 0.581837
+Amlodipine MPO: 0.713477
+Sitagliptin MPO: 0.509012
+Zaleplon MPO: 0.556261
+Total Score: 11.846/17 
+
+
+HIDDEN NODES: 500
+DROP PROB: 0.2
+LEARNING RATE: 0.0001
+Celecoxib rediscovery: 0.753247
+Troglitazone rediscovery: 0.635417
+Thiothixene rediscovery: 0.596154
+Aripiprazole similarity: 0.875420
+Albuterol similarity: 0.996710
+Mestranol similarity: 0.718358
+C11H24: 0.969970
+C9H10N2O2PF2Cl: 0.758932
+Median molecules 1: 0.350907
+Median molecules 2: 0.356451
+Osimertinib MPO: 0.850523
+Fexofenadine MPO: 0.854323
+Ranolazine MPO: 0.851828
+Perindopril MPO: 0.586423
+Amlodipine MPO: 0.735319
+Sitagliptin MPO: 0.503074
+Zaleplon MPO: 0.590082
+Valsartan SMARTS: 0.357697
+Deco Hop: 0.950976
+Total Score: 13.292/19 
+
+
+HIDDEN NODES: 300
+DROP PROB: 0.3
+LEARNING RATE: 0.0002
+EPOCH: 125
+Celecoxib rediscovery: 0.731707
+Troglitazone rediscovery: 0.666667
+Thiothixene rediscovery: 0.625000
+Aripiprazole similarity: 0.905996
+Albuterol similarity: 1.000000
+Mestranol similarity: 0.799645
+C11H24: 0.844243
+C9H10N2O2PF2Cl: 0.811596
+Median molecules 1: 0.352820
+Median molecules 2: 0.356851
+Osimertinib MPO: 0.849026
+Fexofenadine MPO: 0.841772
+Ranolazine MPO: 0.776607
+Perindopril MPO: 0.622822
+Amlodipine MPO: 0.756353
+Sitagliptin MPO: 0.512358
+Zaleplon MPO: 0.546787
+Valsartan SMARTS: 0.807391
+Deco Hop: 0.935205
+Scaffold Hop: 0.946825
+Total Score: 14.690/20 
+
+
+HIDDEN NODES: 900
+DROP PROB: 0.2
+LEARNING RATE: 0.0006
+EPOCH: 150
+Total Score: 0.000/0 
+
+
+HIDDEN NODES: 300
+DROP PROB: 0.3
+LEARNING RATE: 0.0004
+EPOCH: 175
+Celecoxib rediscovery: 0.775000
+Troglitazone rediscovery: 0.622807
+Thiothixene rediscovery: 0.618182
+Aripiprazole similarity: 0.912520
+Albuterol similarity: 1.000000
+Mestranol similarity: 0.798033
+C11H24: 0.888879
+C9H10N2O2PF2Cl: 0.793111
+Median molecules 1: 0.348118
+Median molecules 2: 0.349541
+Osimertinib MPO: 0.850881
+Fexofenadine MPO: 0.855119
+Ranolazine MPO: 0.812475
+Perindopril MPO: 0.644042
+Amlodipine MPO: 0.769448
+Sitagliptin MPO: 0.512459
+Zaleplon MPO: 0.548563
+Valsartan SMARTS: 0.680830
+Deco Hop: 0.933908
+Scaffold Hop: 0.840716
+Total Score: 14.555/20 
+
+
+HIDDEN NODES: 400
+DROP PROB: 0.4
+LEARNING RATE: 0.0004
+EPOCH: 200
+Celecoxib rediscovery: 0.731707
+Troglitazone rediscovery: 0.637168
+Thiothixene rediscovery: 0.565574
+Aripiprazole similarity: 0.856479
+Albuterol similarity: 1.000000
+Mestranol similarity: 0.817679
+C11H24: 0.863299
+C9H10N2O2PF2Cl: 0.784223
+Median molecules 1: 0.352736
+Median molecules 2: 0.352944
+Osimertinib MPO: 0.851101
+Fexofenadine MPO: 0.836402
+Ranolazine MPO: 0.793417
+Perindopril MPO: 0.646939
+Amlodipine MPO: 0.774053
+Total Score: 10.864/15 
+
+
+HIDDEN NODES: 900
+DROP PROB: 0.4
+LEARNING RATE: 0.0006
+EPOCH: 100
+Celecoxib rediscovery: 0.505263
+Troglitazone rediscovery: 0.418803
+Thiothixene rediscovery: 0.456140
+Aripiprazole similarity: 0.592069
+Albuterol similarity: 0.714962
+Mestranol similarity: 0.627667
+C11H24: 0.671636
+C9H10N2O2PF2Cl: 0.732971
+Median molecules 1: 0.332236
+Median molecules 2: 0.349232
+Osimertinib MPO: 0.838829
+Fexofenadine MPO: 0.815488
+Total Score: 7.055/12 
+
+
+HIDDEN NODES: 700
+DROP PROB: 0.2
+LEARNING RATE: 0.0005
+EPOCH: 21745574
+Celecoxib rediscovery: 0.505263
+Troglitazone rediscovery: 0.418803
+Thiothixene rediscovery: 0.456140
+Aripiprazole similarity: 0.592069
+Albuterol similarity: 0.714962
+Mestranol similarity: 0.627667
+C11H24: 0.673178
+C9H10N2O2PF2Cl: 0.733503
+Median molecules 1: 0.332236
+Median molecules 2: 0.349232
+Osimertinib MPO: 0.838829
+Fexofenadine MPO: 0.815488
+Total Score: 7.057/12 
+
+
+HIDDEN NODES: 900
+DROP PROB: 0.4
+LEARNING RATE: 0.0004
+EPOCH: 125
+Celecoxib rediscovery: 0.775000
+Troglitazone rediscovery: 0.651786
+Thiothixene rediscovery: 0.629630
+Aripiprazole similarity: 0.885807
+Albuterol similarity: 1.000000
+Mestranol similarity: 0.916035
+C11H24: 0.882169
+C9H10N2O2PF2Cl: 0.749597
+Median molecules 1: 0.363294
+Median molecules 2: 0.353406
+Osimertinib MPO: 0.853364
+Fexofenadine MPO: 0.815952
+Ranolazine MPO: 0.834576
+Perindopril MPO: 0.654194
+Amlodipine MPO: 0.742243
+Sitagliptin MPO: 0.507858
+Zaleplon MPO: 0.550423
+Valsartan SMARTS: 0.763709
+Deco Hop: 0.941657
+Scaffold Hop: 0.758818
+Total Score: 14.630/20 
+
+
+HIDDEN NODES: 300
+DROP PROB: 0.3
+LEARNING RATE: 0.0005
+EPOCH: 200
+Celecoxib rediscovery: 0.775000
+Troglitazone rediscovery: 0.613861
+Thiothixene rediscovery: 0.610000
+Aripiprazole similarity: 0.912708
+Albuterol similarity: 1.000000
+Mestranol similarity: 0.848155
+C11H24: 0.892545
+C9H10N2O2PF2Cl: 0.784025
+Median molecules 1: 0.348927
+Median molecules 2: 0.353642
+Osimertinib MPO: 0.847674
+Fexofenadine MPO: 0.849900
+Ranolazine MPO: 0.812113
+Perindopril MPO: 0.643230
+Amlodipine MPO: 0.753912
+Sitagliptin MPO: 0.512615
+Zaleplon MPO: 0.560954
+Valsartan SMARTS: 0.665460
+Deco Hop: 0.934685
+Total Score: 13.719/19 
+
+
+HIDDEN NODES: 1000
+DROP PROB: 0.4
+LEARNING RATE: 0.0002
+EPOCH: 47
+Celecoxib rediscovery: 0.731707
+Troglitazone rediscovery: 0.598131
+Thiothixene rediscovery: 0.613208
+Aripiprazole similarity: 0.838873
+Albuterol similarity: 0.955458
+Mestranol similarity: 0.824746
+C11H24: 0.746703
+C9H10N2O2PF2Cl: 0.758780
+Median molecules 1: 0.336348
+Median molecules 2: 0.350519
+Osimertinib MPO: 0.845458
+Fexofenadine MPO: 0.853142
+Ranolazine MPO: 0.777230
+Perindopril MPO: 0.581382
+Amlodipine MPO: 0.718609
+Sitagliptin MPO: 0.507763
+Zaleplon MPO: 0.544152
+Valsartan SMARTS: 0.281799
+Total Score: 11.864/18 
+
+
+HIDDEN NODES: 600
+DROP PROB: 0.3
+LEARNING RATE: 0.0001
+EPOCH: 150
+Total Score: 0.000/0 
+
+
+HIDDEN NODES: 400
+DROP PROB: 0.2
+LEARNING RATE: 0.0001
+EPOCH: 150
+Celecoxib rediscovery: 0.835443
+Troglitazone rediscovery: 0.613861
+Thiothixene rediscovery: 0.704082
+Aripiprazole similarity: 0.857324
+Albuterol similarity: 1.000000
+Mestranol similarity: 0.920797
+C11H24: 0.984856
+C9H10N2O2PF2Cl: 0.846973
+Median molecules 1: 0.346653
+Total Score: 7.110/9 
+
+
+HIDDEN NODES: 900
+DROP PROB: 0.2
+LEARNING RATE: 0.0006
+EPOCH: 200
+Total Score: 0.000/0 
+
+
+HIDDEN NODES: 400
+DROP PROB: 0.4
+LEARNING RATE: 0.0004
+EPOCH: 200
+Total Score: 0.000/0 
+
+
+HIDDEN NODES: 400
+DROP PROB: 0.2
+LEARNING RATE: 0.0004
+EPOCH: 200
+Total Score: 0.000/0 
+
+
+HIDDEN NODES: 300
+DROP PROB: 0.4
+LEARNING RATE: 0.0006
+EPOCH: 200
+Celecoxib rediscovery: 0.726190
+Troglitazone rediscovery: 0.652174
+Thiothixene rediscovery: 0.699029
+Aripiprazole similarity: 0.846585
+Albuterol similarity: 0.999380
+Mestranol similarity: 0.837256
+C11H24: 0.899756
+C9H10N2O2PF2Cl: 0.785866
+Median molecules 1: 0.359940
+Median molecules 2: 0.354257
+Osimertinib MPO: 0.842729
+Fexofenadine MPO: 0.843807
+Ranolazine MPO: 0.826643
+Perindopril MPO: 0.604167
+Amlodipine MPO: 0.782728
+Sitagliptin MPO: 0.521105
+Zaleplon MPO: 0.553574
+Valsartan SMARTS: 0.819434
+Deco Hop: 0.936448
+Scaffold Hop: 0.937910
+Total Score: 14.829/20 
+
+
+HIDDEN NODES: 500
+DROP PROB: 0.2
+LEARNING RATE: 0.0003
+EPOCH: 175
+Celecoxib rediscovery: 0.666667
+Troglitazone rediscovery: 0.537037
+Thiothixene rediscovery: 0.625000
+Aripiprazole similarity: 0.933951
+Total Score: 2.763/4 
+
+
+HIDDEN NODES: 1000
+DROP PROB: 0.4
+LEARNING RATE: 0.0004
+EPOCH: 47
+Celecoxib rediscovery: 0.705882
+Troglitazone rediscovery: 0.640351
+Thiothixene rediscovery: 0.628571
+Aripiprazole similarity: 0.940746
+Albuterol similarity: 1.000000
+Mestranol similarity: 0.821197
+C11H24: 0.857371
+C9H10N2O2PF2Cl: 0.815370
+Median molecules 1: 0.354789
+Median molecules 2: 0.360500
+Osimertinib MPO: 0.849443
+Fexofenadine MPO: 0.901648
+Ranolazine MPO: 0.820911
+Perindopril MPO: 0.598507
+Amlodipine MPO: 0.725882
+Sitagliptin MPO: 0.535698
+Zaleplon MPO: 0.545340
+Valsartan SMARTS: 0.741922
+Deco Hop: 0.932862
+Scaffold Hop: 0.896587
+Total Score: 14.674/20 
+
+
+HIDDEN NODES: 900
+DROP PROB: 0.4
+LEARNING RATE: 0.0006
+EPOCH: 125
+Celecoxib rediscovery: 0.505263
+Troglitazone rediscovery: 0.418803
+Thiothixene rediscovery: 0.456140
+Aripiprazole similarity: 0.592069
+Albuterol similarity: 0.714962
+Mestranol similarity: 0.627667
+C11H24: 0.676118
+C9H10N2O2PF2Cl: 0.733148
+Median molecules 1: 0.332236
+Median molecules 2: 0.349232
+Osimertinib MPO: 0.838829
+Fexofenadine MPO: 0.815488
+Total Score: 7.060/12 
+
+
+HIDDEN NODES: 500
+DROP PROB: 0.2
+LEARNING RATE: 0.0002
+EPOCH: 200
+Celecoxib rediscovery: 0.844156
+Troglitazone rediscovery: 0.657658
+Thiothixene rediscovery: 0.707865
+Aripiprazole similarity: 0.910211
+Albuterol similarity: 0.999115
+Mestranol similarity: 0.880624
+C11H24: 0.970996
+C9H10N2O2PF2Cl: 0.828513
+Median molecules 1: 0.371326
+Median molecules 2: 0.357420
+Osimertinib MPO: 0.850889
+Fexofenadine MPO: 0.871831
+Ranolazine MPO: 0.821466
+Perindopril MPO: 0.637949
+Amlodipine MPO: 0.797158
+Total Score: 11.507/15 
+
+
+HIDDEN NODES: 500
+DROP PROB: 0.2
+LEARNING RATE: 0.0002
+EPOCH: 150
+Celecoxib rediscovery: 1.000000
+Troglitazone rediscovery: 0.712963
+Thiothixene rediscovery: 0.755102
+Aripiprazole similarity: 0.930281
+Albuterol similarity: 1.000000
+Mestranol similarity: 0.924098
+C11H24: 0.991017
+C9H10N2O2PF2Cl: 0.823388
+Median molecules 1: 0.365162
+Median molecules 2: 0.363436
+Osimertinib MPO: 0.874219
+Fexofenadine MPO: 0.874639
+Ranolazine MPO: 0.843696
+Perindopril MPO: 0.663970
+Amlodipine MPO: 0.768546
+Sitagliptin MPO: 0.557077
+Zaleplon MPO: 0.567793
+Valsartan SMARTS: 0.965541
+Deco Hop: 0.988472
+Scaffold Hop: 0.991065
+Total Score: 15.960/20 
+
+
+HIDDEN NODES: 600
+DROP PROB: 0.3
+LEARNING RATE: 0.0001
+EPOCH: 175
+Celecoxib rediscovery: 0.642857
+Troglitazone rediscovery: 0.616162
+Total Score: 1.259/2 
+
+
+HIDDEN NODES: 400
+DROP PROB: 0.2
+LEARNING RATE: 0.0004
+EPOCH: 100
+Celecoxib rediscovery: 0.741935
+Troglitazone rediscovery: 0.636364
+Thiothixene rediscovery: 0.643564
+Aripiprazole similarity: 0.914846
+Albuterol similarity: 1.000000
+Mestranol similarity: 0.841943
+C11H24: 0.974846
+C9H10N2O2PF2Cl: 0.800874
+Median molecules 1: 0.364135
+Median molecules 2: 0.360290
+Osimertinib MPO: 0.855140
+Fexofenadine MPO: 0.845681
+Total Score: 8.980/12 
+
+
+HIDDEN NODES: 300
+DROP PROB: 0.2
+LEARNING RATE: 0.0006
+EPOCH: 125
+Celecoxib rediscovery: 0.795181
+Troglitazone rediscovery: 0.637097
+Thiothixene rediscovery: 0.704082
+Aripiprazole similarity: 0.888258
+Albuterol similarity: 1.000000
+Mestranol similarity: 0.838814
+C11H24: 0.952444
+C9H10N2O2PF2Cl: 0.786450
+Median molecules 1: 0.366661
+Median molecules 2: 0.355423
+Osimertinib MPO: 0.852830
+Fexofenadine MPO: 0.835176
+Ranolazine MPO: 0.835875
+Perindopril MPO: 0.634881
+Amlodipine MPO: 0.767675
+Sitagliptin MPO: 0.513260
+Zaleplon MPO: 0.554212
+Valsartan SMARTS: 0.771040
+Deco Hop: 0.939388
+Scaffold Hop: 0.922399
+Total Score: 14.951/20 
+
+
+HIDDEN NODES: 600
+DROP PROB: 0.2
+LEARNING RATE: 0.0002
+EPOCH: 155
+Celecoxib rediscovery: 0.844156
+Troglitazone rediscovery: 0.544643
+Thiothixene rediscovery: 0.698925
+Aripiprazole similarity: 0.876023
+Total Score: 2.964/4 
+
+
+HIDDEN NODES: 300
+DROP PROB: 0.4
+LEARNING RATE: 0.0002
+EPOCH: 150
+Celecoxib rediscovery: 0.766667
+Troglitazone rediscovery: 0.669725
+Thiothixene rediscovery: 0.646465
+Aripiprazole similarity: 0.931696
+Albuterol similarity: 1.000000
+Mestranol similarity: 0.823178
+C11H24: 0.880116
+C9H10N2O2PF2Cl: 0.834681
+Median molecules 1: 0.358825
+Median molecules 2: 0.360765
+Osimertinib MPO: 0.864644
+Fexofenadine MPO: 0.833383
+Ranolazine MPO: 0.841406
+Perindopril MPO: 0.679478
+Amlodipine MPO: 0.745713
+Sitagliptin MPO: 0.519981
+Zaleplon MPO: 0.567174
+Valsartan SMARTS: 0.895634
+Deco Hop: 0.959745
+Total Score: 14.179/19 
+
+
+HIDDEN NODES: 400
+DROP PROB: 0.2
+LEARNING RATE: 0.0002
+Celecoxib rediscovery: 0.690476
+Troglitazone rediscovery: 0.478723
+Thiothixene rediscovery: 0.487805
+Aripiprazole similarity: 0.807237
+Albuterol similarity: 0.890098
+Mestranol similarity: 0.650832
+C11H24: 0.776488
+C9H10N2O2PF2Cl: 0.751097
+Median molecules 1: 0.333845
+Median molecules 2: 0.349887
+Osimertinib MPO: 0.843280
+Fexofenadine MPO: 0.824474
+Ranolazine MPO: 0.784308
+Perindopril MPO: 0.575671
+Amlodipine MPO: 0.696756
+Sitagliptin MPO: 0.511940
+Total Score: 10.453/16 
+
+
+HIDDEN NODES: 900
+DROP PROB: 0.3
+LEARNING RATE: 0.0002
+EPOCH: 114
+Celecoxib rediscovery: 0.775000
+Troglitazone rediscovery: 0.646465
+Thiothixene rediscovery: 0.632653
+Aripiprazole similarity: 0.950450
+Albuterol similarity: 0.997228
+Mestranol similarity: 0.817776
+C11H24: 0.867356
+C9H10N2O2PF2Cl: 0.799694
+Median molecules 1: 0.371756
+Median molecules 2: 0.388107
+Osimertinib MPO: 0.868250
+Fexofenadine MPO: 0.856390
+Ranolazine MPO: 0.812584
+Perindopril MPO: 0.632268
+Amlodipine MPO: 0.747849
+Sitagliptin MPO: 0.523488
+Zaleplon MPO: 0.553296
+Valsartan SMARTS: 0.707631
+Deco Hop: 0.942721
+Scaffold Hop: 0.949629
+Total Score: 14.841/20 
+
+
+HIDDEN NODES: 400
+DROP PROB: 0.3
+LEARNING RATE: 0.0002
+EPOCH: 200
+Celecoxib rediscovery: 0.736842
+Troglitazone rediscovery: 0.635417
+Thiothixene rediscovery: 0.607477
+Aripiprazole similarity: 0.917224
+Albuterol similarity: 0.999828
+Total Score: 3.897/5 
+
+
+HIDDEN NODES: 300
+DROP PROB: 0.2
+LEARNING RATE: 0.0001
+EPOCH: 200
+Celecoxib rediscovery: 0.804878
+Troglitazone rediscovery: 0.826531
+Thiothixene rediscovery: 0.707865
+Aripiprazole similarity: 0.901746
+Albuterol similarity: 0.978359
+Mestranol similarity: 0.786480
+C11H24: 0.969200
+C9H10N2O2PF2Cl: 0.817857
+Median molecules 1: 0.353069
+Median molecules 2: 0.356721
+Osimertinib MPO: 0.860850
+Fexofenadine MPO: 0.855324
+Ranolazine MPO: 0.844398
+Perindopril MPO: 0.616410
+Amlodipine MPO: 0.719665
+Sitagliptin MPO: 0.519517
+Zaleplon MPO: 0.548232
+Valsartan SMARTS: 0.859212
+Deco Hop: 0.955072
+Scaffold Hop: 1.000000
+Total Score: 15.281/20 
+
+
+HIDDEN NODES: 800
+DROP PROB: 0.3
+LEARNING RATE: 0.0006
+EPOCH: 39
+Celecoxib rediscovery: 0.505263
+Troglitazone rediscovery: 0.418803
+Thiothixene rediscovery: 0.456140
+Aripiprazole similarity: 0.592069
+Albuterol similarity: 0.714962
+Mestranol similarity: 0.627667
+C11H24: 0.723288
+C9H10N2O2PF2Cl: 0.732971
+Median molecules 1: 0.332239
+Median molecules 2: 0.349232
+Osimertinib MPO: 0.838829
+Fexofenadine MPO: 0.815488
+Total Score: 7.107/12 
+
+
+HIDDEN NODES: 800
+DROP PROB: 0.3
+LEARNING RATE: 0.0002
+EPOCH: 150
+Celecoxib rediscovery: 0.760870
+Troglitazone rediscovery: 0.635417
+Thiothixene rediscovery: 0.663265
+Aripiprazole similarity: 0.963020
+Albuterol similarity: 1.000000
+Mestranol similarity: 0.888437
+C11H24: 0.878759
+C9H10N2O2PF2Cl: 0.823071
+Median molecules 1: 0.367532
+Median molecules 2: 0.374901
+Osimertinib MPO: 0.871383
+Fexofenadine MPO: 0.877144
+Ranolazine MPO: 0.819346
+Perindopril MPO: 0.674579
+Amlodipine MPO: 0.783359
+Sitagliptin MPO: 0.529298
+Zaleplon MPO: 0.569781
+Valsartan SMARTS: 0.904148
+Deco Hop: 0.949553
+Scaffold Hop: 0.956114
+Total Score: 15.290/20 
+
+
+HIDDEN NODES: 300
+DROP PROB: 0.4
+LEARNING RATE: 0.0006
+EPOCH: 125
+Celecoxib rediscovery: 0.731707
+Troglitazone rediscovery: 0.632653
+Thiothixene rediscovery: 0.622642
+Aripiprazole similarity: 0.863377
+Albuterol similarity: 1.000000
+Mestranol similarity: 0.839224
+C11H24: 0.881399
+C9H10N2O2PF2Cl: 0.783218
+Median molecules 1: 0.358846
+Median molecules 2: 0.353533
+Osimertinib MPO: 0.850861
+Fexofenadine MPO: 0.831876
+Ranolazine MPO: 0.832005
+Perindopril MPO: 0.617020
+Amlodipine MPO: 0.759749
+Sitagliptin MPO: 0.512062
+Zaleplon MPO: 0.551404
+Valsartan SMARTS: 0.868013
+Deco Hop: 0.936220
+Scaffold Hop: 0.847653
+Total Score: 14.673/20 
+
+
+HIDDEN NODES: 900
+DROP PROB: 0.3
+LEARNING RATE: 0.0004
+EPOCH: 125
+Celecoxib rediscovery: 0.505263
+Troglitazone rediscovery: 0.418803
+Thiothixene rediscovery: 0.456140
+Aripiprazole similarity: 0.592069
+Albuterol similarity: 0.714962
+Mestranol similarity: 0.627667
+C11H24: 0.679251
+C9H10N2O2PF2Cl: 0.732971
+Median molecules 1: 0.332236
+Median molecules 2: 0.349232
+Osimertinib MPO: 0.838829
+Fexofenadine MPO: 0.815488
+Total Score: 7.063/12 
+
+
+HIDDEN NODES: 300
+DROP PROB: 0.2
+LEARNING RATE: 0.0006
+EPOCH: 175
+Celecoxib rediscovery: 0.775000
+Troglitazone rediscovery: 0.652174
+Thiothixene rediscovery: 0.611111
+Aripiprazole similarity: 0.918769
+Albuterol similarity: 0.996544
+Mestranol similarity: 0.866273
+C11H24: 0.968943
+C9H10N2O2PF2Cl: 0.775920
+Median molecules 1: 0.358828
+Median molecules 2: 0.351384
+Osimertinib MPO: 0.845540
+Fexofenadine MPO: 0.834056
+Ranolazine MPO: 0.814583
+Perindopril MPO: 0.619823
+Amlodipine MPO: 0.758200
+Sitagliptin MPO: 0.541232
+Zaleplon MPO: 0.545990
+Valsartan SMARTS: 0.299282
+Deco Hop: 0.935142
+Scaffold Hop: 0.859261
+Total Score: 14.328/20 
+
+
+HIDDEN NODES: 700
+DROP PROB: 0.2
+LEARNING RATE: 0.0005
+EPOCH: 75
+Celecoxib rediscovery: 0.812500
+Troglitazone rediscovery: 0.592593
+Thiothixene rediscovery: 0.550847
+Aripiprazole similarity: 0.888491
+Albuterol similarity: 0.986416
+Mestranol similarity: 0.738347
+C11H24: 0.840574
+C9H10N2O2PF2Cl: 0.759858
+Median molecules 1: 0.343330
+Median molecules 2: 0.356136
+Osimertinib MPO: 0.848067
+Fexofenadine MPO: 0.833224
+Ranolazine MPO: 0.814103
+Perindopril MPO: 0.596098
+Amlodipine MPO: 0.724369
+Sitagliptin MPO: 0.510234
+Zaleplon MPO: 0.547036
+Valsartan SMARTS: 0.292308
+Deco Hop: 0.933267
+Scaffold Hop: 0.819199
+Total Score: 13.787/20 
+
+
+HIDDEN NODES: 600
+DROP PROB: 0.4
+LEARNING RATE: 0.0002
+EPOCH: 142
+Celecoxib rediscovery: 0.750000
+Troglitazone rediscovery: 0.714286
+Thiothixene rediscovery: 0.607477
+Aripiprazole similarity: 0.844853
+Albuterol similarity: 0.985394
+Mestranol similarity: 0.812542
+C11H24: 0.969456
+C9H10N2O2PF2Cl: 0.804303
+Median molecules 1: 0.350626
+Median molecules 2: 0.359435
+Osimertinib MPO: 0.863218
+Fexofenadine MPO: 0.838142
+Ranolazine MPO: 0.770538
+Perindopril MPO: 0.599964
+Amlodipine MPO: 0.717593
+Sitagliptin MPO: 0.511352
+Zaleplon MPO: 0.544711
+Valsartan SMARTS: 0.334535
+Deco Hop: 0.933400
+Total Score: 13.312/19 
+
+
+HIDDEN NODES: 400
+DROP PROB: 0.3
+LEARNING RATE: 0.0002
+EPOCH: 200
+Celecoxib rediscovery: 0.750000
+Troglitazone rediscovery: 0.651786
+Thiothixene rediscovery: 0.625000
+Aripiprazole similarity: 0.900353
+Albuterol similarity: 0.997540
+Mestranol similarity: 0.835416
+C11H24: 0.870644
+C9H10N2O2PF2Cl: 0.827916
+Median molecules 1: 0.345660
+Median molecules 2: 0.355296
+Osimertinib MPO: 0.852369
+Fexofenadine MPO: 0.839645
+Ranolazine MPO: 0.781320
+Perindopril MPO: 0.609800
+Amlodipine MPO: 0.752473
+Sitagliptin MPO: 0.514496
+Zaleplon MPO: 0.563055
+Valsartan SMARTS: 0.838587
+Deco Hop: 0.933212
+Scaffold Hop: 0.791806
+Total Score: 14.636/20 
+
+
+HIDDEN NODES: 400
+DROP PROB: 0.2
+LEARNING RATE: 0.0003
+Celecoxib rediscovery: 0.775000
+Troglitazone rediscovery: 0.635417
+Thiothixene rediscovery: 0.700000
+Aripiprazole similarity: 0.950327
+Albuterol similarity: 1.000000
+Mestranol similarity: 0.880009
+C11H24: 0.890859
+C9H10N2O2PF2Cl: 0.782144
+Median molecules 1: 0.350906
+Median molecules 2: 0.355624
+Osimertinib MPO: 0.853998
+Fexofenadine MPO: 0.849025
+Ranolazine MPO: 0.817119
+Perindopril MPO: 0.650309
+Amlodipine MPO: 0.751118
+Sitagliptin MPO: 0.517478
+Zaleplon MPO: 0.549121
+Total Score: 12.308/17 
+
+
+HIDDEN NODES: 300
+DROP PROB: 0.2
+LEARNING RATE: 0.0002
+EPOCH: 175
+Celecoxib rediscovery: 0.812500
+Troglitazone rediscovery: 0.657143
+Thiothixene rediscovery: 0.645833
+Aripiprazole similarity: 0.940942
+Albuterol similarity: 1.000000
+Mestranol similarity: 0.827526
+C11H24: 0.942899
+C9H10N2O2PF2Cl: 0.747590
+Median molecules 1: 0.347698
+Median molecules 2: 0.349561
+Osimertinib MPO: 0.838999
+Fexofenadine MPO: 0.817254
+Ranolazine MPO: 0.747943
+Perindopril MPO: 0.571655
+Amlodipine MPO: 0.700559
+Sitagliptin MPO: 0.504872
+Zaleplon MPO: 0.545011
+Valsartan SMARTS: 0.402328
+Deco Hop: 0.932811
+Scaffold Hop: 0.724600
+Total Score: 14.058/20 
+
+
+HIDDEN NODES: 600
+DROP PROB: 0.3
+LEARNING RATE: 0.0006
+EPOCH: 156
+Celecoxib rediscovery: 0.505263
+Troglitazone rediscovery: 0.418803
+Thiothixene rediscovery: 0.456140
+Aripiprazole similarity: 0.592069
+Albuterol similarity: 0.714962
+Mestranol similarity: 0.627667
+Total Score: 3.315/6 
+
+
+HIDDEN NODES: 900
+DROP PROB: 0.3
+LEARNING RATE: 0.0002
+EPOCH: 175
+Celecoxib rediscovery: 0.775000
+Troglitazone rediscovery: 0.666667
+Thiothixene rediscovery: 0.798077
+Aripiprazole similarity: 0.891979
+Albuterol similarity: 1.000000
+Mestranol similarity: 0.857045
+C11H24: 0.876315
+C9H10N2O2PF2Cl: 0.826692
+Median molecules 1: 0.358068
+Median molecules 2: 0.377132
+Osimertinib MPO: 0.869306
+Fexofenadine MPO: 0.855076
+Ranolazine MPO: 0.831774
+Perindopril MPO: 0.648139
+Amlodipine MPO: 0.773401
+Sitagliptin MPO: 0.514021
+Zaleplon MPO: 0.559362
+Valsartan SMARTS: 0.732797
+Deco Hop: 0.946737
+Total Score: 14.158/19 
+
+
+HIDDEN NODES: 900
+DROP PROB: 0.4
+LEARNING RATE: 0.0002
+EPOCH: 125
+Celecoxib rediscovery: 0.690476
+Troglitazone rediscovery: 0.627451
+Thiothixene rediscovery: 0.712963
+Aripiprazole similarity: 0.934876
+Albuterol similarity: 1.000000
+Mestranol similarity: 0.772706
+C11H24: 0.969200
+C9H10N2O2PF2Cl: 0.819138
+Median molecules 1: 0.354466
+Median molecules 2: 0.358312
+Osimertinib MPO: 0.851458
+Fexofenadine MPO: 0.843719
+Ranolazine MPO: 0.764900
+Perindopril MPO: 0.594055
+Amlodipine MPO: 0.740479
+Sitagliptin MPO: 0.507965
+Zaleplon MPO: 0.544473
+Valsartan SMARTS: 0.451957
+Total Score: 12.539/18 
+
+
+HIDDEN NODES: 800
+DROP PROB: 0.3
+LEARNING RATE: 0.0004
+EPOCH: 150
+Celecoxib rediscovery: 0.505263
+Troglitazone rediscovery: 0.418803
+Thiothixene rediscovery: 0.456140
+Aripiprazole similarity: 0.592069
+Albuterol similarity: 0.714962
+Mestranol similarity: 0.627667
+C11H24: 0.671991
+C9H10N2O2PF2Cl: 0.732971
+Median molecules 1: 0.332236
+Median molecules 2: 0.349232
+Osimertinib MPO: 0.838829
+Fexofenadine MPO: 0.815488
+Total Score: 7.056/12 
+
+
+HIDDEN NODES: 900
+DROP PROB: 0.3
+LEARNING RATE: 0.0006
+EPOCH: 57
+Celecoxib rediscovery: 0.505263
+Troglitazone rediscovery: 0.418803
+Thiothixene rediscovery: 0.456140
+Aripiprazole similarity: 0.592069
+Albuterol similarity: 0.714962
+Mestranol similarity: 0.627667
+C11H24: 0.677244
+C9H10N2O2PF2Cl: 0.732971
+Median molecules 1: 0.332236
+Median molecules 2: 0.349232
+Osimertinib MPO: 0.838829
+Fexofenadine MPO: 0.815488
+Total Score: 7.061/12 
+
+
+High Score: 1.000
+Comparison Score: 1.000
+HIDDEN NODES: 500
+DROP PROB: 0.2
+LEARNING RATE: 0.0002
+EPOCH: 150
